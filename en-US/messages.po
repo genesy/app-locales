@@ -13,6 +13,9 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+msgid "About"
+msgstr "About"
+
 msgid "Add item"
 msgstr "Add item"
 
@@ -21,6 +24,9 @@ msgstr "Apr"
 
 msgid "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
 msgstr "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
+
+msgid "Art"
+msgstr "Art"
 
 msgid "Aug"
 msgstr "Aug"
@@ -43,6 +49,9 @@ msgstr "Continue"
 msgid "Critters"
 msgstr "Critters"
 
+msgid "Daily Checklist"
+msgstr "Daily Checklist"
+
 msgid "Debug"
 msgstr "Debug"
 
@@ -55,8 +64,14 @@ msgstr "Default (no override)"
 msgid "Delete everything"
 msgstr "Delete everything"
 
+msgid "Details"
+msgstr "Details"
+
 msgid "Download failed"
 msgstr "Download failed"
+
+msgid "Edit List"
+msgstr "Edit List"
 
 msgid "Embedded build"
 msgstr "Embedded build"
@@ -70,11 +85,20 @@ msgstr "Favorites"
 msgid "Feb"
 msgstr "Feb"
 
+msgid "Fish"
+msgstr "Fish"
+
+msgid "Fossils"
+msgstr "Fossils"
+
 msgid "Grid"
 msgstr "Grid"
 
 msgid "Home"
 msgstr "Home"
+
+msgid "Insects"
+msgstr "Insects"
 
 msgid "Island Name"
 msgstr "Island Name"
@@ -183,6 +207,9 @@ msgstr "Same unlock, choose your price."
 
 msgid "Save"
 msgstr "Save"
+
+msgid "Sea Creatures"
+msgstr "Sea Creatures"
 
 msgid "Search"
 msgstr "Search"
