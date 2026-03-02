@@ -13,10 +13,25 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+msgid "{selectedCount} items selected"
+msgstr ""
+
+msgid "1 item selected"
+msgstr ""
+
 msgid "About"
 msgstr ""
 
 msgid "Add item"
+msgstr ""
+
+msgid "Add to catalogue when donating"
+msgstr ""
+
+msgid "App language"
+msgstr ""
+
+msgid "App updates"
 msgstr ""
 
 msgid "Apr"
@@ -31,10 +46,40 @@ msgstr ""
 msgid "Aug"
 msgstr ""
 
+msgid "Available version"
+msgstr ""
+
+msgid "Back to settings"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
 msgid "Calendar"
 msgstr ""
 
 msgid "Cancel"
+msgstr ""
+
+msgid "Catalog {selectedCount} Items"
+msgstr ""
+
+msgid "Catalog 1 Item"
+msgstr ""
+
+msgid "Cataloguing…"
+msgstr ""
+
+msgid "Check for updates"
+msgstr ""
+
+msgid "Check multiple variants"
+msgstr ""
+
+msgid "Checking for update…"
 msgstr ""
 
 msgid "Checklist name"
@@ -49,7 +94,16 @@ msgstr ""
 msgid "Critters"
 msgstr ""
 
+msgid "Current version"
+msgstr ""
+
 msgid "Daily Checklist"
+msgstr ""
+
+msgid "Danger zone"
+msgstr ""
+
+msgid "Data"
 msgstr ""
 
 msgid "Debug"
@@ -67,10 +121,25 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
+msgid "Done"
+msgstr ""
+
+msgid "Download error"
+msgstr ""
+
 msgid "Download failed"
 msgstr ""
 
+msgid "Download update"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
 msgid "Edit List"
+msgstr ""
+
+msgid "Edit localization"
 msgstr ""
 
 msgid "Embedded build"
@@ -94,7 +163,19 @@ msgstr ""
 msgid "Grid"
 msgstr ""
 
+msgid "Group item variants"
+msgstr ""
+
 msgid "Home"
+msgstr ""
+
+msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
+msgstr ""
+
+msgid "Import — confirm"
+msgstr ""
+
+msgid "Import from Catalog Scanner"
 msgstr ""
 
 msgid "Insects"
@@ -104,6 +185,15 @@ msgid "Island Name"
 msgstr ""
 
 msgid "Items"
+msgstr ""
+
+msgid "Items have been added to your catalog."
+msgstr ""
+
+msgid "Items list"
+msgstr ""
+
+msgid "Items not found"
 msgstr ""
 
 msgid "Jan"
@@ -116,6 +206,9 @@ msgid "Jul"
 msgstr ""
 
 msgid "Jun"
+msgstr ""
+
+msgid "Language / localization"
 msgstr ""
 
 msgid "Last warning"
@@ -139,10 +232,16 @@ msgstr ""
 msgid "May"
 msgstr ""
 
+msgid "Migrate data from old app"
+msgstr ""
+
 msgid "More"
 msgstr ""
 
 msgid "Museum"
+msgstr ""
+
+msgid "Museum & catalogue"
 msgstr ""
 
 msgid "Next events"
@@ -154,10 +253,16 @@ msgstr ""
 msgid "No island selected. Choose or create an island to edit your player and island info."
 msgstr ""
 
+msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
+msgstr ""
+
 msgid "No offerings available at the moment. Please try again later."
 msgstr ""
 
 msgid "Northern Hemisphere"
+msgstr ""
+
+msgid "Not found:"
 msgstr ""
 
 msgid "Nov"
@@ -187,13 +292,22 @@ msgstr ""
 msgid "Recipes"
 msgstr ""
 
+msgid "Reset app data"
+msgstr ""
+
 msgid "Reset app data?"
+msgstr ""
+
+msgid "Reset will delete all your app data. You will need to set up your island again."
 msgstr ""
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
 msgstr ""
 
 msgid "Restart failed"
+msgstr ""
+
+msgid "Restart to apply update"
 msgstr ""
 
 msgid "Restore purchases"
@@ -244,10 +358,25 @@ msgstr ""
 msgid "Thanks for your support! You have premium access."
 msgstr ""
 
+msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
+msgstr ""
+
 msgid "Tips"
 msgstr ""
 
+msgid "Total items:"
+msgstr ""
+
 msgid "Turnips"
+msgstr ""
+
+msgid "Uncheck multiple variants"
+msgstr ""
+
+msgid "Unchecked items with multiple variants:"
+msgstr ""
+
+msgid "Unique items (excluding variant duplicates):"
 msgstr ""
 
 msgid "Upcoming Events"
@@ -259,8 +388,20 @@ msgstr ""
 msgid "Update check failed"
 msgstr ""
 
+msgid "Update downloaded. Tap Restart to apply."
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
 msgid "View full calendar"
 msgstr ""
 
 msgid "Villagers"
+msgstr ""
+
+msgid "When on, donating an item to the museum also adds it to your Catalogued list."
+msgstr ""
+
+msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
 msgstr ""
