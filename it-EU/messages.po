@@ -13,6 +13,9 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+msgid " to scan your catalog."
+msgstr ""
+
 msgid "{selectedCount} items selected"
 msgstr ""
 
@@ -34,6 +37,9 @@ msgstr ""
 msgid "App updates"
 msgstr ""
 
+msgid "Applying backup…"
+msgstr ""
+
 msgid "Apr"
 msgstr ""
 
@@ -52,10 +58,28 @@ msgstr ""
 msgid "Back to settings"
 msgstr ""
 
+msgid "Back up to iCloud"
+msgstr ""
+
 msgid "Backup"
 msgstr ""
 
+msgid "Backup data has been applied to your island."
+msgstr ""
+
+msgid "Backup failed."
+msgstr ""
+
+msgid "Backup UUID (Firebase UID)"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
 msgid "Build"
+msgstr ""
+
+msgid "Buy price"
 msgstr ""
 
 msgid "Calendar"
@@ -88,7 +112,19 @@ msgstr ""
 msgid "Choose a plan to support the app."
 msgstr ""
 
+msgid "Cloud storage path error. Try again."
+msgstr ""
+
 msgid "Continue"
+msgstr ""
+
+msgid "Could not get Google access token. Try signing out and back in."
+msgstr ""
+
+msgid "Could not write backup to Google Drive."
+msgstr ""
+
+msgid "Could not write backup to iCloud."
 msgstr ""
 
 msgid "Critters"
@@ -106,10 +142,19 @@ msgstr ""
 msgid "Data"
 msgstr ""
 
+msgid "Database not ready"
+msgstr ""
+
+msgid "Database not ready."
+msgstr ""
+
 msgid "Debug"
 msgstr ""
 
 msgid "Dec"
+msgstr ""
+
+msgid "Decreasing"
 msgstr ""
 
 msgid "Default (no override)"
@@ -136,6 +181,9 @@ msgstr ""
 msgid "Downloading…"
 msgstr ""
 
+msgid "e.g. 100"
+msgstr ""
+
 msgid "Edit List"
 msgstr ""
 
@@ -143,6 +191,9 @@ msgid "Edit localization"
 msgstr ""
 
 msgid "Embedded build"
+msgstr ""
+
+msgid "Enter a backup UUID"
 msgstr ""
 
 msgid "Failed to load events"
@@ -154,10 +205,40 @@ msgstr ""
 msgid "Feb"
 msgstr ""
 
+msgid "Fetching backup…"
+msgstr ""
+
+msgid "Find items"
+msgstr ""
+
+msgid "Finding items…"
+msgstr ""
+
+msgid "First time buyer?"
+msgstr ""
+
 msgid "Fish"
 msgstr ""
 
+msgid "Fluctuating"
+msgstr ""
+
 msgid "Fossils"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Go to "
+msgstr ""
+
+msgid "Google Drive access denied. Try signing out and back in."
+msgstr ""
+
+msgid "Google Play Services are not available or outdated."
 msgstr ""
 
 msgid "Grid"
@@ -166,16 +247,52 @@ msgstr ""
 msgid "Group item variants"
 msgstr ""
 
+msgid "Hobby"
+msgstr ""
+
 msgid "Home"
+msgstr ""
+
+msgid "iCloud"
+msgstr ""
+
+msgid "iCloud is not available. Sign in to iCloud in Settings."
+msgstr ""
+
+msgid "iCloud sign-in required. Check Settings."
+msgstr ""
+
+msgid "Icon URL"
 msgstr ""
 
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr ""
 
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
 msgid "Import — confirm"
 msgstr ""
 
+msgid "Import backup"
+msgstr ""
+
+msgid "Import backup (dev)"
+msgstr ""
+
+msgid "Import complete"
+msgstr ""
+
+msgid "Import failed"
+msgstr ""
+
 msgid "Import from Catalog Scanner"
+msgstr ""
+
+msgid "Importing…"
 msgstr ""
 
 msgid "Insects"
@@ -211,10 +328,22 @@ msgstr ""
 msgid "Language / localization"
 msgstr ""
 
+msgid "Large spike"
+msgstr ""
+
+msgid "Last backed up"
+msgstr ""
+
+msgid "Last backed up to Google Cloud"
+msgstr ""
+
 msgid "Last warning"
 msgstr ""
 
 msgid "Less"
+msgstr ""
+
+msgid "lines"
 msgstr ""
 
 msgid "List"
@@ -223,7 +352,13 @@ msgstr ""
 msgid "Lists"
 msgstr ""
 
+msgid "Loading details…"
+msgstr ""
+
 msgid "Loading…"
+msgstr ""
+
+msgid "Make sure your Switch and this app use the same language/localization."
 msgstr ""
 
 msgid "Mar"
@@ -233,6 +368,9 @@ msgid "May"
 msgstr ""
 
 msgid "Migrate data from old app"
+msgstr ""
+
+msgid "Mon"
 msgstr ""
 
 msgid "More"
@@ -245,6 +383,15 @@ msgid "Museum & catalogue"
 msgstr ""
 
 msgid "Next events"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No backup found in Google Drive."
+msgstr ""
+
+msgid "No backup found in iCloud."
 msgstr ""
 
 msgid "No events this week"
@@ -274,19 +421,52 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
+msgid "Open Turnip Prophet"
+msgstr ""
+
 msgid "Override which channel to fetch updates from:"
+msgstr ""
+
+msgid "Parsing backup…"
+msgstr ""
+
+msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
+msgstr ""
+
+msgid "Paste at least one item name (one per line)."
+msgstr ""
+
+msgid "Paste from clipboard"
+msgstr ""
+
+msgid "paste items here"
+msgstr ""
+
+msgid "Personality"
 msgstr ""
 
 msgid "Player Name"
 msgstr ""
 
+msgid "Preferred colors"
+msgstr ""
+
+msgid "Preferred style"
+msgstr ""
+
 msgid "Premium"
+msgstr ""
+
+msgid "Previous week's pattern"
 msgstr ""
 
 msgid "Profile"
 msgstr ""
 
 msgid "Reactions"
+msgstr ""
+
+msgid "Recipe"
 msgstr ""
 
 msgid "Recipes"
@@ -304,19 +484,49 @@ msgstr ""
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
 msgstr ""
 
+msgid "Resolving custom lists…"
+msgstr ""
+
+msgid "Resolving lists…"
+msgstr ""
+
+msgid "Resolving museum & villagers…"
+msgstr ""
+
 msgid "Restart failed"
 msgstr ""
 
 msgid "Restart to apply update"
 msgstr ""
 
+msgid "Restore"
+msgstr ""
+
+msgid "Restore backup"
+msgstr ""
+
+msgid "Restore failed."
+msgstr ""
+
+msgid "Restore from Google Cloud"
+msgstr ""
+
+msgid "Restore from iCloud"
+msgstr ""
+
 msgid "Restore purchases"
+msgstr ""
+
+msgid "Restore will replace your current island data. Continue?"
 msgstr ""
 
 msgid "Retry"
 msgstr ""
 
 msgid "Same unlock, choose your price."
+msgstr ""
+
+msgid "Sat"
 msgstr ""
 
 msgid "Save"
@@ -337,7 +547,37 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
+msgid "Sign in with Google"
+msgstr ""
+
+msgid "Sign in with Google to back up and restore your island data."
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Sign out failed."
+msgstr ""
+
+msgid "Sign-in could not start. Try again."
+msgstr ""
+
+msgid "Sign-in failed."
+msgstr ""
+
+msgid "Signed in"
+msgstr ""
+
+msgid "Small spike"
+msgstr ""
+
+msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr ""
+
 msgid "Southern Hemisphere"
+msgstr ""
+
+msgid "Species"
 msgstr ""
 
 msgid "Subscriptions"
@@ -361,10 +601,22 @@ msgstr ""
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
 msgstr ""
 
+msgid "this website"
+msgstr ""
+
+msgid "This week's prices"
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
 msgid "Tips"
 msgstr ""
 
 msgid "Total items:"
+msgstr ""
+
+msgid "Tue"
 msgstr ""
 
 msgid "Turnips"
@@ -377,6 +629,9 @@ msgid "Unchecked items with multiple variants:"
 msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
+msgstr ""
+
+msgid "Unknown"
 msgstr ""
 
 msgid "Upcoming Events"
@@ -400,8 +655,17 @@ msgstr ""
 msgid "Villagers"
 msgstr ""
 
+msgid "Wed"
+msgstr ""
+
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
 msgstr ""
 
 msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Your Island's turnip Info"
 msgstr ""
