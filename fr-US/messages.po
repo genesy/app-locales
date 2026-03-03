@@ -25,10 +25,19 @@ msgstr ""
 msgid "About"
 msgstr ""
 
+msgid "Accessories"
+msgstr ""
+
 msgid "Add item"
 msgstr ""
 
 msgid "Add to catalogue when donating"
+msgstr ""
+
+msgid "Any except rain"
+msgstr ""
+
+msgid "Any weather"
 msgstr ""
 
 msgid "App language"
@@ -47,6 +56,9 @@ msgid "Are you sure? All your data will be permanently deleted. You will need to
 msgstr ""
 
 msgid "Art"
+msgstr ""
+
+msgid "Artwork"
 msgstr ""
 
 msgid "Aug"
@@ -73,7 +85,13 @@ msgstr ""
 msgid "Backup UUID (Firebase UID)"
 msgstr ""
 
+msgid "Bags"
+msgstr ""
+
 msgid "Birthday"
+msgstr ""
+
+msgid "Bottoms"
 msgstr ""
 
 msgid "Build"
@@ -95,6 +113,9 @@ msgid "Catalog 1 Item"
 msgstr ""
 
 msgid "Cataloguing…"
+msgstr ""
+
+msgid "Ceiling Decor"
 msgstr ""
 
 msgid "Check for updates"
@@ -166,6 +187,12 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
+msgid "Disguised on shoreline"
+msgstr ""
+
+msgid "Disguised under trees"
+msgstr ""
+
 msgid "Done"
 msgstr ""
 
@@ -181,7 +208,13 @@ msgstr ""
 msgid "Downloading…"
 msgstr ""
 
+msgid "Dress-Up"
+msgstr ""
+
 msgid "e.g. 100"
+msgstr ""
+
+msgid "Easy"
 msgstr ""
 
 msgid "Edit List"
@@ -199,10 +232,16 @@ msgstr ""
 msgid "Failed to load events"
 msgstr ""
 
+msgid "Fashion"
+msgstr ""
+
 msgid "Favorites"
 msgstr ""
 
 msgid "Feb"
+msgstr ""
+
+msgid "Fencing"
 msgstr ""
 
 msgid "Fetching backup…"
@@ -220,13 +259,40 @@ msgstr ""
 msgid "Fish"
 msgstr ""
 
+msgid "Floors"
+msgstr ""
+
 msgid "Fluctuating"
+msgstr ""
+
+msgid "Flying"
+msgstr ""
+
+msgid "Flying near blue/purple/black flowers"
+msgstr ""
+
+msgid "Flying near flowers"
+msgstr ""
+
+msgid "Flying near light sources"
+msgstr ""
+
+msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
+msgstr ""
+
+msgid "Flying near water"
 msgstr ""
 
 msgid "Fossils"
 msgstr ""
 
 msgid "Fri"
+msgstr ""
+
+msgid "From hitting rocks"
+msgstr ""
+
+msgid "Furnitures"
 msgstr ""
 
 msgid "Gender"
@@ -247,10 +313,22 @@ msgstr ""
 msgid "Group item variants"
 msgstr ""
 
+msgid "Gyroid"
+msgstr ""
+
+msgid "Hard"
+msgstr ""
+
+msgid "Headwear"
+msgstr ""
+
 msgid "Hobby"
 msgstr ""
 
 msgid "Home"
+msgstr ""
+
+msgid "Housewares"
 msgstr ""
 
 msgid "iCloud"
@@ -298,6 +376,9 @@ msgstr ""
 msgid "Insects"
 msgstr ""
 
+msgid "Interior Structures"
+msgstr ""
+
 msgid "Island Name"
 msgstr ""
 
@@ -328,6 +409,9 @@ msgstr ""
 msgid "Language / localization"
 msgstr ""
 
+msgid "Large"
+msgstr ""
+
 msgid "Large spike"
 msgstr ""
 
@@ -338,6 +422,9 @@ msgid "Last backed up to Google Cloud"
 msgstr ""
 
 msgid "Last warning"
+msgstr ""
+
+msgid "Leaving in the next hour"
 msgstr ""
 
 msgid "Less"
@@ -358,6 +445,9 @@ msgstr ""
 msgid "Loading…"
 msgstr ""
 
+msgid "Long"
+msgstr ""
+
 msgid "Make sure your Switch and this app use the same language/localization."
 msgstr ""
 
@@ -367,7 +457,13 @@ msgstr ""
 msgid "May"
 msgstr ""
 
+msgid "Medium"
+msgstr ""
+
 msgid "Migrate data from old app"
+msgstr ""
+
+msgid "Miscellaneous"
 msgstr ""
 
 msgid "Mon"
@@ -380,6 +476,9 @@ msgid "Museum"
 msgstr ""
 
 msgid "Museum & catalogue"
+msgstr ""
+
+msgid "Music"
 msgstr ""
 
 msgid "Next events"
@@ -421,7 +520,46 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
+msgid "On beach rocks"
+msgstr ""
+
+msgid "On flowers"
+msgstr ""
+
+msgid "On hardwood/cedar trees"
+msgstr ""
+
+msgid "On palm trees"
+msgstr ""
+
+msgid "On rivers/ponds"
+msgstr ""
+
+msgid "On rocks/bushes"
+msgstr ""
+
+msgid "On rotten turnips or candy"
+msgstr ""
+
+msgid "On the ground"
+msgstr ""
+
+msgid "On tree stumps"
+msgstr ""
+
+msgid "On trees (any kind)"
+msgstr ""
+
+msgid "On villagers"
+msgstr ""
+
+msgid "On white flowers"
+msgstr ""
+
 msgid "Open Turnip Prophet"
+msgstr ""
+
+msgid "Other"
 msgstr ""
 
 msgid "Override which channel to fetch updates from:"
@@ -445,7 +583,19 @@ msgstr ""
 msgid "Personality"
 msgstr ""
 
+msgid "Photos"
+msgstr ""
+
+msgid "Pier"
+msgstr ""
+
 msgid "Player Name"
+msgstr ""
+
+msgid "Pond"
+msgstr ""
+
+msgid "Posters"
 msgstr ""
 
 msgid "Preferred colors"
@@ -461,6 +611,12 @@ msgid "Previous week's pattern"
 msgstr ""
 
 msgid "Profile"
+msgstr ""
+
+msgid "Pushing snowballs"
+msgstr ""
+
+msgid "Rain only"
 msgstr ""
 
 msgid "Reactions"
@@ -523,6 +679,18 @@ msgstr ""
 msgid "Retry"
 msgstr ""
 
+msgid "River"
+msgstr ""
+
+msgid "River (clifftop)"
+msgstr ""
+
+msgid "River (mouth)"
+msgstr ""
+
+msgid "Rugs"
+msgstr ""
+
 msgid "Same unlock, choose your price."
 msgstr ""
 
@@ -530,6 +698,12 @@ msgid "Sat"
 msgstr ""
 
 msgid "Save"
+msgstr ""
+
+msgid "Sea"
+msgstr ""
+
+msgid "Sea (rainy days)"
 msgstr ""
 
 msgid "Sea Creatures"
@@ -545,6 +719,15 @@ msgid "Sep"
 msgstr ""
 
 msgid "Settings"
+msgstr ""
+
+msgid "Shaking trees"
+msgstr ""
+
+msgid "Shaking trees (hardwood or cedar only)"
+msgstr ""
+
+msgid "Shoes"
 msgstr ""
 
 msgid "Sign in with Google"
@@ -568,7 +751,13 @@ msgstr ""
 msgid "Signed in"
 msgstr ""
 
+msgid "Small"
+msgstr ""
+
 msgid "Small spike"
+msgstr ""
+
+msgid "Socks"
 msgstr ""
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
@@ -613,6 +802,12 @@ msgstr ""
 msgid "Tips"
 msgstr ""
 
+msgid "Tools/Goods"
+msgstr ""
+
+msgid "Tops"
+msgstr ""
+
 msgid "Total items:"
 msgstr ""
 
@@ -626,6 +821,9 @@ msgid "Uncheck multiple variants"
 msgstr ""
 
 msgid "Unchecked items with multiple variants:"
+msgstr ""
+
+msgid "Underground (dig where noise is loudest)"
 msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
@@ -649,10 +847,25 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
+msgid "Very Easy"
+msgstr ""
+
+msgid "Very hard"
+msgstr ""
+
+msgid "Very Hard"
+msgstr ""
+
 msgid "View full calendar"
 msgstr ""
 
 msgid "Villagers"
+msgstr ""
+
+msgid "Wall-mounted"
+msgstr ""
+
+msgid "Wallpaper"
 msgstr ""
 
 msgid "Wed"
@@ -662,6 +875,18 @@ msgid "When on, donating an item to the museum also adds it to your Catalogued l
 msgstr ""
 
 msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+msgstr ""
+
+msgid "X-Large"
+msgstr ""
+
+msgid "X-Large w/Fin"
+msgstr ""
+
+msgid "X-Small"
+msgstr ""
+
+msgid "XX-Large"
 msgstr ""
 
 msgid "Yes"
