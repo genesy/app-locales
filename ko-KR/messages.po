@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr ""
 
+msgid "(no legacy data or loading…)"
+msgstr ""
+
 msgid "{selectedCount} items selected"
 msgstr ""
 
@@ -34,11 +37,11 @@ msgstr ""
 msgid "Add to catalogue when donating"
 msgstr ""
 
-msgid "Any except rain"
-msgstr ""
+#~ msgid "Any except rain"
+#~ msgstr ""
 
-msgid "Any weather"
-msgstr ""
+#~ msgid "Any weather"
+#~ msgstr ""
 
 msgid "App language"
 msgstr ""
@@ -139,6 +142,9 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
+msgid "Copy"
+msgstr ""
+
 msgid "Could not get Google access token. Try signing out and back in."
 msgstr ""
 
@@ -187,11 +193,11 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
-msgid "Disguised on shoreline"
-msgstr ""
+#~ msgid "Disguised on shoreline"
+#~ msgstr ""
 
-msgid "Disguised under trees"
-msgstr ""
+#~ msgid "Disguised under trees"
+#~ msgstr ""
 
 msgid "Done"
 msgstr ""
@@ -214,8 +220,8 @@ msgstr ""
 msgid "e.g. 100"
 msgstr ""
 
-msgid "Easy"
-msgstr ""
+#~ msgid "Easy"
+#~ msgstr ""
 
 msgid "Edit List"
 msgstr ""
@@ -265,23 +271,23 @@ msgstr ""
 msgid "Fluctuating"
 msgstr ""
 
-msgid "Flying"
-msgstr ""
+#~ msgid "Flying"
+#~ msgstr ""
 
-msgid "Flying near blue/purple/black flowers"
-msgstr ""
+#~ msgid "Flying near blue/purple/black flowers"
+#~ msgstr ""
 
-msgid "Flying near flowers"
-msgstr ""
+#~ msgid "Flying near flowers"
+#~ msgstr ""
 
-msgid "Flying near light sources"
-msgstr ""
+#~ msgid "Flying near light sources"
+#~ msgstr ""
 
-msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
-msgstr ""
+#~ msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
+#~ msgstr ""
 
-msgid "Flying near water"
-msgstr ""
+#~ msgid "Flying near water"
+#~ msgstr ""
 
 msgid "Fossils"
 msgstr ""
@@ -289,8 +295,8 @@ msgstr ""
 msgid "Fri"
 msgstr ""
 
-msgid "From hitting rocks"
-msgstr ""
+#~ msgid "From hitting rocks"
+#~ msgstr ""
 
 msgid "Furnitures"
 msgstr ""
@@ -316,8 +322,8 @@ msgstr ""
 msgid "Gyroid"
 msgstr ""
 
-msgid "Hard"
-msgstr ""
+#~ msgid "Hard"
+#~ msgstr ""
 
 msgid "Headwear"
 msgstr ""
@@ -409,8 +415,8 @@ msgstr ""
 msgid "Language / localization"
 msgstr ""
 
-msgid "Large"
-msgstr ""
+#~ msgid "Large"
+#~ msgstr ""
 
 msgid "Large spike"
 msgstr ""
@@ -445,8 +451,8 @@ msgstr ""
 msgid "Loading…"
 msgstr ""
 
-msgid "Long"
-msgstr ""
+#~ msgid "Long"
+#~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
 msgstr ""
@@ -457,10 +463,25 @@ msgstr ""
 msgid "May"
 msgstr ""
 
-msgid "Medium"
-msgstr ""
+#~ msgid "Medium"
+#~ msgstr ""
+
+#~ msgid "Migrate"
+#~ msgstr ""
 
 msgid "Migrate data from old app"
+msgstr ""
+
+msgid "Migrate from previous app"
+msgstr ""
+
+msgid "Migrate my data"
+msgstr ""
+
+msgid "Migrating…"
+msgstr ""
+
+msgid "Migration failed or no data to migrate."
 msgstr ""
 
 msgid "Miscellaneous"
@@ -520,41 +541,44 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
-msgid "On beach rocks"
+msgid "Old state we're migrating from:"
 msgstr ""
 
-msgid "On flowers"
-msgstr ""
+#~ msgid "On beach rocks"
+#~ msgstr ""
 
-msgid "On hardwood/cedar trees"
-msgstr ""
+#~ msgid "On flowers"
+#~ msgstr ""
 
-msgid "On palm trees"
-msgstr ""
+#~ msgid "On hardwood/cedar trees"
+#~ msgstr ""
 
-msgid "On rivers/ponds"
-msgstr ""
+#~ msgid "On palm trees"
+#~ msgstr ""
 
-msgid "On rocks/bushes"
-msgstr ""
+#~ msgid "On rivers/ponds"
+#~ msgstr ""
 
-msgid "On rotten turnips or candy"
-msgstr ""
+#~ msgid "On rocks/bushes"
+#~ msgstr ""
 
-msgid "On the ground"
-msgstr ""
+#~ msgid "On rotten turnips or candy"
+#~ msgstr ""
 
-msgid "On tree stumps"
-msgstr ""
+#~ msgid "On the ground"
+#~ msgstr ""
 
-msgid "On trees (any kind)"
-msgstr ""
+#~ msgid "On tree stumps"
+#~ msgstr ""
 
-msgid "On villagers"
-msgstr ""
+#~ msgid "On trees (any kind)"
+#~ msgstr ""
 
-msgid "On white flowers"
-msgstr ""
+#~ msgid "On villagers"
+#~ msgstr ""
+
+#~ msgid "On white flowers"
+#~ msgstr ""
 
 msgid "Open Turnip Prophet"
 msgstr ""
@@ -565,8 +589,8 @@ msgstr ""
 msgid "Override which channel to fetch updates from:"
 msgstr ""
 
-msgid "Parsing backup…"
-msgstr ""
+#~ msgid "Parsing backup…"
+#~ msgstr ""
 
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
 msgstr ""
@@ -586,14 +610,14 @@ msgstr ""
 msgid "Photos"
 msgstr ""
 
-msgid "Pier"
-msgstr ""
+#~ msgid "Pier"
+#~ msgstr ""
 
 msgid "Player Name"
 msgstr ""
 
-msgid "Pond"
-msgstr ""
+#~ msgid "Pond"
+#~ msgstr ""
 
 msgid "Posters"
 msgstr ""
@@ -613,11 +637,11 @@ msgstr ""
 msgid "Profile"
 msgstr ""
 
-msgid "Pushing snowballs"
-msgstr ""
+#~ msgid "Pushing snowballs"
+#~ msgstr ""
 
-msgid "Rain only"
-msgstr ""
+#~ msgid "Rain only"
+#~ msgstr ""
 
 msgid "Reactions"
 msgstr ""
@@ -634,20 +658,23 @@ msgstr ""
 msgid "Reset app data?"
 msgstr ""
 
+msgid "Reset migration done (dev)"
+msgstr ""
+
 msgid "Reset will delete all your app data. You will need to set up your island again."
 msgstr ""
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
 msgstr ""
 
-msgid "Resolving custom lists…"
-msgstr ""
+#~ msgid "Resolving custom lists…"
+#~ msgstr ""
 
-msgid "Resolving lists…"
-msgstr ""
+#~ msgid "Resolving lists…"
+#~ msgstr ""
 
-msgid "Resolving museum & villagers…"
-msgstr ""
+#~ msgid "Resolving museum & villagers…"
+#~ msgstr ""
 
 msgid "Restart failed"
 msgstr ""
@@ -679,14 +706,14 @@ msgstr ""
 msgid "Retry"
 msgstr ""
 
-msgid "River"
-msgstr ""
+#~ msgid "River"
+#~ msgstr ""
 
-msgid "River (clifftop)"
-msgstr ""
+#~ msgid "River (clifftop)"
+#~ msgstr ""
 
-msgid "River (mouth)"
-msgstr ""
+#~ msgid "River (mouth)"
+#~ msgstr ""
 
 msgid "Rugs"
 msgstr ""
@@ -700,11 +727,11 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-msgid "Sea"
-msgstr ""
+#~ msgid "Sea"
+#~ msgstr ""
 
-msgid "Sea (rainy days)"
-msgstr ""
+#~ msgid "Sea (rainy days)"
+#~ msgstr ""
 
 msgid "Sea Creatures"
 msgstr ""
@@ -721,11 +748,11 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-msgid "Shaking trees"
-msgstr ""
+#~ msgid "Shaking trees"
+#~ msgstr ""
 
-msgid "Shaking trees (hardwood or cedar only)"
-msgstr ""
+#~ msgid "Shaking trees (hardwood or cedar only)"
+#~ msgstr ""
 
 msgid "Shoes"
 msgstr ""
@@ -751,8 +778,8 @@ msgstr ""
 msgid "Signed in"
 msgstr ""
 
-msgid "Small"
-msgstr ""
+#~ msgid "Small"
+#~ msgstr ""
 
 msgid "Small spike"
 msgstr ""
@@ -767,6 +794,9 @@ msgid "Southern Hemisphere"
 msgstr ""
 
 msgid "Species"
+msgstr ""
+
+msgid "Start fresh"
 msgstr ""
 
 msgid "Subscriptions"
@@ -823,8 +853,8 @@ msgstr ""
 msgid "Unchecked items with multiple variants:"
 msgstr ""
 
-msgid "Underground (dig where noise is loudest)"
-msgstr ""
+#~ msgid "Underground (dig where noise is loudest)"
+#~ msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
 msgstr ""
@@ -847,14 +877,14 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-msgid "Very Easy"
-msgstr ""
+#~ msgid "Very Easy"
+#~ msgstr ""
 
-msgid "Very hard"
-msgstr ""
+#~ msgid "Very hard"
+#~ msgstr ""
 
-msgid "Very Hard"
-msgstr ""
+#~ msgid "Very Hard"
+#~ msgstr ""
 
 msgid "View full calendar"
 msgstr ""
@@ -868,6 +898,12 @@ msgstr ""
 msgid "Wallpaper"
 msgstr ""
 
+msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
+#~ msgstr ""
+
 msgid "Wed"
 msgstr ""
 
@@ -877,17 +913,17 @@ msgstr ""
 msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
 msgstr ""
 
-msgid "X-Large"
-msgstr ""
+#~ msgid "X-Large"
+#~ msgstr ""
 
-msgid "X-Large w/Fin"
-msgstr ""
+#~ msgid "X-Large w/Fin"
+#~ msgstr ""
 
-msgid "X-Small"
-msgstr ""
+#~ msgid "X-Small"
+#~ msgstr ""
 
-msgid "XX-Large"
-msgstr ""
+#~ msgid "XX-Large"
+#~ msgstr ""
 
 msgid "Yes"
 msgstr ""
