@@ -14,27 +14,51 @@ msgstr ""
 "Plural-Forms: \n"
 
 msgid " to scan your catalog."
+msgstr " 카탈로그를 스캔하세요."
+
+msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
-msgid "(no legacy data or loading…)"
-msgstr ""
+#~ msgid "(no legacy data or loading…)"
+#~ msgstr ""
 
 msgid "{selectedCount} items selected"
-msgstr ""
+msgstr "{selectedCount}개 아이템 선택됨"
 
 msgid "1 item selected"
-msgstr ""
+msgstr "아이템 1개 선택됨"
 
 msgid "About"
+msgstr "앱 정보"
+
+msgid "About the app"
 msgstr ""
 
 msgid "Accessories"
+msgstr "액세서리"
+
+msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
+msgstr ""
+
+msgid "Add"
 msgstr ""
 
 msgid "Add item"
+msgstr "아이템 추가"
+
+msgid "Add note"
 msgstr ""
 
 msgid "Add to catalogue when donating"
+msgstr "기증 시 카탈로그에 추가"
+
+msgid "Ads hidden until"
+msgstr ""
+
+msgid "Allow more than 10 villagers"
+msgstr ""
+
+msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
 #~ msgid "Any except rain"
@@ -44,154 +68,196 @@ msgstr ""
 #~ msgstr ""
 
 msgid "App language"
-msgstr ""
+msgstr "앱 언어"
 
 msgid "App updates"
-msgstr ""
+msgstr "앱 업데이트"
 
 msgid "Applying backup…"
-msgstr ""
+msgstr "백업 적용 중…"
 
 msgid "Apr"
-msgstr ""
+msgstr "4월"
 
 msgid "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
-msgstr ""
+msgstr "정말로 삭제하시겠습니까? 모든 데이터가 영구적으로 삭제됩니다. 섬을 다시 설정해야 합니다."
 
 msgid "Art"
-msgstr ""
+msgstr "미술품"
 
 msgid "Artwork"
+msgstr "미술품"
+
+msgid "Attribution"
 msgstr ""
 
 msgid "Aug"
+msgstr "8월"
+
+msgid "Aurora borealis"
 msgstr ""
 
 msgid "Available version"
-msgstr ""
+msgstr "사용 가능한 버전"
 
 msgid "Back to settings"
-msgstr ""
+msgstr "설정으로 돌아가기"
 
 msgid "Back up to iCloud"
-msgstr ""
+msgstr "iCloud에 백업"
 
 msgid "Backup"
-msgstr ""
+msgstr "백업"
 
 msgid "Backup data has been applied to your island."
-msgstr ""
+msgstr "백업 데이터가 섬에 적용되었습니다."
 
 msgid "Backup failed."
-msgstr ""
+msgstr "백업에 실패했습니다."
 
 msgid "Backup UUID (Firebase UID)"
-msgstr ""
+msgstr "백업 UUID (Firebase UID)"
 
 msgid "Bags"
-msgstr ""
+msgstr "가방"
 
 msgid "Birthday"
-msgstr ""
+msgstr "생일"
 
 msgid "Bottoms"
-msgstr ""
+msgstr "하의"
 
 msgid "Build"
+msgstr "Build"
+
+msgid "Buy"
 msgstr ""
 
 msgid "Buy price"
-msgstr ""
+msgstr "구매 가격"
 
 msgid "Calendar"
-msgstr ""
+msgstr "캘린더"
 
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgid "Catalog {selectedCount} Items"
-msgstr ""
+msgstr "{selectedCount}개 아이템 카탈로그 등록"
 
 msgid "Catalog 1 Item"
-msgstr ""
+msgstr "아이템 1개 카탈로그 등록"
 
 msgid "Cataloguing…"
-msgstr ""
+msgstr "카탈로그 등록 중…"
 
 msgid "Ceiling Decor"
-msgstr ""
+msgstr "천장 가구"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "업데이트 확인"
 
 msgid "Check multiple variants"
-msgstr ""
+msgstr "여러 변형 선택"
 
 msgid "Checking for update…"
-msgstr ""
+msgstr "업데이트 확인 중…"
 
 msgid "Checklist name"
-msgstr ""
+msgstr "체크리스트 이름"
 
 msgid "Choose a plan to support the app."
-msgstr ""
+msgstr "앱을 지원할 플랜을 선택하세요."
 
 msgid "Cloud storage path error. Try again."
+msgstr "클라우드 저장소 경로 오류. 다시 시도하세요."
+
+msgid "Contact"
 msgstr ""
 
 msgid "Continue"
+msgstr "계속"
+
+msgid "Copied"
 msgstr ""
 
-msgid "Copy"
+#~ msgid "Copy"
+#~ msgstr ""
+
+msgid "Copy failed"
+msgstr ""
+
+msgid "Copy list"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not copy to clipboard."
 msgstr ""
 
 msgid "Could not get Google access token. Try signing out and back in."
-msgstr ""
+msgstr "Google 액세스 토큰을 가져올 수 없습니다. 로그아웃 후 다시 로그인하세요."
 
 msgid "Could not write backup to Google Drive."
-msgstr ""
+msgstr "Google Drive에 백업을 쓸 수 없습니다."
 
 msgid "Could not write backup to iCloud."
-msgstr ""
+msgstr "iCloud에 백업을 쓸 수 없습니다."
 
 msgid "Critters"
-msgstr ""
+msgstr "생물"
 
 msgid "Current version"
-msgstr ""
+msgstr "현재 버전"
 
 msgid "Daily Checklist"
+msgstr "일일 체크리스트"
+
+msgid "Daily note"
 msgstr ""
 
 msgid "Danger zone"
-msgstr ""
+msgstr "위험 구역"
 
 msgid "Data"
+msgstr "데이터"
+
+msgid "Data on this app is taken from the community"
 msgstr ""
 
 msgid "Database not ready"
-msgstr ""
+msgstr "데이터베이스 준비되지 않음"
 
 msgid "Database not ready."
-msgstr ""
+msgstr "데이터베이스 준비되지 않음."
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Dec"
-msgstr ""
+msgstr "12월"
 
 msgid "Decreasing"
-msgstr ""
+msgstr "감소"
 
 msgid "Default (no override)"
+msgstr "기본값 (재정의 없음)"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
+msgstr "모두 삭제"
+
+msgid "Delete list?"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "상세 정보"
 
 #~ msgid "Disguised on shoreline"
 #~ msgstr ""
@@ -200,76 +266,97 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Done"
+msgstr "완료"
+
+msgid "Double rainbow at {time}"
 msgstr ""
 
 msgid "Download error"
-msgstr ""
+msgstr "다운로드 오류"
 
 msgid "Download failed"
-msgstr ""
+msgstr "다운로드 실패"
 
 msgid "Download update"
-msgstr ""
+msgstr "업데이트 다운로드"
 
 msgid "Downloading…"
-msgstr ""
+msgstr "다운로드 중…"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "패션"
 
 msgid "e.g. 100"
+msgstr "예: 100"
+
+msgid "e.g. 1234567890"
 msgstr ""
 
 #~ msgid "Easy"
 #~ msgstr ""
 
-msgid "Edit List"
+msgid "Edit"
 msgstr ""
+
+msgid "Edit List"
+msgstr "목록 편집"
 
 msgid "Edit localization"
-msgstr ""
+msgstr "현지화 편집"
 
 msgid "Embedded build"
-msgstr ""
+msgstr "내장 빌드"
 
 msgid "Enter a backup UUID"
+msgstr "백업 UUID 입력"
+
+msgid "Error"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Exchange Currency"
+msgstr ""
+
+msgid "Exchange Price"
 msgstr ""
 
 msgid "Failed to load events"
-msgstr ""
+msgstr "이벤트 로드 실패"
 
 msgid "Fashion"
-msgstr ""
+msgstr "패션"
 
 msgid "Favorites"
-msgstr ""
+msgstr "즐겨찾기"
 
 msgid "Feb"
-msgstr ""
+msgstr "2월"
 
 msgid "Fencing"
-msgstr ""
+msgstr "울타리"
 
 msgid "Fetching backup…"
-msgstr ""
+msgstr "백업 가져오는 중…"
 
 msgid "Find items"
-msgstr ""
+msgstr "아이템 찾기"
 
 msgid "Finding items…"
-msgstr ""
+msgstr "아이템 찾는 중…"
 
 msgid "First time buyer?"
-msgstr ""
+msgstr "처음 구매하시나요?"
 
 msgid "Fish"
-msgstr ""
+msgstr "물고기"
 
 msgid "Floors"
-msgstr ""
+msgstr "바닥"
 
 msgid "Fluctuating"
-msgstr ""
+msgstr "등락 반복"
 
 #~ msgid "Flying"
 #~ msgstr ""
@@ -290,259 +377,304 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Fossils"
-msgstr ""
+msgstr "화석"
 
 msgid "Fri"
-msgstr ""
+msgstr "금"
 
 #~ msgid "From hitting rocks"
 #~ msgstr ""
 
 msgid "Furnitures"
+msgstr "가구"
+
+msgid "Game time"
 msgstr ""
 
 msgid "Gender"
+msgstr "성별"
+
+msgid "Go back"
 msgstr ""
 
 msgid "Go to "
-msgstr ""
+msgstr "이동: "
 
 msgid "Google Drive access denied. Try signing out and back in."
-msgstr ""
+msgstr "Google Drive 접근이 거부되었습니다. 로그아웃 후 다시 로그인하세요."
 
 msgid "Google Play Services are not available or outdated."
-msgstr ""
+msgstr "Google Play 서비스를 사용할 수 없거나 구버전입니다."
 
 msgid "Grid"
-msgstr ""
+msgstr "격자"
 
-msgid "Group item variants"
-msgstr ""
+#~ msgid "Group item variants"
+#~ msgstr "아이템 변형 묶기"
 
 msgid "Gyroid"
-msgstr ""
+msgstr "하니와"
 
 #~ msgid "Hard"
 #~ msgstr ""
 
 msgid "Headwear"
-msgstr ""
+msgstr "모자"
 
 msgid "Hobby"
-msgstr ""
+msgstr "취미"
 
 msgid "Home"
-msgstr ""
+msgstr "홈"
 
 msgid "Housewares"
-msgstr ""
+msgstr "가구"
 
 msgid "iCloud"
-msgstr ""
+msgstr "iCloud"
 
 msgid "iCloud is not available. Sign in to iCloud in Settings."
-msgstr ""
+msgstr "iCloud를 사용할 수 없습니다. 설정에서 iCloud에 로그인하세요."
 
 msgid "iCloud sign-in required. Check Settings."
-msgstr ""
+msgstr "iCloud 로그인이 필요합니다. 설정을 확인하세요."
 
 msgid "Icon URL"
-msgstr ""
+msgstr "아이콘 URL"
 
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
-msgstr ""
+msgstr "아이템 찾기를 실행했는데 아무것도 나타나지 않으면 일치하는 항목을 찾지 못한 것입니다. 앱 언어가 게임과 일치하는지 확인하세요."
 
 msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr ""
+msgstr "이전 ACNH Guide 앱을 사용했다면 여기서 백업을 복원할 수 있습니다. 백업 UUID를 입력하여 다음 항목을 이 앱으로 가져오세요:"
 
 msgid "Import"
-msgstr ""
+msgstr "가져오기"
 
 msgid "Import — confirm"
-msgstr ""
+msgstr "가져오기 — 확인"
 
 msgid "Import backup"
-msgstr ""
+msgstr "백업 가져오기"
 
 msgid "Import backup (dev)"
-msgstr ""
+msgstr "백업 가져오기 (dev)"
 
 msgid "Import complete"
-msgstr ""
+msgstr "가져오기 완료"
 
 msgid "Import failed"
-msgstr ""
+msgstr "가져오기 실패"
 
 msgid "Import from Catalog Scanner"
-msgstr ""
+msgstr "카탈로그 스캐너에서 가져오기"
 
 msgid "Importing…"
+msgstr "가져오는 중…"
+
+msgid "In-game images, icons, and other assets used in this app are © Nintendo."
+msgstr ""
+
+msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
 msgid "Insects"
-msgstr ""
+msgstr "곤충"
 
 msgid "Interior Structures"
-msgstr ""
+msgstr "실내 구조물"
 
 msgid "Island Name"
-msgstr ""
+msgstr "섬 이름"
 
 msgid "Items"
-msgstr ""
+msgstr "아이템"
 
 msgid "Items have been added to your catalog."
-msgstr ""
+msgstr "아이템이 카탈로그에 추가되었습니다."
 
-msgid "Items list"
-msgstr ""
+#~ msgid "Items list"
+#~ msgstr "아이템 목록"
 
 msgid "Items not found"
-msgstr ""
+msgstr "아이템을 찾을 수 없음"
 
 msgid "Jan"
-msgstr ""
+msgstr "1월"
 
 msgid "Journal"
-msgstr ""
+msgstr "일지"
 
 msgid "Jul"
-msgstr ""
+msgstr "7월"
 
 msgid "Jun"
-msgstr ""
+msgstr "6월"
 
 msgid "Language / localization"
-msgstr ""
+msgstr "언어 / 현지화"
 
 #~ msgid "Large"
 #~ msgstr ""
 
 msgid "Large spike"
-msgstr ""
+msgstr "큰 급등"
 
 msgid "Last backed up"
-msgstr ""
+msgstr "마지막 백업"
 
 msgid "Last backed up to Google Cloud"
-msgstr ""
+msgstr "마지막 Google Cloud 백업"
 
 msgid "Last warning"
-msgstr ""
+msgstr "마지막 경고"
 
 msgid "Leaving in the next hour"
-msgstr ""
+msgstr "한 시간 안에 떠납니다"
 
 msgid "Less"
+msgstr "적게"
+
+msgid "License"
 msgstr ""
 
 msgid "lines"
-msgstr ""
+msgstr "줄"
 
 msgid "List"
-msgstr ""
+msgstr "목록"
 
 msgid "Lists"
-msgstr ""
+msgstr "목록"
 
 msgid "Loading details…"
-msgstr ""
+msgstr "상세 정보 로드 중…"
 
 msgid "Loading…"
-msgstr ""
+msgstr "로드 중…"
 
 #~ msgid "Long"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
+msgstr "Switch와 이 앱이 동일한 언어/현지화를 사용하는지 확인하세요."
+
+msgid "Manage ad consent"
 msgstr ""
 
 msgid "Mar"
-msgstr ""
+msgstr "3월"
 
 msgid "May"
-msgstr ""
+msgstr "5월"
 
 #~ msgid "Medium"
 #~ msgstr ""
+
+msgid "MeteoNook on GitHub"
+msgstr ""
+
+msgid "Meteor shower (heavy)"
+msgstr ""
+
+msgid "Meteor shower (light)"
+msgstr ""
 
 #~ msgid "Migrate"
 #~ msgstr ""
 
 msgid "Migrate data from old app"
+msgstr "이전 앱에서 데이터 마이그레이션"
+
+#~ msgid "Migrate from previous app"
+#~ msgstr ""
+
+#~ msgid "Migrate my data"
+#~ msgstr ""
+
+#~ msgid "Migrating…"
+#~ msgstr ""
+
+#~ msgid "Migration failed or no data to migrate."
+#~ msgstr ""
+
+msgid "Migration notice"
 msgstr ""
 
-msgid "Migrate from previous app"
-msgstr ""
-
-msgid "Migrate my data"
-msgstr ""
-
-msgid "Migrating…"
-msgstr ""
-
-msgid "Migration failed or no data to migrate."
+msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "기타"
 
 msgid "Mon"
-msgstr ""
+msgstr "월"
 
 msgid "More"
-msgstr ""
+msgstr "더보기"
 
 msgid "Museum"
-msgstr ""
+msgstr "박물관"
 
 msgid "Museum & catalogue"
-msgstr ""
+msgstr "박물관 & 카탈로그"
 
 msgid "Music"
-msgstr ""
+msgstr "음악"
 
 msgid "Next events"
-msgstr ""
+msgstr "다음 이벤트"
 
 msgid "No"
-msgstr ""
+msgstr "아니요"
 
 msgid "No backup found in Google Drive."
-msgstr ""
+msgstr "Google Drive에서 백업을 찾을 수 없습니다."
 
 msgid "No backup found in iCloud."
-msgstr ""
+msgstr "iCloud에서 백업을 찾을 수 없습니다."
 
 msgid "No events this week"
-msgstr ""
+msgstr "이번 주 이벤트 없음"
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
-msgstr ""
+msgstr "선택된 섬이 없습니다. 플레이어 및 섬 정보를 편집하려면 섬을 선택하거나 만드세요."
 
 msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
+msgstr "확인할 아이템이 없습니다. 뒤로 가서 아이템 이름 목록을 붙여넣고 (한 줄에 하나씩) 아이템 찾기를 탭하세요."
+
+msgid "No notes yet"
 msgstr ""
 
 msgid "No offerings available at the moment. Please try again later."
-msgstr ""
+msgstr "현재 이용 가능한 플랜이 없습니다. 나중에 다시 시도하세요."
 
 msgid "Northern Hemisphere"
-msgstr ""
+msgstr "북반구"
 
 msgid "Not found:"
+msgstr "찾을 수 없음:"
+
+msgid "Note"
+msgstr ""
+
+msgid "Note not found"
+msgstr ""
+
+msgid "Notes"
 msgstr ""
 
 msgid "Nov"
-msgstr ""
+msgstr "11월"
 
 msgid "Oct"
-msgstr ""
+msgstr "10월"
 
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
-msgid "Old state we're migrating from:"
-msgstr ""
+#~ msgid "Old state we're migrating from:"
+#~ msgstr ""
 
 #~ msgid "On beach rocks"
 #~ msgstr ""
@@ -580,62 +712,68 @@ msgstr ""
 #~ msgid "On white flowers"
 #~ msgstr ""
 
-msgid "Open Turnip Prophet"
+msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
+
+msgid "Open Turnip Prophet"
+msgstr "Turnip Prophet 열기"
 
 msgid "Other"
-msgstr ""
+msgstr "기타"
 
 msgid "Override which channel to fetch updates from:"
-msgstr ""
+msgstr "업데이트를 가져올 채널 재정의:"
 
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
-msgstr ""
+msgstr "아래에 아이템 이름 목록을 한 줄에 하나씩 붙여넣으세요. 매칭은 앱의 현재 언어를 사용합니다. 해당 아이템을 찾아 모두 카탈로그 등록됨으로 표시할 수 있습니다."
 
 msgid "Paste at least one item name (one per line)."
-msgstr ""
+msgstr "아이템 이름을 최소 하나 붙여넣으세요 (한 줄에 하나씩)."
 
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "클립보드에서 붙여넣기"
 
 msgid "paste items here"
-msgstr ""
+msgstr "여기에 아이템 붙여넣기"
 
 msgid "Personality"
-msgstr ""
+msgstr "성격"
 
 msgid "Photos"
-msgstr ""
+msgstr "사진"
 
 #~ msgid "Pier"
 #~ msgstr ""
 
 msgid "Player Name"
-msgstr ""
+msgstr "플레이어 이름"
 
 #~ msgid "Pond"
 #~ msgstr ""
 
 msgid "Posters"
-msgstr ""
+msgstr "포스터"
 
 msgid "Preferred colors"
-msgstr ""
+msgstr "선호 색상"
 
 msgid "Preferred style"
-msgstr ""
+msgstr "선호 스타일"
 
 msgid "Premium"
-msgstr ""
+msgstr "프리미엄"
 
 msgid "Previous week's pattern"
+msgstr "지난주 패턴"
+
+msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "프로필"
 
 #~ msgid "Pushing snowballs"
 #~ msgstr ""
@@ -643,29 +781,32 @@ msgstr ""
 #~ msgid "Rain only"
 #~ msgstr ""
 
-msgid "Reactions"
+msgid "Rainbow at {time}"
 msgstr ""
+
+msgid "Reactions"
+msgstr "리액션"
 
 msgid "Recipe"
-msgstr ""
+msgstr "레시피"
 
 msgid "Recipes"
-msgstr ""
+msgstr "레시피"
 
 msgid "Reset app data"
-msgstr ""
+msgstr "앱 데이터 초기화"
 
 msgid "Reset app data?"
-msgstr ""
+msgstr "앱 데이터를 초기화하시겠습니까?"
 
-msgid "Reset migration done (dev)"
-msgstr ""
+#~ msgid "Reset migration done (dev)"
+#~ msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
-msgstr ""
+msgstr "초기화하면 모든 앱 데이터가 삭제됩니다. 섬을 다시 설정해야 합니다."
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
-msgstr ""
+msgstr "초기화하면 섬, 진행 상황, 목록, 설정 등 앱에 저장된 모든 데이터가 삭제됩니다. 이 작업은 취소할 수 없습니다."
 
 #~ msgid "Resolving custom lists…"
 #~ msgstr ""
@@ -677,34 +818,34 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Restart failed"
-msgstr ""
+msgstr "재시작 실패"
 
 msgid "Restart to apply update"
-msgstr ""
+msgstr "업데이트 적용을 위해 재시작"
 
 msgid "Restore"
-msgstr ""
+msgstr "복원"
 
 msgid "Restore backup"
-msgstr ""
+msgstr "백업 복원"
 
 msgid "Restore failed."
-msgstr ""
+msgstr "복원에 실패했습니다."
 
 msgid "Restore from Google Cloud"
-msgstr ""
+msgstr "Google Cloud에서 복원"
 
 msgid "Restore from iCloud"
-msgstr ""
+msgstr "iCloud에서 복원"
 
 msgid "Restore purchases"
-msgstr ""
+msgstr "구매 복원"
 
 msgid "Restore will replace your current island data. Continue?"
-msgstr ""
+msgstr "복원하면 현재 섬 데이터가 대체됩니다. 계속하시겠습니까?"
 
 msgid "Retry"
-msgstr ""
+msgstr "다시 시도"
 
 #~ msgid "River"
 #~ msgstr ""
@@ -716,16 +857,16 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Rugs"
-msgstr ""
+msgstr "러그"
 
 msgid "Same unlock, choose your price."
-msgstr ""
+msgstr "동일한 잠금 해제, 가격을 선택하세요."
 
 msgid "Sat"
-msgstr ""
+msgstr "토"
 
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 #~ msgid "Sea"
 #~ msgstr ""
@@ -734,19 +875,37 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Sea Creatures"
-msgstr ""
+msgstr "바다 생물"
 
 msgid "Search"
+msgstr "검색"
+
+msgid "Season/Event"
+msgstr ""
+
+msgid "Season/Event Exclusive"
+msgstr ""
+
+msgid "Select an island in the app to set a weather seed."
 msgstr ""
 
 msgid "Select or create island"
+msgstr "섬 선택 또는 만들기"
+
+msgid "Sell"
 msgstr ""
 
 msgid "Sep"
+msgstr "9월"
+
+msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgstr ""
+
+msgid "Set time to match your game"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 #~ msgid "Shaking trees"
 #~ msgstr ""
@@ -755,127 +914,163 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Shoes"
-msgstr ""
+msgstr "신발"
 
 msgid "Sign in with Google"
-msgstr ""
+msgstr "Google로 로그인"
 
 msgid "Sign in with Google to back up and restore your island data."
-msgstr ""
+msgstr "Google로 로그인하여 섬 데이터를 백업하고 복원하세요."
 
 msgid "Sign out"
-msgstr ""
+msgstr "로그아웃"
 
 msgid "Sign out failed."
-msgstr ""
+msgstr "로그아웃에 실패했습니다."
 
 msgid "Sign-in could not start. Try again."
-msgstr ""
+msgstr "로그인을 시작할 수 없습니다. 다시 시도하세요."
 
 msgid "Sign-in failed."
-msgstr ""
+msgstr "로그인에 실패했습니다."
 
 msgid "Signed in"
-msgstr ""
+msgstr "로그인됨"
 
 #~ msgid "Small"
 #~ msgstr ""
 
 msgid "Small spike"
-msgstr ""
+msgstr "작은 급등"
 
 msgid "Socks"
-msgstr ""
+msgstr "양말"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr "현재 데이터 일부가 덮어쓰여질 수 있습니다: 섬 정보 (이름, 반구, 과일), 박물관 기증 상태, 현재 주민이 백업으로 대체됩니다. 가져온 목록 아이템은 기존 목록에 추가됩니다."
+
+msgid "Source"
 msgstr ""
 
 msgid "Southern Hemisphere"
-msgstr ""
+msgstr "남반구"
 
 msgid "Species"
+msgstr "종류"
+
+msgid "spreadsheet"
 msgstr ""
 
-msgid "Start fresh"
-msgstr ""
+#~ msgid "Start fresh"
+#~ msgstr ""
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "구독"
 
 msgid "Support"
-msgstr ""
+msgstr "지원"
 
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
+msgstr "앱을 지원하고 광고 없는 경험을 즐기세요. 동일한 잠금 해제, 가격을 선택하세요."
+
+msgid "Tap Add to create your first note."
 msgstr ""
 
 msgid "Thank you"
-msgstr ""
+msgstr "감사합니다"
 
-msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgid "Thank you for your support! You can leave a tip if you'd like."
+#~ msgstr "지원해 주셔서 감사합니다! 원하시면 팁을 남기실 수 있습니다."
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgstr ""
+
+msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
 
 msgid "Thanks for your support! You have premium access."
+msgstr "지원해 주셔서 감사합니다! 프리미엄 이용권이 있습니다."
+
+msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
-msgstr ""
+msgstr "찾은 결과입니다. 이 모든 아이템을 카탈로그 등록됨으로 표시하시겠습니까?"
 
 msgid "this website"
-msgstr ""
+msgstr "이 웹사이트"
 
 msgid "This week's prices"
-msgstr ""
+msgstr "이번 주 가격"
 
 msgid "Thu"
-msgstr ""
+msgstr "목"
 
 msgid "Tips"
+msgstr "팁"
+
+msgid "Title"
+msgstr ""
+
+msgid "To find your seed, open MeteoNook and follow the guide to log your island's weather. Then enter the seed below. Leave empty to hide weather."
 msgstr ""
 
 msgid "Tools/Goods"
-msgstr ""
+msgstr "도구/잡화"
 
 msgid "Tops"
-msgstr ""
+msgstr "상의"
 
 msgid "Total items:"
+msgstr "총 아이템:"
+
+msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
 msgid "Tue"
-msgstr ""
+msgstr "화"
 
 msgid "Turnips"
-msgstr ""
+msgstr "순무"
 
 msgid "Uncheck multiple variants"
-msgstr ""
+msgstr "여러 변형 선택 해제"
 
 msgid "Unchecked items with multiple variants:"
-msgstr ""
+msgstr "여러 변형이 있는 미선택 아이템:"
 
 #~ msgid "Underground (dig where noise is loudest)"
 #~ msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
-msgstr ""
+msgstr "고유 아이템 (변형 중복 제외):"
 
 msgid "Unknown"
+msgstr "알 수 없음"
+
+msgid "Untitled"
 msgstr ""
 
 msgid "Upcoming Events"
-msgstr ""
+msgstr "예정된 이벤트"
 
 msgid "Update channel"
-msgstr ""
+msgstr "업데이트 채널"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "업데이트 확인 실패"
 
 msgid "Update downloaded. Tap Restart to apply."
+msgstr "업데이트가 다운로드되었습니다. 재시작을 탭하여 적용하세요."
+
+msgid "Updated"
+msgstr ""
+
+msgid "Use device time"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "버전"
 
 #~ msgid "Very Easy"
 #~ msgstr ""
@@ -887,31 +1082,52 @@ msgstr ""
 #~ msgstr ""
 
 msgid "View full calendar"
-msgstr ""
+msgstr "전체 캘린더 보기"
 
 msgid "Villagers"
-msgstr ""
+msgstr "주민"
 
 msgid "Wall-mounted"
-msgstr ""
+msgstr "벽걸이"
 
 msgid "Wallpaper"
+msgstr "벽지"
+
+msgid "Watch an ad to hide ads for 2 hours"
 msgstr ""
 
-msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
-msgstr ""
+#~ msgid "Watch an ad to hide ads for 24 hours"
+#~ msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+#~ msgstr ""
 
 #~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
 #~ msgstr ""
 
+msgid "Weather"
+msgstr ""
+
+msgid "Weather prediction"
+msgstr ""
+
+msgid "Weather prediction in this app uses code ported from MeteoNook by Ash Wolf (Ninji). MeteoNook is licensed under the GNU Affero General Public License v3.0."
+msgstr ""
+
+msgid "Weather seed"
+msgstr ""
+
 msgid "Wed"
+msgstr "수"
+
+msgid "What time does your game show right now?"
 msgstr ""
 
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
-msgstr ""
+msgstr "켜면 박물관에 아이템을 기증할 때 카탈로그 목록에도 추가됩니다."
 
-msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
-msgstr ""
+#~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+#~ msgstr "켜면 여러 색상이나 변형이 있는 아이템 (예: 가구)이 변형 선택기가 있는 한 줄로 표시됩니다. 끄면 각 변형이 별도의 줄로 표시됩니다."
 
 #~ msgid "X-Large"
 #~ msgstr ""
@@ -926,7 +1142,10 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 msgid "Your Island's turnip Info"
+msgstr "내 섬의 순무 정보"
+
+msgid "Your time"
 msgstr ""

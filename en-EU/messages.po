@@ -16,8 +16,11 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr ""
 
-msgid "(no legacy data or loading…)"
+msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
+
+#~ msgid "(no legacy data or loading…)"
+#~ msgstr ""
 
 msgid "{selectedCount} items selected"
 msgstr ""
@@ -28,13 +31,34 @@ msgstr ""
 msgid "About"
 msgstr ""
 
+msgid "About the app"
+msgstr ""
+
 msgid "Accessories"
+msgstr ""
+
+msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
+msgstr ""
+
+msgid "Add"
 msgstr ""
 
 msgid "Add item"
 msgstr ""
 
+msgid "Add note"
+msgstr ""
+
 msgid "Add to catalogue when donating"
+msgstr ""
+
+msgid "Ads hidden until"
+msgstr ""
+
+msgid "Allow more than 10 villagers"
+msgstr ""
+
+msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
 #~ msgid "Any except rain"
@@ -64,7 +88,13 @@ msgstr ""
 msgid "Artwork"
 msgstr ""
 
+msgid "Attribution"
+msgstr ""
+
 msgid "Aug"
+msgstr ""
+
+msgid "Aurora borealis"
 msgstr ""
 
 msgid "Available version"
@@ -98,6 +128,9 @@ msgid "Bottoms"
 msgstr ""
 
 msgid "Build"
+msgstr ""
+
+msgid "Buy"
 msgstr ""
 
 msgid "Buy price"
@@ -139,10 +172,28 @@ msgstr ""
 msgid "Cloud storage path error. Try again."
 msgstr ""
 
+msgid "Contact"
+msgstr ""
+
 msgid "Continue"
 msgstr ""
 
-msgid "Copy"
+msgid "Copied"
+msgstr ""
+
+#~ msgid "Copy"
+#~ msgstr ""
+
+msgid "Copy failed"
+msgstr ""
+
+msgid "Copy list"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not copy to clipboard."
 msgstr ""
 
 msgid "Could not get Google access token. Try signing out and back in."
@@ -163,10 +214,16 @@ msgstr ""
 msgid "Daily Checklist"
 msgstr ""
 
+msgid "Daily note"
+msgstr ""
+
 msgid "Danger zone"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "Data on this app is taken from the community"
 msgstr ""
 
 msgid "Database not ready"
@@ -187,7 +244,16 @@ msgstr ""
 msgid "Default (no override)"
 msgstr ""
 
+msgid "Delete"
+msgstr ""
+
+msgid "Delete \"{listName}\"? This cannot be undone."
+msgstr ""
+
 msgid "Delete everything"
+msgstr ""
+
+msgid "Delete list?"
 msgstr ""
 
 msgid "Details"
@@ -200,6 +266,9 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Done"
+msgstr ""
+
+msgid "Double rainbow at {time}"
 msgstr ""
 
 msgid "Download error"
@@ -220,8 +289,14 @@ msgstr ""
 msgid "e.g. 100"
 msgstr ""
 
+msgid "e.g. 1234567890"
+msgstr ""
+
 #~ msgid "Easy"
 #~ msgstr ""
+
+msgid "Edit"
+msgstr ""
 
 msgid "Edit List"
 msgstr ""
@@ -233,6 +308,18 @@ msgid "Embedded build"
 msgstr ""
 
 msgid "Enter a backup UUID"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Exchange Currency"
+msgstr ""
+
+msgid "Exchange Price"
 msgstr ""
 
 msgid "Failed to load events"
@@ -301,7 +388,13 @@ msgstr ""
 msgid "Furnitures"
 msgstr ""
 
+msgid "Game time"
+msgstr ""
+
 msgid "Gender"
+msgstr ""
+
+msgid "Go back"
 msgstr ""
 
 msgid "Go to "
@@ -316,8 +409,8 @@ msgstr ""
 msgid "Grid"
 msgstr ""
 
-msgid "Group item variants"
-msgstr ""
+#~ msgid "Group item variants"
+#~ msgstr ""
 
 msgid "Gyroid"
 msgstr ""
@@ -379,6 +472,12 @@ msgstr ""
 msgid "Importing…"
 msgstr ""
 
+msgid "In-game images, icons, and other assets used in this app are © Nintendo."
+msgstr ""
+
+msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
+msgstr ""
+
 msgid "Insects"
 msgstr ""
 
@@ -394,8 +493,8 @@ msgstr ""
 msgid "Items have been added to your catalog."
 msgstr ""
 
-msgid "Items list"
-msgstr ""
+#~ msgid "Items list"
+#~ msgstr ""
 
 msgid "Items not found"
 msgstr ""
@@ -436,6 +535,9 @@ msgstr ""
 msgid "Less"
 msgstr ""
 
+msgid "License"
+msgstr ""
+
 msgid "lines"
 msgstr ""
 
@@ -457,6 +559,9 @@ msgstr ""
 msgid "Make sure your Switch and this app use the same language/localization."
 msgstr ""
 
+msgid "Manage ad consent"
+msgstr ""
+
 msgid "Mar"
 msgstr ""
 
@@ -466,22 +571,37 @@ msgstr ""
 #~ msgid "Medium"
 #~ msgstr ""
 
+msgid "MeteoNook on GitHub"
+msgstr ""
+
+msgid "Meteor shower (heavy)"
+msgstr ""
+
+msgid "Meteor shower (light)"
+msgstr ""
+
 #~ msgid "Migrate"
 #~ msgstr ""
 
 msgid "Migrate data from old app"
 msgstr ""
 
-msgid "Migrate from previous app"
+#~ msgid "Migrate from previous app"
+#~ msgstr ""
+
+#~ msgid "Migrate my data"
+#~ msgstr ""
+
+#~ msgid "Migrating…"
+#~ msgstr ""
+
+#~ msgid "Migration failed or no data to migrate."
+#~ msgstr ""
+
+msgid "Migration notice"
 msgstr ""
 
-msgid "Migrate my data"
-msgstr ""
-
-msgid "Migrating…"
-msgstr ""
-
-msgid "Migration failed or no data to migrate."
+msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
 msgid "Miscellaneous"
@@ -523,6 +643,9 @@ msgstr ""
 msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
 msgstr ""
 
+msgid "No notes yet"
+msgstr ""
+
 msgid "No offerings available at the moment. Please try again later."
 msgstr ""
 
@@ -530,6 +653,15 @@ msgid "Northern Hemisphere"
 msgstr ""
 
 msgid "Not found:"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Note not found"
+msgstr ""
+
+msgid "Notes"
 msgstr ""
 
 msgid "Nov"
@@ -541,8 +673,8 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
-msgid "Old state we're migrating from:"
-msgstr ""
+#~ msgid "Old state we're migrating from:"
+#~ msgstr ""
 
 #~ msgid "On beach rocks"
 #~ msgstr ""
@@ -579,6 +711,9 @@ msgstr ""
 
 #~ msgid "On white flowers"
 #~ msgstr ""
+
+msgid "Open MeteoNook (wuffs.org/acnh/weather)"
+msgstr ""
 
 msgid "Open Turnip Prophet"
 msgstr ""
@@ -634,6 +769,9 @@ msgstr ""
 msgid "Previous week's pattern"
 msgstr ""
 
+msgid "Privacy"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -642,6 +780,9 @@ msgstr ""
 
 #~ msgid "Rain only"
 #~ msgstr ""
+
+msgid "Rainbow at {time}"
+msgstr ""
 
 msgid "Reactions"
 msgstr ""
@@ -658,8 +799,8 @@ msgstr ""
 msgid "Reset app data?"
 msgstr ""
 
-msgid "Reset migration done (dev)"
-msgstr ""
+#~ msgid "Reset migration done (dev)"
+#~ msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
 msgstr ""
@@ -739,10 +880,28 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
+msgid "Season/Event"
+msgstr ""
+
+msgid "Season/Event Exclusive"
+msgstr ""
+
+msgid "Select an island in the app to set a weather seed."
+msgstr ""
+
 msgid "Select or create island"
 msgstr ""
 
+msgid "Sell"
+msgstr ""
+
 msgid "Sep"
+msgstr ""
+
+msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgstr ""
+
+msgid "Set time to match your game"
 msgstr ""
 
 msgid "Settings"
@@ -790,14 +949,20 @@ msgstr ""
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
 msgstr ""
 
+msgid "Source"
+msgstr ""
+
 msgid "Southern Hemisphere"
 msgstr ""
 
 msgid "Species"
 msgstr ""
 
-msgid "Start fresh"
+msgid "spreadsheet"
 msgstr ""
+
+#~ msgid "Start fresh"
+#~ msgstr ""
 
 msgid "Subscriptions"
 msgstr ""
@@ -808,13 +973,22 @@ msgstr ""
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
 msgstr ""
 
+msgid "Tap Add to create your first note."
+msgstr ""
+
 msgid "Thank you"
 msgstr ""
 
-msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgstr ""
+
+msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
 
 msgid "Thanks for your support! You have premium access."
+msgstr ""
+
+msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
@@ -832,6 +1006,12 @@ msgstr ""
 msgid "Tips"
 msgstr ""
 
+msgid "Title"
+msgstr ""
+
+msgid "To find your seed, open MeteoNook and follow the guide to log your island's weather. Then enter the seed below. Leave empty to hide weather."
+msgstr ""
+
 msgid "Tools/Goods"
 msgstr ""
 
@@ -839,6 +1019,9 @@ msgid "Tops"
 msgstr ""
 
 msgid "Total items:"
+msgstr ""
+
+msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
 msgid "Tue"
@@ -862,6 +1045,9 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+msgid "Untitled"
+msgstr ""
+
 msgid "Upcoming Events"
 msgstr ""
 
@@ -872,6 +1058,12 @@ msgid "Update check failed"
 msgstr ""
 
 msgid "Update downloaded. Tap Restart to apply."
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Use device time"
 msgstr ""
 
 msgid "Version"
@@ -898,20 +1090,41 @@ msgstr ""
 msgid "Wallpaper"
 msgstr ""
 
-msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+msgid "Watch an ad to hide ads for 2 hours"
 msgstr ""
+
+#~ msgid "Watch an ad to hide ads for 24 hours"
+#~ msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+#~ msgstr ""
 
 #~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
 #~ msgstr ""
 
+msgid "Weather"
+msgstr ""
+
+msgid "Weather prediction"
+msgstr ""
+
+msgid "Weather prediction in this app uses code ported from MeteoNook by Ash Wolf (Ninji). MeteoNook is licensed under the GNU Affero General Public License v3.0."
+msgstr ""
+
+msgid "Weather seed"
+msgstr ""
+
 msgid "Wed"
+msgstr ""
+
+msgid "What time does your game show right now?"
 msgstr ""
 
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
 msgstr ""
 
-msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
-msgstr ""
+#~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+#~ msgstr ""
 
 #~ msgid "X-Large"
 #~ msgstr ""
@@ -929,4 +1142,7 @@ msgid "Yes"
 msgstr ""
 
 msgid "Your Island's turnip Info"
+msgstr ""
+
+msgid "Your time"
 msgstr ""

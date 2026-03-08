@@ -14,27 +14,51 @@ msgstr ""
 "Plural-Forms: \n"
 
 msgid " to scan your catalog."
+msgstr " для сканирования каталога."
+
+msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
-msgid "(no legacy data or loading…)"
-msgstr ""
+#~ msgid "(no legacy data or loading…)"
+#~ msgstr ""
 
 msgid "{selectedCount} items selected"
-msgstr ""
+msgstr "Выбрано {selectedCount} предметов"
 
 msgid "1 item selected"
-msgstr ""
+msgstr "Выбран 1 предмет"
 
 msgid "About"
+msgstr "О приложении"
+
+msgid "About the app"
 msgstr ""
 
 msgid "Accessories"
+msgstr "Аксессуары"
+
+msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
+msgstr ""
+
+msgid "Add"
 msgstr ""
 
 msgid "Add item"
+msgstr "Добавить предмет"
+
+msgid "Add note"
 msgstr ""
 
 msgid "Add to catalogue when donating"
+msgstr "Добавлять в каталог при пожертвовании"
+
+msgid "Ads hidden until"
+msgstr ""
+
+msgid "Allow more than 10 villagers"
+msgstr ""
+
+msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
 #~ msgid "Any except rain"
@@ -44,154 +68,196 @@ msgstr ""
 #~ msgstr ""
 
 msgid "App language"
-msgstr ""
+msgstr "Язык приложения"
 
 msgid "App updates"
-msgstr ""
+msgstr "Обновления приложения"
 
 msgid "Applying backup…"
-msgstr ""
+msgstr "Применение резервной копии…"
 
 msgid "Apr"
-msgstr ""
+msgstr "Апр"
 
 msgid "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
-msgstr ""
+msgstr "Вы уверены? Все данные будут безвозвратно удалены. Вам придётся настроить остров заново."
 
 msgid "Art"
-msgstr ""
+msgstr "Произведения искусства"
 
 msgid "Artwork"
+msgstr "Произведение искусства"
+
+msgid "Attribution"
 msgstr ""
 
 msgid "Aug"
+msgstr "Авг"
+
+msgid "Aurora borealis"
 msgstr ""
 
 msgid "Available version"
-msgstr ""
+msgstr "Доступная версия"
 
 msgid "Back to settings"
-msgstr ""
+msgstr "Назад к настройкам"
 
 msgid "Back up to iCloud"
-msgstr ""
+msgstr "Создать резервную копию в iCloud"
 
 msgid "Backup"
-msgstr ""
+msgstr "Резервная копия"
 
 msgid "Backup data has been applied to your island."
-msgstr ""
+msgstr "Данные резервной копии применены к вашему острову."
 
 msgid "Backup failed."
-msgstr ""
+msgstr "Ошибка резервного копирования."
 
 msgid "Backup UUID (Firebase UID)"
-msgstr ""
+msgstr "UUID резервной копии (Firebase UID)"
 
 msgid "Bags"
-msgstr ""
+msgstr "Сумки"
 
 msgid "Birthday"
-msgstr ""
+msgstr "День рождения"
 
 msgid "Bottoms"
-msgstr ""
+msgstr "Нижняя одежда"
 
 msgid "Build"
+msgstr "Build"
+
+msgid "Buy"
 msgstr ""
 
 msgid "Buy price"
-msgstr ""
+msgstr "Цена покупки"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Календарь"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Catalog {selectedCount} Items"
-msgstr ""
+msgstr "Занести {selectedCount} предметов в каталог"
 
 msgid "Catalog 1 Item"
-msgstr ""
+msgstr "Занести 1 предмет в каталог"
 
 msgid "Cataloguing…"
-msgstr ""
+msgstr "Внесение в каталог…"
 
 msgid "Ceiling Decor"
-msgstr ""
+msgstr "Потолочный декор"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Проверить обновления"
 
 msgid "Check multiple variants"
-msgstr ""
+msgstr "Отметить несколько вариантов"
 
 msgid "Checking for update…"
-msgstr ""
+msgstr "Проверка обновлений…"
 
 msgid "Checklist name"
-msgstr ""
+msgstr "Название контрольного списка"
 
 msgid "Choose a plan to support the app."
-msgstr ""
+msgstr "Выберите план для поддержки приложения."
 
 msgid "Cloud storage path error. Try again."
+msgstr "Ошибка пути облачного хранилища. Повторите попытку."
+
+msgid "Contact"
 msgstr ""
 
 msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Copied"
 msgstr ""
 
-msgid "Copy"
+#~ msgid "Copy"
+#~ msgstr ""
+
+msgid "Copy failed"
+msgstr ""
+
+msgid "Copy list"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not copy to clipboard."
 msgstr ""
 
 msgid "Could not get Google access token. Try signing out and back in."
-msgstr ""
+msgstr "Не удалось получить токен доступа Google. Попробуйте выйти и войти снова."
 
 msgid "Could not write backup to Google Drive."
-msgstr ""
+msgstr "Не удалось записать резервную копию на Google Диск."
 
 msgid "Could not write backup to iCloud."
-msgstr ""
+msgstr "Не удалось записать резервную копию в iCloud."
 
 msgid "Critters"
-msgstr ""
+msgstr "Существа"
 
 msgid "Current version"
-msgstr ""
+msgstr "Текущая версия"
 
 msgid "Daily Checklist"
+msgstr "Ежедневный список"
+
+msgid "Daily note"
 msgstr ""
 
 msgid "Danger zone"
-msgstr ""
+msgstr "Опасная зона"
 
 msgid "Data"
+msgstr "Данные"
+
+msgid "Data on this app is taken from the community"
 msgstr ""
 
 msgid "Database not ready"
-msgstr ""
+msgstr "База данных не готова"
 
 msgid "Database not ready."
-msgstr ""
+msgstr "База данных не готова."
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Dec"
-msgstr ""
+msgstr "Дек"
 
 msgid "Decreasing"
-msgstr ""
+msgstr "Убывающий"
 
 msgid "Default (no override)"
+msgstr "По умолчанию (без переопределения)"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
+msgstr "Удалить всё"
+
+msgid "Delete list?"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "Подробности"
 
 #~ msgid "Disguised on shoreline"
 #~ msgstr ""
@@ -200,76 +266,97 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Done"
+msgstr "Готово"
+
+msgid "Double rainbow at {time}"
 msgstr ""
 
 msgid "Download error"
-msgstr ""
+msgstr "Ошибка загрузки"
 
 msgid "Download failed"
-msgstr ""
+msgstr "Загрузка не удалась"
 
 msgid "Download update"
-msgstr ""
+msgstr "Загрузить обновление"
 
 msgid "Downloading…"
-msgstr ""
+msgstr "Загрузка…"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Одежда"
 
 msgid "e.g. 100"
+msgstr "напр. 100"
+
+msgid "e.g. 1234567890"
 msgstr ""
 
 #~ msgid "Easy"
 #~ msgstr ""
 
-msgid "Edit List"
+msgid "Edit"
 msgstr ""
+
+msgid "Edit List"
+msgstr "Редактировать список"
 
 msgid "Edit localization"
-msgstr ""
+msgstr "Редактировать локализацию"
 
 msgid "Embedded build"
-msgstr ""
+msgstr "Встроенная сборка"
 
 msgid "Enter a backup UUID"
+msgstr "Введите UUID резервной копии"
+
+msgid "Error"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Exchange Currency"
+msgstr ""
+
+msgid "Exchange Price"
 msgstr ""
 
 msgid "Failed to load events"
-msgstr ""
+msgstr "Не удалось загрузить события"
 
 msgid "Fashion"
-msgstr ""
+msgstr "Мода"
 
 msgid "Favorites"
-msgstr ""
+msgstr "Избранное"
 
 msgid "Feb"
-msgstr ""
+msgstr "Фев"
 
 msgid "Fencing"
-msgstr ""
+msgstr "Заборы"
 
 msgid "Fetching backup…"
-msgstr ""
+msgstr "Получение резервной копии…"
 
 msgid "Find items"
-msgstr ""
+msgstr "Найти предметы"
 
 msgid "Finding items…"
-msgstr ""
+msgstr "Поиск предметов…"
 
 msgid "First time buyer?"
-msgstr ""
+msgstr "Покупаете впервые?"
 
 msgid "Fish"
-msgstr ""
+msgstr "Рыба"
 
 msgid "Floors"
-msgstr ""
+msgstr "Полы"
 
 msgid "Fluctuating"
-msgstr ""
+msgstr "Колеблющийся"
 
 #~ msgid "Flying"
 #~ msgstr ""
@@ -290,259 +377,304 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Fossils"
-msgstr ""
+msgstr "Ископаемые"
 
 msgid "Fri"
-msgstr ""
+msgstr "Пт"
 
 #~ msgid "From hitting rocks"
 #~ msgstr ""
 
 msgid "Furnitures"
+msgstr "Мебель"
+
+msgid "Game time"
 msgstr ""
 
 msgid "Gender"
+msgstr "Пол"
+
+msgid "Go back"
 msgstr ""
 
 msgid "Go to "
-msgstr ""
+msgstr "Перейти к "
 
 msgid "Google Drive access denied. Try signing out and back in."
-msgstr ""
+msgstr "Доступ к Google Диску запрещён. Попробуйте выйти и войти снова."
 
 msgid "Google Play Services are not available or outdated."
-msgstr ""
+msgstr "Google Play Сервисы недоступны или устарели."
 
 msgid "Grid"
-msgstr ""
+msgstr "Сетка"
 
-msgid "Group item variants"
-msgstr ""
+#~ msgid "Group item variants"
+#~ msgstr "Группировать варианты предметов"
 
 msgid "Gyroid"
-msgstr ""
+msgstr "Ханива"
 
 #~ msgid "Hard"
 #~ msgstr ""
 
 msgid "Headwear"
-msgstr ""
+msgstr "Головные уборы"
 
 msgid "Hobby"
-msgstr ""
+msgstr "Хобби"
 
 msgid "Home"
-msgstr ""
+msgstr "Главная"
 
 msgid "Housewares"
-msgstr ""
+msgstr "Предметы интерьера"
 
 msgid "iCloud"
-msgstr ""
+msgstr "iCloud"
 
 msgid "iCloud is not available. Sign in to iCloud in Settings."
-msgstr ""
+msgstr "iCloud недоступен. Войдите в iCloud в Настройках."
 
 msgid "iCloud sign-in required. Check Settings."
-msgstr ""
+msgstr "Требуется вход в iCloud. Проверьте Настройки."
 
 msgid "Icon URL"
-msgstr ""
+msgstr "URL значка"
 
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
-msgstr ""
+msgstr "Если вы только что запустили поиск предметов и ничего не появилось, совпадений не найдено. Убедитесь, что язык приложения совпадает с языком игры."
 
 msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr ""
+msgstr "Если вы использовали предыдущее приложение ACNH Guide, вы можете восстановить резервную копию здесь. Введите UUID резервной копии для импорта следующего в это приложение:"
 
 msgid "Import"
-msgstr ""
+msgstr "Импорт"
 
 msgid "Import — confirm"
-msgstr ""
+msgstr "Импорт — подтверждение"
 
 msgid "Import backup"
-msgstr ""
+msgstr "Импортировать резервную копию"
 
 msgid "Import backup (dev)"
-msgstr ""
+msgstr "Импортировать резервную копию (dev)"
 
 msgid "Import complete"
-msgstr ""
+msgstr "Импорт завершён"
 
 msgid "Import failed"
-msgstr ""
+msgstr "Импорт не удался"
 
 msgid "Import from Catalog Scanner"
-msgstr ""
+msgstr "Импортировать из сканера каталога"
 
 msgid "Importing…"
+msgstr "Импорт…"
+
+msgid "In-game images, icons, and other assets used in this app are © Nintendo."
+msgstr ""
+
+msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
 msgid "Insects"
-msgstr ""
+msgstr "Насекомые"
 
 msgid "Interior Structures"
-msgstr ""
+msgstr "Внутренние конструкции"
 
 msgid "Island Name"
-msgstr ""
+msgstr "Название острова"
 
 msgid "Items"
-msgstr ""
+msgstr "Предметы"
 
 msgid "Items have been added to your catalog."
-msgstr ""
+msgstr "Предметы добавлены в ваш каталог."
 
-msgid "Items list"
-msgstr ""
+#~ msgid "Items list"
+#~ msgstr "Список предметов"
 
 msgid "Items not found"
-msgstr ""
+msgstr "Предметы не найдены"
 
 msgid "Jan"
-msgstr ""
+msgstr "Янв"
 
 msgid "Journal"
-msgstr ""
+msgstr "Дневник"
 
 msgid "Jul"
-msgstr ""
+msgstr "Июл"
 
 msgid "Jun"
-msgstr ""
+msgstr "Июн"
 
 msgid "Language / localization"
-msgstr ""
+msgstr "Язык / локализация"
 
 #~ msgid "Large"
 #~ msgstr ""
 
 msgid "Large spike"
-msgstr ""
+msgstr "Большой скачок"
 
 msgid "Last backed up"
-msgstr ""
+msgstr "Последнее резервное копирование"
 
 msgid "Last backed up to Google Cloud"
-msgstr ""
+msgstr "Последняя резервная копия в Google Cloud"
 
 msgid "Last warning"
-msgstr ""
+msgstr "Последнее предупреждение"
 
 msgid "Leaving in the next hour"
-msgstr ""
+msgstr "Уходит в ближайший час"
 
 msgid "Less"
+msgstr "Меньше"
+
+msgid "License"
 msgstr ""
 
 msgid "lines"
-msgstr ""
+msgstr "строк"
 
 msgid "List"
-msgstr ""
+msgstr "Список"
 
 msgid "Lists"
-msgstr ""
+msgstr "Списки"
 
 msgid "Loading details…"
-msgstr ""
+msgstr "Загрузка подробностей…"
 
 msgid "Loading…"
-msgstr ""
+msgstr "Загрузка…"
 
 #~ msgid "Long"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
+msgstr "Убедитесь, что Switch и это приложение используют одинаковый язык/локализацию."
+
+msgid "Manage ad consent"
 msgstr ""
 
 msgid "Mar"
-msgstr ""
+msgstr "Мар"
 
 msgid "May"
-msgstr ""
+msgstr "Май"
 
 #~ msgid "Medium"
 #~ msgstr ""
+
+msgid "MeteoNook on GitHub"
+msgstr ""
+
+msgid "Meteor shower (heavy)"
+msgstr ""
+
+msgid "Meteor shower (light)"
+msgstr ""
 
 #~ msgid "Migrate"
 #~ msgstr ""
 
 msgid "Migrate data from old app"
+msgstr "Перенести данные из старого приложения"
+
+#~ msgid "Migrate from previous app"
+#~ msgstr ""
+
+#~ msgid "Migrate my data"
+#~ msgstr ""
+
+#~ msgid "Migrating…"
+#~ msgstr ""
+
+#~ msgid "Migration failed or no data to migrate."
+#~ msgstr ""
+
+msgid "Migration notice"
 msgstr ""
 
-msgid "Migrate from previous app"
-msgstr ""
-
-msgid "Migrate my data"
-msgstr ""
-
-msgid "Migrating…"
-msgstr ""
-
-msgid "Migration failed or no data to migrate."
+msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Разное"
 
 msgid "Mon"
-msgstr ""
+msgstr "Пн"
 
 msgid "More"
-msgstr ""
+msgstr "Ещё"
 
 msgid "Museum"
-msgstr ""
+msgstr "Музей"
 
 msgid "Museum & catalogue"
-msgstr ""
+msgstr "Музей и каталог"
 
 msgid "Music"
-msgstr ""
+msgstr "Музыка"
 
 msgid "Next events"
-msgstr ""
+msgstr "Следующие события"
 
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 msgid "No backup found in Google Drive."
-msgstr ""
+msgstr "Резервная копия не найдена на Google Диске."
 
 msgid "No backup found in iCloud."
-msgstr ""
+msgstr "Резервная копия не найдена в iCloud."
 
 msgid "No events this week"
-msgstr ""
+msgstr "На этой неделе нет событий"
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
-msgstr ""
+msgstr "Остров не выбран. Выберите или создайте остров, чтобы редактировать информацию об игроке и острове."
 
 msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
+msgstr "Нет предметов для подтверждения. Вернитесь и вставьте список названий предметов (по одному на строку), затем нажмите Найти предметы."
+
+msgid "No notes yet"
 msgstr ""
 
 msgid "No offerings available at the moment. Please try again later."
-msgstr ""
+msgstr "В данный момент нет доступных предложений. Повторите попытку позже."
 
 msgid "Northern Hemisphere"
-msgstr ""
+msgstr "Северное полушарие"
 
 msgid "Not found:"
+msgstr "Не найдено:"
+
+msgid "Note"
+msgstr ""
+
+msgid "Note not found"
+msgstr ""
+
+msgid "Notes"
 msgstr ""
 
 msgid "Nov"
-msgstr ""
+msgstr "Ноя"
 
 msgid "Oct"
-msgstr ""
+msgstr "Окт"
 
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
-msgid "Old state we're migrating from:"
-msgstr ""
+#~ msgid "Old state we're migrating from:"
+#~ msgstr ""
 
 #~ msgid "On beach rocks"
 #~ msgstr ""
@@ -580,62 +712,68 @@ msgstr ""
 #~ msgid "On white flowers"
 #~ msgstr ""
 
-msgid "Open Turnip Prophet"
+msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
+
+msgid "Open Turnip Prophet"
+msgstr "Открыть Turnip Prophet"
 
 msgid "Other"
-msgstr ""
+msgstr "Другое"
 
 msgid "Override which channel to fetch updates from:"
-msgstr ""
+msgstr "Переопределить канал для получения обновлений:"
 
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
-msgstr ""
+msgstr "Вставьте ниже список названий предметов, по одному на строку. Поиск использует текущий язык приложения. Мы найдём эти предметы и позволим отметить их как внесённые в каталог."
 
 msgid "Paste at least one item name (one per line)."
-msgstr ""
+msgstr "Вставьте хотя бы одно название предмета (по одному на строку)."
 
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "Вставить из буфера обмена"
 
 msgid "paste items here"
-msgstr ""
+msgstr "вставьте предметы здесь"
 
 msgid "Personality"
-msgstr ""
+msgstr "Характер"
 
 msgid "Photos"
-msgstr ""
+msgstr "Фотографии"
 
 #~ msgid "Pier"
 #~ msgstr ""
 
 msgid "Player Name"
-msgstr ""
+msgstr "Имя игрока"
 
 #~ msgid "Pond"
 #~ msgstr ""
 
 msgid "Posters"
-msgstr ""
+msgstr "Плакаты"
 
 msgid "Preferred colors"
-msgstr ""
+msgstr "Предпочитаемые цвета"
 
 msgid "Preferred style"
-msgstr ""
+msgstr "Предпочитаемый стиль"
 
 msgid "Premium"
-msgstr ""
+msgstr "Премиум"
 
 msgid "Previous week's pattern"
+msgstr "Паттерн прошлой недели"
+
+msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "Профиль"
 
 #~ msgid "Pushing snowballs"
 #~ msgstr ""
@@ -643,29 +781,32 @@ msgstr ""
 #~ msgid "Rain only"
 #~ msgstr ""
 
-msgid "Reactions"
+msgid "Rainbow at {time}"
 msgstr ""
+
+msgid "Reactions"
+msgstr "Реакции"
 
 msgid "Recipe"
-msgstr ""
+msgstr "Рецепт"
 
 msgid "Recipes"
-msgstr ""
+msgstr "Рецепты"
 
 msgid "Reset app data"
-msgstr ""
+msgstr "Сбросить данные приложения"
 
 msgid "Reset app data?"
-msgstr ""
+msgstr "Сбросить данные приложения?"
 
-msgid "Reset migration done (dev)"
-msgstr ""
+#~ msgid "Reset migration done (dev)"
+#~ msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
-msgstr ""
+msgstr "Сброс удалит все данные приложения. Вам придётся настроить остров заново."
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
-msgstr ""
+msgstr "Сброс удалит все данные, хранящиеся в приложении, включая остров, прогресс, списки и настройки. Это действие необратимо."
 
 #~ msgid "Resolving custom lists…"
 #~ msgstr ""
@@ -677,34 +818,34 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Restart failed"
-msgstr ""
+msgstr "Перезапуск не удался"
 
 msgid "Restart to apply update"
-msgstr ""
+msgstr "Перезапустить для применения обновления"
 
 msgid "Restore"
-msgstr ""
+msgstr "Восстановить"
 
 msgid "Restore backup"
-msgstr ""
+msgstr "Восстановить резервную копию"
 
 msgid "Restore failed."
-msgstr ""
+msgstr "Восстановление не удалось."
 
 msgid "Restore from Google Cloud"
-msgstr ""
+msgstr "Восстановить из Google Cloud"
 
 msgid "Restore from iCloud"
-msgstr ""
+msgstr "Восстановить из iCloud"
 
 msgid "Restore purchases"
-msgstr ""
+msgstr "Восстановить покупки"
 
 msgid "Restore will replace your current island data. Continue?"
-msgstr ""
+msgstr "Восстановление заменит текущие данные острова. Продолжить?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Повторить"
 
 #~ msgid "River"
 #~ msgstr ""
@@ -716,16 +857,16 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Rugs"
-msgstr ""
+msgstr "Ковры"
 
 msgid "Same unlock, choose your price."
-msgstr ""
+msgstr "Одинаковая разблокировка, выберите цену."
 
 msgid "Sat"
-msgstr ""
+msgstr "Сб"
 
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #~ msgid "Sea"
 #~ msgstr ""
@@ -734,19 +875,37 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Sea Creatures"
-msgstr ""
+msgstr "Морские существа"
 
 msgid "Search"
+msgstr "Поиск"
+
+msgid "Season/Event"
+msgstr ""
+
+msgid "Season/Event Exclusive"
+msgstr ""
+
+msgid "Select an island in the app to set a weather seed."
 msgstr ""
 
 msgid "Select or create island"
+msgstr "Выбрать или создать остров"
+
+msgid "Sell"
 msgstr ""
 
 msgid "Sep"
+msgstr "Сен"
+
+msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgstr ""
+
+msgid "Set time to match your game"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #~ msgid "Shaking trees"
 #~ msgstr ""
@@ -755,127 +914,163 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Shoes"
-msgstr ""
+msgstr "Обувь"
 
 msgid "Sign in with Google"
-msgstr ""
+msgstr "Войти через Google"
 
 msgid "Sign in with Google to back up and restore your island data."
-msgstr ""
+msgstr "Войдите через Google, чтобы создать резервную копию и восстановить данные острова."
 
 msgid "Sign out"
-msgstr ""
+msgstr "Выйти"
 
 msgid "Sign out failed."
-msgstr ""
+msgstr "Выход не удался."
 
 msgid "Sign-in could not start. Try again."
-msgstr ""
+msgstr "Не удалось начать вход. Повторите попытку."
 
 msgid "Sign-in failed."
-msgstr ""
+msgstr "Вход не удался."
 
 msgid "Signed in"
-msgstr ""
+msgstr "Выполнен вход"
 
 #~ msgid "Small"
 #~ msgstr ""
 
 msgid "Small spike"
-msgstr ""
+msgstr "Небольшой скачок"
 
 msgid "Socks"
-msgstr ""
+msgstr "Носки"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr "Некоторые текущие данные могут быть перезаписаны: сведения об острове (название, полушарие, фрукт), статус пожертвований в музей и текущие жители будут заменены резервной копией. Импортированные элементы списка добавляются к вашим существующим спискам."
+
+msgid "Source"
 msgstr ""
 
 msgid "Southern Hemisphere"
-msgstr ""
+msgstr "Южное полушарие"
 
 msgid "Species"
+msgstr "Вид"
+
+msgid "spreadsheet"
 msgstr ""
 
-msgid "Start fresh"
-msgstr ""
+#~ msgid "Start fresh"
+#~ msgstr ""
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "Подписки"
 
 msgid "Support"
-msgstr ""
+msgstr "Поддержка"
 
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
+msgstr "Поддержите приложение и наслаждайтесь работой без рекламы. Одинаковая разблокировка, выберите цену."
+
+msgid "Tap Add to create your first note."
 msgstr ""
 
 msgid "Thank you"
-msgstr ""
+msgstr "Спасибо"
 
-msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgid "Thank you for your support! You can leave a tip if you'd like."
+#~ msgstr "Спасибо за вашу поддержку! Вы можете оставить чаевые, если хотите."
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgstr ""
+
+msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
 
 msgid "Thanks for your support! You have premium access."
+msgstr "Спасибо за вашу поддержку! У вас есть премиум-доступ."
+
+msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
-msgstr ""
+msgstr "Вот что мы нашли. Подтвердите, что хотите отметить все эти предметы как внесённые в каталог."
 
 msgid "this website"
-msgstr ""
+msgstr "этот сайт"
 
 msgid "This week's prices"
-msgstr ""
+msgstr "Цены на этой неделе"
 
 msgid "Thu"
-msgstr ""
+msgstr "Чт"
 
 msgid "Tips"
+msgstr "Советы"
+
+msgid "Title"
+msgstr ""
+
+msgid "To find your seed, open MeteoNook and follow the guide to log your island's weather. Then enter the seed below. Leave empty to hide weather."
 msgstr ""
 
 msgid "Tools/Goods"
-msgstr ""
+msgstr "Инструменты/Товары"
 
 msgid "Tops"
-msgstr ""
+msgstr "Верхняя одежда"
 
 msgid "Total items:"
+msgstr "Всего предметов:"
+
+msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
 msgid "Tue"
-msgstr ""
+msgstr "Вт"
 
 msgid "Turnips"
-msgstr ""
+msgstr "Репа"
 
 msgid "Uncheck multiple variants"
-msgstr ""
+msgstr "Снять отметку с нескольких вариантов"
 
 msgid "Unchecked items with multiple variants:"
-msgstr ""
+msgstr "Неотмеченные предметы с несколькими вариантами:"
 
 #~ msgid "Underground (dig where noise is loudest)"
 #~ msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
-msgstr ""
+msgstr "Уникальные предметы (без дублей вариантов):"
 
 msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Untitled"
 msgstr ""
 
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Предстоящие события"
 
 msgid "Update channel"
-msgstr ""
+msgstr "Канал обновлений"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "Проверка обновлений не удалась"
 
 msgid "Update downloaded. Tap Restart to apply."
+msgstr "Обновление загружено. Нажмите Перезапустить для применения."
+
+msgid "Updated"
+msgstr ""
+
+msgid "Use device time"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 #~ msgid "Very Easy"
 #~ msgstr ""
@@ -887,31 +1082,52 @@ msgstr ""
 #~ msgstr ""
 
 msgid "View full calendar"
-msgstr ""
+msgstr "Просмотреть полный календарь"
 
 msgid "Villagers"
-msgstr ""
+msgstr "Жители"
 
 msgid "Wall-mounted"
-msgstr ""
+msgstr "Настенный декор"
 
 msgid "Wallpaper"
+msgstr "Обои"
+
+msgid "Watch an ad to hide ads for 2 hours"
 msgstr ""
 
-msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
-msgstr ""
+#~ msgid "Watch an ad to hide ads for 24 hours"
+#~ msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+#~ msgstr ""
 
 #~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
 #~ msgstr ""
 
+msgid "Weather"
+msgstr ""
+
+msgid "Weather prediction"
+msgstr ""
+
+msgid "Weather prediction in this app uses code ported from MeteoNook by Ash Wolf (Ninji). MeteoNook is licensed under the GNU Affero General Public License v3.0."
+msgstr ""
+
+msgid "Weather seed"
+msgstr ""
+
 msgid "Wed"
+msgstr "Ср"
+
+msgid "What time does your game show right now?"
 msgstr ""
 
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
-msgstr ""
+msgstr "При включении пожертвование предмета в музей также добавляет его в список каталогизированных."
 
-msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
-msgstr ""
+#~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+#~ msgstr "При включении предметы с несколькими цветами или вариантами (например, мебель) отображаются в одной строке с выбором варианта. При выключении каждый вариант — отдельная строка."
 
 #~ msgid "X-Large"
 #~ msgstr ""
@@ -926,7 +1142,10 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 msgid "Your Island's turnip Info"
+msgstr "Информация о репе на вашем острове"
+
+msgid "Your time"
 msgstr ""

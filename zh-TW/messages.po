@@ -14,27 +14,51 @@ msgstr ""
 "Plural-Forms: \n"
 
 msgid " to scan your catalog."
+msgstr " 掃描你的圖鑑。"
+
+msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
-msgid "(no legacy data or loading…)"
-msgstr ""
+#~ msgid "(no legacy data or loading…)"
+#~ msgstr ""
 
 msgid "{selectedCount} items selected"
-msgstr ""
+msgstr "已選取 {selectedCount} 件物品"
 
 msgid "1 item selected"
-msgstr ""
+msgstr "已選取 1 件物品"
 
 msgid "About"
+msgstr "關於"
+
+msgid "About the app"
 msgstr ""
 
 msgid "Accessories"
+msgstr "配件"
+
+msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
+msgstr ""
+
+msgid "Add"
 msgstr ""
 
 msgid "Add item"
+msgstr "新增物品"
+
+msgid "Add note"
 msgstr ""
 
 msgid "Add to catalogue when donating"
+msgstr "捐贈時新增至圖鑑"
+
+msgid "Ads hidden until"
+msgstr ""
+
+msgid "Allow more than 10 villagers"
+msgstr ""
+
+msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
 #~ msgid "Any except rain"
@@ -44,154 +68,196 @@ msgstr ""
 #~ msgstr ""
 
 msgid "App language"
-msgstr ""
+msgstr "應用程式語言"
 
 msgid "App updates"
-msgstr ""
+msgstr "應用程式更新"
 
 msgid "Applying backup…"
-msgstr ""
+msgstr "正在套用備份…"
 
 msgid "Apr"
-msgstr ""
+msgstr "4月"
 
 msgid "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
-msgstr ""
+msgstr "確定嗎？你的所有資料將被永久刪除。你需要重新設定你的島嶼。"
 
 msgid "Art"
-msgstr ""
+msgstr "藝術品"
 
 msgid "Artwork"
+msgstr "藝術品"
+
+msgid "Attribution"
 msgstr ""
 
 msgid "Aug"
+msgstr "8月"
+
+msgid "Aurora borealis"
 msgstr ""
 
 msgid "Available version"
-msgstr ""
+msgstr "可用版本"
 
 msgid "Back to settings"
-msgstr ""
+msgstr "返回設定"
 
 msgid "Back up to iCloud"
-msgstr ""
+msgstr "備份至 iCloud"
 
 msgid "Backup"
-msgstr ""
+msgstr "備份"
 
 msgid "Backup data has been applied to your island."
-msgstr ""
+msgstr "備份資料已套用至你的島嶼。"
 
 msgid "Backup failed."
-msgstr ""
+msgstr "備份失敗。"
 
 msgid "Backup UUID (Firebase UID)"
-msgstr ""
+msgstr "備份 UUID（Firebase UID）"
 
 msgid "Bags"
-msgstr ""
+msgstr "包包"
 
 msgid "Birthday"
-msgstr ""
+msgstr "生日"
 
 msgid "Bottoms"
-msgstr ""
+msgstr "下裝"
 
 msgid "Build"
+msgstr "Build"
+
+msgid "Buy"
 msgstr ""
 
 msgid "Buy price"
-msgstr ""
+msgstr "購入價格"
 
 msgid "Calendar"
-msgstr ""
+msgstr "行事曆"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Catalog {selectedCount} Items"
-msgstr ""
+msgstr "將 {selectedCount} 件物品加入圖鑑"
 
 msgid "Catalog 1 Item"
-msgstr ""
+msgstr "將 1 件物品加入圖鑑"
 
 msgid "Cataloguing…"
-msgstr ""
+msgstr "正在加入圖鑑…"
 
 msgid "Ceiling Decor"
-msgstr ""
+msgstr "吊飾"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "檢查更新"
 
 msgid "Check multiple variants"
-msgstr ""
+msgstr "勾選多個款式"
 
 msgid "Checking for update…"
-msgstr ""
+msgstr "正在檢查更新…"
 
 msgid "Checklist name"
-msgstr ""
+msgstr "清單名稱"
 
 msgid "Choose a plan to support the app."
-msgstr ""
+msgstr "選擇方案來支持本應用程式。"
 
 msgid "Cloud storage path error. Try again."
+msgstr "雲端儲存路徑錯誤。請重試。"
+
+msgid "Contact"
 msgstr ""
 
 msgid "Continue"
+msgstr "繼續"
+
+msgid "Copied"
 msgstr ""
 
-msgid "Copy"
+#~ msgid "Copy"
+#~ msgstr ""
+
+msgid "Copy failed"
+msgstr ""
+
+msgid "Copy list"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not copy to clipboard."
 msgstr ""
 
 msgid "Could not get Google access token. Try signing out and back in."
-msgstr ""
+msgstr "無法取得 Google 存取權杖。請嘗試登出後重新登入。"
 
 msgid "Could not write backup to Google Drive."
-msgstr ""
+msgstr "無法將備份寫入 Google 雲端硬碟。"
 
 msgid "Could not write backup to iCloud."
-msgstr ""
+msgstr "無法將備份寫入 iCloud。"
 
 msgid "Critters"
-msgstr ""
+msgstr "小動物"
 
 msgid "Current version"
-msgstr ""
+msgstr "目前版本"
 
 msgid "Daily Checklist"
+msgstr "每日清單"
+
+msgid "Daily note"
 msgstr ""
 
 msgid "Danger zone"
-msgstr ""
+msgstr "危險區域"
 
 msgid "Data"
+msgstr "資料"
+
+msgid "Data on this app is taken from the community"
 msgstr ""
 
 msgid "Database not ready"
-msgstr ""
+msgstr "資料庫尚未就緒"
 
 msgid "Database not ready."
-msgstr ""
+msgstr "資料庫尚未就緒。"
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Dec"
-msgstr ""
+msgstr "12月"
 
 msgid "Decreasing"
-msgstr ""
+msgstr "下降"
 
 msgid "Default (no override)"
+msgstr "預設（無覆蓋）"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
+msgstr "刪除所有內容"
+
+msgid "Delete list?"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "詳細資訊"
 
 #~ msgid "Disguised on shoreline"
 #~ msgstr ""
@@ -200,76 +266,97 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Done"
+msgstr "完成"
+
+msgid "Double rainbow at {time}"
 msgstr ""
 
 msgid "Download error"
-msgstr ""
+msgstr "下載錯誤"
 
 msgid "Download failed"
-msgstr ""
+msgstr "下載失敗"
 
 msgid "Download update"
-msgstr ""
+msgstr "下載更新"
 
 msgid "Downloading…"
-msgstr ""
+msgstr "正在下載…"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "服裝"
 
 msgid "e.g. 100"
+msgstr "例：100"
+
+msgid "e.g. 1234567890"
 msgstr ""
 
 #~ msgid "Easy"
 #~ msgstr ""
 
-msgid "Edit List"
+msgid "Edit"
 msgstr ""
+
+msgid "Edit List"
+msgstr "編輯清單"
 
 msgid "Edit localization"
-msgstr ""
+msgstr "編輯在地化"
 
 msgid "Embedded build"
-msgstr ""
+msgstr "內嵌版本"
 
 msgid "Enter a backup UUID"
+msgstr "輸入備份 UUID"
+
+msgid "Error"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Exchange Currency"
+msgstr ""
+
+msgid "Exchange Price"
 msgstr ""
 
 msgid "Failed to load events"
-msgstr ""
+msgstr "活動載入失敗"
 
 msgid "Fashion"
-msgstr ""
+msgstr "時尚"
 
 msgid "Favorites"
-msgstr ""
+msgstr "我的最愛"
 
 msgid "Feb"
-msgstr ""
+msgstr "2月"
 
 msgid "Fencing"
-msgstr ""
+msgstr "圍欄"
 
 msgid "Fetching backup…"
-msgstr ""
+msgstr "正在取得備份…"
 
 msgid "Find items"
-msgstr ""
+msgstr "尋找物品"
 
 msgid "Finding items…"
-msgstr ""
+msgstr "正在尋找物品…"
 
 msgid "First time buyer?"
-msgstr ""
+msgstr "第一次購買？"
 
 msgid "Fish"
-msgstr ""
+msgstr "魚"
 
 msgid "Floors"
-msgstr ""
+msgstr "地板"
 
 msgid "Fluctuating"
-msgstr ""
+msgstr "小幅波動"
 
 #~ msgid "Flying"
 #~ msgstr ""
@@ -290,259 +377,304 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Fossils"
-msgstr ""
+msgstr "化石"
 
 msgid "Fri"
-msgstr ""
+msgstr "週五"
 
 #~ msgid "From hitting rocks"
 #~ msgstr ""
 
 msgid "Furnitures"
+msgstr "家具"
+
+msgid "Game time"
 msgstr ""
 
 msgid "Gender"
+msgstr "性別"
+
+msgid "Go back"
 msgstr ""
 
 msgid "Go to "
-msgstr ""
+msgstr "前往 "
 
 msgid "Google Drive access denied. Try signing out and back in."
-msgstr ""
+msgstr "Google 雲端硬碟存取被拒。請嘗試登出後重新登入。"
 
 msgid "Google Play Services are not available or outdated."
-msgstr ""
+msgstr "Google Play 服務不可用或已過時。"
 
 msgid "Grid"
-msgstr ""
+msgstr "網格"
 
-msgid "Group item variants"
-msgstr ""
+#~ msgid "Group item variants"
+#~ msgstr "合併物品款式"
 
 msgid "Gyroid"
-msgstr ""
+msgstr "埴輪"
 
 #~ msgid "Hard"
 #~ msgstr ""
 
 msgid "Headwear"
-msgstr ""
+msgstr "帽飾"
 
 msgid "Hobby"
-msgstr ""
+msgstr "嗜好"
 
 msgid "Home"
-msgstr ""
+msgstr "首頁"
 
 msgid "Housewares"
-msgstr ""
+msgstr "家居用品"
 
 msgid "iCloud"
-msgstr ""
+msgstr "iCloud"
 
 msgid "iCloud is not available. Sign in to iCloud in Settings."
-msgstr ""
+msgstr "iCloud 不可用。請在設定中登入 iCloud。"
 
 msgid "iCloud sign-in required. Check Settings."
-msgstr ""
+msgstr "需要登入 iCloud。請檢查設定。"
 
 msgid "Icon URL"
-msgstr ""
+msgstr "圖示 URL"
 
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
-msgstr ""
+msgstr "如果你剛執行了尋找物品但什麼都沒出現，我們沒有找到相符項目。請確保應用程式語言與遊戲語言一致。"
 
 msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr ""
+msgstr "如果你曾使用舊版 ACNH Guide 應用程式，可以在此恢復備份。輸入備份 UUID 以將以下內容匯入此應用程式："
 
 msgid "Import"
-msgstr ""
+msgstr "匯入"
 
 msgid "Import — confirm"
-msgstr ""
+msgstr "匯入 — 確認"
 
 msgid "Import backup"
-msgstr ""
+msgstr "匯入備份"
 
 msgid "Import backup (dev)"
-msgstr ""
+msgstr "匯入備份（dev）"
 
 msgid "Import complete"
-msgstr ""
+msgstr "匯入完成"
 
 msgid "Import failed"
-msgstr ""
+msgstr "匯入失敗"
 
 msgid "Import from Catalog Scanner"
-msgstr ""
+msgstr "從圖鑑掃描器匯入"
 
 msgid "Importing…"
+msgstr "正在匯入…"
+
+msgid "In-game images, icons, and other assets used in this app are © Nintendo."
+msgstr ""
+
+msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
 msgid "Insects"
-msgstr ""
+msgstr "昆蟲"
 
 msgid "Interior Structures"
-msgstr ""
+msgstr "室內建材"
 
 msgid "Island Name"
-msgstr ""
+msgstr "島嶼名稱"
 
 msgid "Items"
-msgstr ""
+msgstr "物品"
 
 msgid "Items have been added to your catalog."
-msgstr ""
+msgstr "物品已新增至你的圖鑑。"
 
-msgid "Items list"
-msgstr ""
+#~ msgid "Items list"
+#~ msgstr "物品清單"
 
 msgid "Items not found"
-msgstr ""
+msgstr "找不到物品"
 
 msgid "Jan"
-msgstr ""
+msgstr "1月"
 
 msgid "Journal"
-msgstr ""
+msgstr "日誌"
 
 msgid "Jul"
-msgstr ""
+msgstr "7月"
 
 msgid "Jun"
-msgstr ""
+msgstr "6月"
 
 msgid "Language / localization"
-msgstr ""
+msgstr "語言 / 在地化"
 
 #~ msgid "Large"
 #~ msgstr ""
 
 msgid "Large spike"
-msgstr ""
+msgstr "大幅上漲"
 
 msgid "Last backed up"
-msgstr ""
+msgstr "上次備份"
 
 msgid "Last backed up to Google Cloud"
-msgstr ""
+msgstr "上次備份至 Google Cloud"
 
 msgid "Last warning"
-msgstr ""
+msgstr "最後警告"
 
 msgid "Leaving in the next hour"
-msgstr ""
+msgstr "將在一小時內離開"
 
 msgid "Less"
+msgstr "較少"
+
+msgid "License"
 msgstr ""
 
 msgid "lines"
-msgstr ""
+msgstr "行"
 
 msgid "List"
-msgstr ""
+msgstr "清單"
 
 msgid "Lists"
-msgstr ""
+msgstr "清單"
 
 msgid "Loading details…"
-msgstr ""
+msgstr "正在載入詳細資訊…"
 
 msgid "Loading…"
-msgstr ""
+msgstr "正在載入…"
 
 #~ msgid "Long"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
+msgstr "請確保你的 Switch 和此應用程式使用相同的語言/在地化設定。"
+
+msgid "Manage ad consent"
 msgstr ""
 
 msgid "Mar"
-msgstr ""
+msgstr "3月"
 
 msgid "May"
-msgstr ""
+msgstr "5月"
 
 #~ msgid "Medium"
 #~ msgstr ""
+
+msgid "MeteoNook on GitHub"
+msgstr ""
+
+msgid "Meteor shower (heavy)"
+msgstr ""
+
+msgid "Meteor shower (light)"
+msgstr ""
 
 #~ msgid "Migrate"
 #~ msgstr ""
 
 msgid "Migrate data from old app"
+msgstr "從舊版應用程式遷移資料"
+
+#~ msgid "Migrate from previous app"
+#~ msgstr ""
+
+#~ msgid "Migrate my data"
+#~ msgstr ""
+
+#~ msgid "Migrating…"
+#~ msgstr ""
+
+#~ msgid "Migration failed or no data to migrate."
+#~ msgstr ""
+
+msgid "Migration notice"
 msgstr ""
 
-msgid "Migrate from previous app"
-msgstr ""
-
-msgid "Migrate my data"
-msgstr ""
-
-msgid "Migrating…"
-msgstr ""
-
-msgid "Migration failed or no data to migrate."
+msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "其他"
 
 msgid "Mon"
-msgstr ""
+msgstr "週一"
 
 msgid "More"
-msgstr ""
+msgstr "更多"
 
 msgid "Museum"
-msgstr ""
+msgstr "博物館"
 
 msgid "Museum & catalogue"
-msgstr ""
+msgstr "博物館與圖鑑"
 
 msgid "Music"
-msgstr ""
+msgstr "音樂"
 
 msgid "Next events"
-msgstr ""
+msgstr "近期活動"
 
 msgid "No"
-msgstr ""
+msgstr "否"
 
 msgid "No backup found in Google Drive."
-msgstr ""
+msgstr "在 Google 雲端硬碟中找不到備份。"
 
 msgid "No backup found in iCloud."
-msgstr ""
+msgstr "在 iCloud 中找不到備份。"
 
 msgid "No events this week"
-msgstr ""
+msgstr "本週沒有活動"
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
-msgstr ""
+msgstr "未選擇島嶼。請選擇或建立一個島嶼以編輯玩家和島嶼資訊。"
 
 msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
+msgstr "沒有需要確認的物品。請返回並貼上物品名稱清單（每行一個），然後點選尋找物品。"
+
+msgid "No notes yet"
 msgstr ""
 
 msgid "No offerings available at the moment. Please try again later."
-msgstr ""
+msgstr "目前沒有可用方案。請稍後再試。"
 
 msgid "Northern Hemisphere"
-msgstr ""
+msgstr "北半球"
 
 msgid "Not found:"
+msgstr "找不到："
+
+msgid "Note"
+msgstr ""
+
+msgid "Note not found"
+msgstr ""
+
+msgid "Notes"
 msgstr ""
 
 msgid "Nov"
-msgstr ""
+msgstr "11月"
 
 msgid "Oct"
-msgstr ""
+msgstr "10月"
 
 msgid "OK"
-msgstr ""
+msgstr "確定"
 
-msgid "Old state we're migrating from:"
-msgstr ""
+#~ msgid "Old state we're migrating from:"
+#~ msgstr ""
 
 #~ msgid "On beach rocks"
 #~ msgstr ""
@@ -580,62 +712,68 @@ msgstr ""
 #~ msgid "On white flowers"
 #~ msgstr ""
 
-msgid "Open Turnip Prophet"
+msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
+
+msgid "Open Turnip Prophet"
+msgstr "開啟 Turnip Prophet"
 
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 msgid "Override which channel to fetch updates from:"
-msgstr ""
+msgstr "覆蓋取得更新的頻道："
 
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
-msgstr ""
+msgstr "在下方貼上物品名稱清單，每行一個。比對使用應用程式目前語言。我們將找到這些物品並讓你將它們全部標記為已收錄。"
 
 msgid "Paste at least one item name (one per line)."
-msgstr ""
+msgstr "請至少貼上一個物品名稱（每行一個）。"
 
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "從剪貼簿貼上"
 
 msgid "paste items here"
-msgstr ""
+msgstr "在此貼上物品"
 
 msgid "Personality"
-msgstr ""
+msgstr "個性"
 
 msgid "Photos"
-msgstr ""
+msgstr "照片"
 
 #~ msgid "Pier"
 #~ msgstr ""
 
 msgid "Player Name"
-msgstr ""
+msgstr "玩家名稱"
 
 #~ msgid "Pond"
 #~ msgstr ""
 
 msgid "Posters"
-msgstr ""
+msgstr "海報"
 
 msgid "Preferred colors"
-msgstr ""
+msgstr "喜好顏色"
 
 msgid "Preferred style"
-msgstr ""
+msgstr "喜好風格"
 
 msgid "Premium"
-msgstr ""
+msgstr "進階版"
 
 msgid "Previous week's pattern"
+msgstr "上週走勢"
+
+msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "個人檔案"
 
 #~ msgid "Pushing snowballs"
 #~ msgstr ""
@@ -643,29 +781,32 @@ msgstr ""
 #~ msgid "Rain only"
 #~ msgstr ""
 
-msgid "Reactions"
+msgid "Rainbow at {time}"
 msgstr ""
+
+msgid "Reactions"
+msgstr "表情動作"
 
 msgid "Recipe"
-msgstr ""
+msgstr "DIY 配方"
 
 msgid "Recipes"
-msgstr ""
+msgstr "DIY 配方"
 
 msgid "Reset app data"
-msgstr ""
+msgstr "重置應用程式資料"
 
 msgid "Reset app data?"
-msgstr ""
+msgstr "重置應用程式資料？"
 
-msgid "Reset migration done (dev)"
-msgstr ""
+#~ msgid "Reset migration done (dev)"
+#~ msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
-msgstr ""
+msgstr "重置將刪除所有應用程式資料。你需要重新設定島嶼。"
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
-msgstr ""
+msgstr "重置將刪除應用程式中儲存的所有資料，包括島嶼、進度、清單和設定。此操作無法復原。"
 
 #~ msgid "Resolving custom lists…"
 #~ msgstr ""
@@ -677,34 +818,34 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Restart failed"
-msgstr ""
+msgstr "重新啟動失敗"
 
 msgid "Restart to apply update"
-msgstr ""
+msgstr "重新啟動以套用更新"
 
 msgid "Restore"
-msgstr ""
+msgstr "還原"
 
 msgid "Restore backup"
-msgstr ""
+msgstr "還原備份"
 
 msgid "Restore failed."
-msgstr ""
+msgstr "還原失敗。"
 
 msgid "Restore from Google Cloud"
-msgstr ""
+msgstr "從 Google Cloud 還原"
 
 msgid "Restore from iCloud"
-msgstr ""
+msgstr "從 iCloud 還原"
 
 msgid "Restore purchases"
-msgstr ""
+msgstr "還原購買項目"
 
 msgid "Restore will replace your current island data. Continue?"
-msgstr ""
+msgstr "還原將取代目前的島嶼資料。繼續？"
 
 msgid "Retry"
-msgstr ""
+msgstr "重試"
 
 #~ msgid "River"
 #~ msgstr ""
@@ -716,16 +857,16 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Rugs"
-msgstr ""
+msgstr "地毯"
 
 msgid "Same unlock, choose your price."
-msgstr ""
+msgstr "相同解鎖內容，選擇你的價格。"
 
 msgid "Sat"
-msgstr ""
+msgstr "週六"
 
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #~ msgid "Sea"
 #~ msgstr ""
@@ -734,19 +875,37 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Sea Creatures"
-msgstr ""
+msgstr "海洋生物"
 
 msgid "Search"
+msgstr "搜尋"
+
+msgid "Season/Event"
+msgstr ""
+
+msgid "Season/Event Exclusive"
+msgstr ""
+
+msgid "Select an island in the app to set a weather seed."
 msgstr ""
 
 msgid "Select or create island"
+msgstr "選擇或建立島嶼"
+
+msgid "Sell"
 msgstr ""
 
 msgid "Sep"
+msgstr "9月"
+
+msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgstr ""
+
+msgid "Set time to match your game"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #~ msgid "Shaking trees"
 #~ msgstr ""
@@ -755,127 +914,163 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Shoes"
-msgstr ""
+msgstr "鞋子"
 
 msgid "Sign in with Google"
-msgstr ""
+msgstr "使用 Google 登入"
 
 msgid "Sign in with Google to back up and restore your island data."
-msgstr ""
+msgstr "使用 Google 登入以備份和還原島嶼資料。"
 
 msgid "Sign out"
-msgstr ""
+msgstr "登出"
 
 msgid "Sign out failed."
-msgstr ""
+msgstr "登出失敗。"
 
 msgid "Sign-in could not start. Try again."
-msgstr ""
+msgstr "登入無法開始。請重試。"
 
 msgid "Sign-in failed."
-msgstr ""
+msgstr "登入失敗。"
 
 msgid "Signed in"
-msgstr ""
+msgstr "已登入"
 
 #~ msgid "Small"
 #~ msgstr ""
 
 msgid "Small spike"
-msgstr ""
+msgstr "小幅上漲"
 
 msgid "Socks"
-msgstr ""
+msgstr "襪子"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr "你的部分目前資料可能被覆蓋：島嶼詳細資訊（名稱、半球、特產水果）、博物館捐贈狀態和目前居民將被備份取代。匯入的清單物品將新增至你現有的清單中。"
+
+msgid "Source"
 msgstr ""
 
 msgid "Southern Hemisphere"
-msgstr ""
+msgstr "南半球"
 
 msgid "Species"
+msgstr "種類"
+
+msgid "spreadsheet"
 msgstr ""
 
-msgid "Start fresh"
-msgstr ""
+#~ msgid "Start fresh"
+#~ msgstr ""
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "訂閱"
 
 msgid "Support"
-msgstr ""
+msgstr "支援"
 
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
+msgstr "支持本應用程式，享受無廣告體驗。相同解鎖內容，選擇你的價格。"
+
+msgid "Tap Add to create your first note."
 msgstr ""
 
 msgid "Thank you"
-msgstr ""
+msgstr "謝謝"
 
-msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgid "Thank you for your support! You can leave a tip if you'd like."
+#~ msgstr "感謝你的支持！如果願意，你可以留下小費。"
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgstr ""
+
+msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
 
 msgid "Thanks for your support! You have premium access."
+msgstr "感謝你的支持！你已擁有進階存取權限。"
+
+msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
-msgstr ""
+msgstr "這是我們找到的結果。確認是否將所有這些物品標記為已收錄。"
 
 msgid "this website"
-msgstr ""
+msgstr "此網站"
 
 msgid "This week's prices"
-msgstr ""
+msgstr "本週價格"
 
 msgid "Thu"
-msgstr ""
+msgstr "週四"
 
 msgid "Tips"
+msgstr "提示"
+
+msgid "Title"
+msgstr ""
+
+msgid "To find your seed, open MeteoNook and follow the guide to log your island's weather. Then enter the seed below. Leave empty to hide weather."
 msgstr ""
 
 msgid "Tools/Goods"
-msgstr ""
+msgstr "工具/雜貨"
 
 msgid "Tops"
-msgstr ""
+msgstr "上裝"
 
 msgid "Total items:"
+msgstr "物品總數："
+
+msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
 msgid "Tue"
-msgstr ""
+msgstr "週二"
 
 msgid "Turnips"
-msgstr ""
+msgstr "大頭菜"
 
 msgid "Uncheck multiple variants"
-msgstr ""
+msgstr "取消勾選多個款式"
 
 msgid "Unchecked items with multiple variants:"
-msgstr ""
+msgstr "有多個款式的未勾選物品："
 
 #~ msgid "Underground (dig where noise is loudest)"
 #~ msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
-msgstr ""
+msgstr "獨特物品（不含款式重複）："
 
 msgid "Unknown"
+msgstr "未知"
+
+msgid "Untitled"
 msgstr ""
 
 msgid "Upcoming Events"
-msgstr ""
+msgstr "即將到來的活動"
 
 msgid "Update channel"
-msgstr ""
+msgstr "更新頻道"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "更新檢查失敗"
 
 msgid "Update downloaded. Tap Restart to apply."
+msgstr "更新已下載。點選重新啟動以套用。"
+
+msgid "Updated"
+msgstr ""
+
+msgid "Use device time"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #~ msgid "Very Easy"
 #~ msgstr ""
@@ -887,31 +1082,52 @@ msgstr ""
 #~ msgstr ""
 
 msgid "View full calendar"
-msgstr ""
+msgstr "查看完整行事曆"
 
 msgid "Villagers"
-msgstr ""
+msgstr "居民"
 
 msgid "Wall-mounted"
-msgstr ""
+msgstr "壁掛式"
 
 msgid "Wallpaper"
+msgstr "壁紙"
+
+msgid "Watch an ad to hide ads for 2 hours"
 msgstr ""
 
-msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
-msgstr ""
+#~ msgid "Watch an ad to hide ads for 24 hours"
+#~ msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+#~ msgstr ""
 
 #~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
 #~ msgstr ""
 
+msgid "Weather"
+msgstr ""
+
+msgid "Weather prediction"
+msgstr ""
+
+msgid "Weather prediction in this app uses code ported from MeteoNook by Ash Wolf (Ninji). MeteoNook is licensed under the GNU Affero General Public License v3.0."
+msgstr ""
+
+msgid "Weather seed"
+msgstr ""
+
 msgid "Wed"
+msgstr "週三"
+
+msgid "What time does your game show right now?"
 msgstr ""
 
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
-msgstr ""
+msgstr "開啟後，向博物館捐贈物品時也會將其新增至你的已收錄清單。"
 
-msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
-msgstr ""
+#~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+#~ msgstr "開啟後，擁有多種顏色或款式的物品（如家具）將顯示為一行並附帶款式選擇器。關閉後，每種款式單獨顯示為一行。"
 
 #~ msgid "X-Large"
 #~ msgstr ""
@@ -926,7 +1142,10 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 msgid "Your Island's turnip Info"
+msgstr "你的島嶼大頭菜資訊"
+
+msgid "Your time"
 msgstr ""

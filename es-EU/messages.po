@@ -14,27 +14,51 @@ msgstr ""
 "Plural-Forms: \n"
 
 msgid " to scan your catalog."
+msgstr " para escanear tu catálogo."
+
+msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
-msgid "(no legacy data or loading…)"
-msgstr ""
+#~ msgid "(no legacy data or loading…)"
+#~ msgstr "(sin datos heredados o cargando…)"
 
 msgid "{selectedCount} items selected"
-msgstr ""
+msgstr "{selectedCount} objetos seleccionados"
 
 msgid "1 item selected"
-msgstr ""
+msgstr "1 objeto seleccionado"
 
 msgid "About"
+msgstr "Acerca de"
+
+msgid "About the app"
 msgstr ""
 
 msgid "Accessories"
+msgstr "Complementos"
+
+msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
+msgstr ""
+
+msgid "Add"
 msgstr ""
 
 msgid "Add item"
+msgstr "Añadir objeto"
+
+msgid "Add note"
 msgstr ""
 
 msgid "Add to catalogue when donating"
+msgstr "Añadir al catálogo al donar"
+
+msgid "Ads hidden until"
+msgstr ""
+
+msgid "Allow more than 10 villagers"
+msgstr ""
+
+msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
 #~ msgid "Any except rain"
@@ -44,154 +68,196 @@ msgstr ""
 #~ msgstr ""
 
 msgid "App language"
-msgstr ""
+msgstr "Idioma de la app"
 
 msgid "App updates"
-msgstr ""
+msgstr "Actualizaciones de la app"
 
 msgid "Applying backup…"
-msgstr ""
+msgstr "Aplicando copia de seguridad…"
 
 msgid "Apr"
-msgstr ""
+msgstr "Abr"
 
 msgid "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
-msgstr ""
+msgstr "¿Estás seguro? Todos tus datos se eliminarán permanentemente. Tendrás que configurar tu isla de nuevo."
 
 msgid "Art"
-msgstr ""
+msgstr "Arte"
 
 msgid "Artwork"
+msgstr "Obra de arte"
+
+msgid "Attribution"
 msgstr ""
 
 msgid "Aug"
+msgstr "Ago"
+
+msgid "Aurora borealis"
 msgstr ""
 
 msgid "Available version"
-msgstr ""
+msgstr "Versión disponible"
 
 msgid "Back to settings"
-msgstr ""
+msgstr "Volver a ajustes"
 
 msgid "Back up to iCloud"
-msgstr ""
+msgstr "Guardar en iCloud"
 
 msgid "Backup"
-msgstr ""
+msgstr "Copia de seguridad"
 
 msgid "Backup data has been applied to your island."
-msgstr ""
+msgstr "Los datos de la copia de seguridad se han aplicado a tu isla."
 
 msgid "Backup failed."
-msgstr ""
+msgstr "Error al hacer la copia de seguridad."
 
 msgid "Backup UUID (Firebase UID)"
-msgstr ""
+msgstr "UUID de copia de seguridad (Firebase UID)"
 
 msgid "Bags"
-msgstr ""
+msgstr "Bolsos"
 
 msgid "Birthday"
-msgstr ""
+msgstr "Cumpleaños"
 
 msgid "Bottoms"
-msgstr ""
+msgstr "Partes de Abajo"
 
 msgid "Build"
+msgstr "Build"
+
+msgid "Buy"
 msgstr ""
 
 msgid "Buy price"
-msgstr ""
+msgstr "Precio de compra"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Calendario"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Catalog {selectedCount} Items"
-msgstr ""
+msgstr "Catalogar {selectedCount} objetos"
 
 msgid "Catalog 1 Item"
-msgstr ""
+msgstr "Catalogar 1 objeto"
 
 msgid "Cataloguing…"
-msgstr ""
+msgstr "Catalogando…"
 
 msgid "Ceiling Decor"
-msgstr ""
+msgstr "Decoración de techo"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Buscar actualizaciones"
 
 msgid "Check multiple variants"
-msgstr ""
+msgstr "Marcar múltiples variantes"
 
 msgid "Checking for update…"
-msgstr ""
+msgstr "Buscando actualizaciones…"
 
 msgid "Checklist name"
-msgstr ""
+msgstr "Nombre de la lista"
 
 msgid "Choose a plan to support the app."
-msgstr ""
+msgstr "Elige un plan para apoyar la app."
 
 msgid "Cloud storage path error. Try again."
+msgstr "Error en la ruta de almacenamiento en la nube. Inténtalo de nuevo."
+
+msgid "Contact"
 msgstr ""
 
 msgid "Continue"
+msgstr "Continuar"
+
+msgid "Copied"
 msgstr ""
 
-msgid "Copy"
+#~ msgid "Copy"
+#~ msgstr "Copiar"
+
+msgid "Copy failed"
+msgstr ""
+
+msgid "Copy list"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not copy to clipboard."
 msgstr ""
 
 msgid "Could not get Google access token. Try signing out and back in."
-msgstr ""
+msgstr "No se pudo obtener el token de acceso de Google. Intenta cerrar sesión y volver a iniciarla."
 
 msgid "Could not write backup to Google Drive."
-msgstr ""
+msgstr "No se pudo escribir la copia de seguridad en Google Drive."
 
 msgid "Could not write backup to iCloud."
-msgstr ""
+msgstr "No se pudo escribir la copia de seguridad en iCloud."
 
 msgid "Critters"
-msgstr ""
+msgstr "Criaturas"
 
 msgid "Current version"
-msgstr ""
+msgstr "Versión actual"
 
 msgid "Daily Checklist"
+msgstr "Tareas Diarias"
+
+msgid "Daily note"
 msgstr ""
 
 msgid "Danger zone"
-msgstr ""
+msgstr "Zona de peligro"
 
 msgid "Data"
+msgstr "Datos"
+
+msgid "Data on this app is taken from the community"
 msgstr ""
 
 msgid "Database not ready"
-msgstr ""
+msgstr "Base de datos no preparada"
 
 msgid "Database not ready."
-msgstr ""
+msgstr "Base de datos no preparada."
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Dec"
-msgstr ""
+msgstr "Dic"
 
 msgid "Decreasing"
-msgstr ""
+msgstr "Decreciente"
 
 msgid "Default (no override)"
+msgstr "Por defecto (sin anular)"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
+msgstr "Eliminar todo"
+
+msgid "Delete list?"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 #~ msgid "Disguised on shoreline"
 #~ msgstr ""
@@ -200,76 +266,97 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Done"
+msgstr "Hecho"
+
+msgid "Double rainbow at {time}"
 msgstr ""
 
 msgid "Download error"
-msgstr ""
+msgstr "Error de descarga"
 
 msgid "Download failed"
-msgstr ""
+msgstr "Descarga fallida"
 
 msgid "Download update"
-msgstr ""
+msgstr "Descargar actualización"
 
 msgid "Downloading…"
-msgstr ""
+msgstr "Descargando…"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Equipables"
 
 msgid "e.g. 100"
+msgstr "p.ej. 100"
+
+msgid "e.g. 1234567890"
 msgstr ""
 
 #~ msgid "Easy"
 #~ msgstr ""
 
-msgid "Edit List"
+msgid "Edit"
 msgstr ""
+
+msgid "Edit List"
+msgstr "Editar lista"
 
 msgid "Edit localization"
-msgstr ""
+msgstr "Editar localización"
 
 msgid "Embedded build"
-msgstr ""
+msgstr "Build integrado"
 
 msgid "Enter a backup UUID"
+msgstr "Introduce un UUID de copia de seguridad"
+
+msgid "Error"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Exchange Currency"
+msgstr ""
+
+msgid "Exchange Price"
 msgstr ""
 
 msgid "Failed to load events"
-msgstr ""
+msgstr "Error al cargar los eventos"
 
 msgid "Fashion"
-msgstr ""
+msgstr "Moda"
 
 msgid "Favorites"
-msgstr ""
+msgstr "Favoritos"
 
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 msgid "Fencing"
-msgstr ""
+msgstr "Vallas"
 
 msgid "Fetching backup…"
-msgstr ""
+msgstr "Obteniendo copia de seguridad…"
 
 msgid "Find items"
-msgstr ""
+msgstr "Buscar objetos"
 
 msgid "Finding items…"
-msgstr ""
+msgstr "Buscando objetos…"
 
 msgid "First time buyer?"
-msgstr ""
+msgstr "¿Primera vez comprando?"
 
 msgid "Fish"
-msgstr ""
+msgstr "Peces"
 
 msgid "Floors"
-msgstr ""
+msgstr "Suelos"
 
 msgid "Fluctuating"
-msgstr ""
+msgstr "Fluctuante"
 
 #~ msgid "Flying"
 #~ msgstr ""
@@ -290,259 +377,304 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Fossils"
-msgstr ""
+msgstr "Fósiles"
 
 msgid "Fri"
-msgstr ""
+msgstr "Vie"
 
 #~ msgid "From hitting rocks"
 #~ msgstr ""
 
 msgid "Furnitures"
+msgstr "Muebles"
+
+msgid "Game time"
 msgstr ""
 
 msgid "Gender"
+msgstr "Género"
+
+msgid "Go back"
 msgstr ""
 
 msgid "Go to "
-msgstr ""
+msgstr "Ir a "
 
 msgid "Google Drive access denied. Try signing out and back in."
-msgstr ""
+msgstr "Acceso a Google Drive denegado. Intenta cerrar sesión y volver a iniciarla."
 
 msgid "Google Play Services are not available or outdated."
-msgstr ""
+msgstr "Los servicios de Google Play no están disponibles o están desactualizados."
 
 msgid "Grid"
-msgstr ""
+msgstr "Cuadrícula"
 
-msgid "Group item variants"
-msgstr ""
+#~ msgid "Group item variants"
+#~ msgstr "Agrupar variantes de objetos"
 
 msgid "Gyroid"
-msgstr ""
+msgstr "Giroide"
 
 #~ msgid "Hard"
 #~ msgstr ""
 
 msgid "Headwear"
-msgstr ""
+msgstr "Sombrerería"
 
 msgid "Hobby"
-msgstr ""
+msgstr "Hobby"
 
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 msgid "Housewares"
-msgstr ""
+msgstr "Muebles"
 
 msgid "iCloud"
-msgstr ""
+msgstr "iCloud"
 
 msgid "iCloud is not available. Sign in to iCloud in Settings."
-msgstr ""
+msgstr "iCloud no está disponible. Inicia sesión en iCloud en Ajustes."
 
 msgid "iCloud sign-in required. Check Settings."
-msgstr ""
+msgstr "Se requiere inicio de sesión en iCloud. Comprueba los Ajustes."
 
 msgid "Icon URL"
-msgstr ""
+msgstr "URL del icono"
 
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
-msgstr ""
+msgstr "Si acabas de buscar objetos y no aparece nada, no hemos encontrado coincidencias. Asegúrate de que el idioma de la app coincide con el de tu juego."
 
 msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr ""
+msgstr "Si usaste la aplicación ACNH Guide anterior, puedes restaurar tu copia de seguridad aquí. Introduce tu UUID de copia de seguridad para importar lo siguiente a esta app:"
 
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 msgid "Import — confirm"
-msgstr ""
+msgstr "Importar — confirmar"
 
 msgid "Import backup"
-msgstr ""
+msgstr "Importar copia de seguridad"
 
 msgid "Import backup (dev)"
-msgstr ""
+msgstr "Importar copia de seguridad (dev)"
 
 msgid "Import complete"
-msgstr ""
+msgstr "Importación completada"
 
 msgid "Import failed"
-msgstr ""
+msgstr "Importación fallida"
 
 msgid "Import from Catalog Scanner"
-msgstr ""
+msgstr "Importar desde Catalog Scanner"
 
 msgid "Importing…"
+msgstr "Importando…"
+
+msgid "In-game images, icons, and other assets used in this app are © Nintendo."
+msgstr ""
+
+msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
 msgid "Insects"
-msgstr ""
+msgstr "Insectos"
 
 msgid "Interior Structures"
-msgstr ""
+msgstr "Estructuras de interior"
 
 msgid "Island Name"
-msgstr ""
+msgstr "Nombre de la Isla"
 
 msgid "Items"
-msgstr ""
+msgstr "Objetos"
 
 msgid "Items have been added to your catalog."
-msgstr ""
+msgstr "Los objetos se han añadido a tu catálogo."
 
-msgid "Items list"
-msgstr ""
+#~ msgid "Items list"
+#~ msgstr "Lista de objetos"
 
 msgid "Items not found"
-msgstr ""
+msgstr "Objetos no encontrados"
 
 msgid "Jan"
-msgstr ""
+msgstr "Ene"
 
 msgid "Journal"
-msgstr ""
+msgstr "Diario"
 
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 msgid "Language / localization"
-msgstr ""
+msgstr "Idioma / localización"
 
 #~ msgid "Large"
 #~ msgstr ""
 
 msgid "Large spike"
-msgstr ""
+msgstr "Pico alto"
 
 msgid "Last backed up"
-msgstr ""
+msgstr "Última copia guardada"
 
 msgid "Last backed up to Google Cloud"
-msgstr ""
+msgstr "Última copia en Google Cloud"
 
 msgid "Last warning"
-msgstr ""
+msgstr "Último aviso"
 
 msgid "Leaving in the next hour"
-msgstr ""
+msgstr "Se va en la próxima hora"
 
 msgid "Less"
+msgstr "Menos"
+
+msgid "License"
 msgstr ""
 
 msgid "lines"
-msgstr ""
+msgstr "líneas"
 
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 msgid "Lists"
-msgstr ""
+msgstr "Listas"
 
 msgid "Loading details…"
-msgstr ""
+msgstr "Cargando detalles…"
 
 msgid "Loading…"
-msgstr ""
+msgstr "Cargando…"
 
 #~ msgid "Long"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
+msgstr "Asegúrate de que tu Switch y esta app usan el mismo idioma/localización."
+
+msgid "Manage ad consent"
 msgstr ""
 
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #~ msgid "Medium"
 #~ msgstr ""
+
+msgid "MeteoNook on GitHub"
+msgstr ""
+
+msgid "Meteor shower (heavy)"
+msgstr ""
+
+msgid "Meteor shower (light)"
+msgstr ""
 
 #~ msgid "Migrate"
 #~ msgstr ""
 
 msgid "Migrate data from old app"
+msgstr "Migrar datos de la app anterior"
+
+#~ msgid "Migrate from previous app"
+#~ msgstr "Migrar desde la app anterior"
+
+#~ msgid "Migrate my data"
+#~ msgstr "Migrar mis datos"
+
+#~ msgid "Migrating…"
+#~ msgstr "Migrando…"
+
+#~ msgid "Migration failed or no data to migrate."
+#~ msgstr "Migración fallida o sin datos que migrar."
+
+msgid "Migration notice"
 msgstr ""
 
-msgid "Migrate from previous app"
-msgstr ""
-
-msgid "Migrate my data"
-msgstr ""
-
-msgid "Migrating…"
-msgstr ""
-
-msgid "Migration failed or no data to migrate."
+msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Enseres"
 
 msgid "Mon"
-msgstr ""
+msgstr "Lun"
 
 msgid "More"
-msgstr ""
+msgstr "Más"
 
 msgid "Museum"
-msgstr ""
+msgstr "Museo"
 
 msgid "Museum & catalogue"
-msgstr ""
+msgstr "Museo y catálogo"
 
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 msgid "Next events"
-msgstr ""
+msgstr "Próximos eventos"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "No backup found in Google Drive."
-msgstr ""
+msgstr "No se encontró copia de seguridad en Google Drive."
 
 msgid "No backup found in iCloud."
-msgstr ""
+msgstr "No se encontró copia de seguridad en iCloud."
 
 msgid "No events this week"
-msgstr ""
+msgstr "No hay eventos esta semana"
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
-msgstr ""
+msgstr "No hay isla seleccionada. Elige o crea una isla para editar la información de tu jugador e isla."
 
 msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
+msgstr "No hay objetos que confirmar. Vuelve y pega una lista de nombres de objetos (uno por línea), luego toca Buscar objetos."
+
+msgid "No notes yet"
 msgstr ""
 
 msgid "No offerings available at the moment. Please try again later."
-msgstr ""
+msgstr "No hay ofertas disponibles en este momento. Por favor, inténtalo más tarde."
 
 msgid "Northern Hemisphere"
-msgstr ""
+msgstr "Hemisferio Norte"
 
 msgid "Not found:"
+msgstr "No encontrado:"
+
+msgid "Note"
+msgstr ""
+
+msgid "Note not found"
+msgstr ""
+
+msgid "Notes"
 msgstr ""
 
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
-msgid "Old state we're migrating from:"
-msgstr ""
+#~ msgid "Old state we're migrating from:"
+#~ msgstr "Estado anterior desde el que migramos:"
 
 #~ msgid "On beach rocks"
 #~ msgstr ""
@@ -580,62 +712,68 @@ msgstr ""
 #~ msgid "On white flowers"
 #~ msgstr ""
 
-msgid "Open Turnip Prophet"
+msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
+
+msgid "Open Turnip Prophet"
+msgstr "Abrir Turnip Prophet"
 
 msgid "Other"
-msgstr ""
+msgstr "Otros"
 
 msgid "Override which channel to fetch updates from:"
-msgstr ""
+msgstr "Anular el canal desde el que obtener actualizaciones:"
 
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
-msgstr ""
+msgstr "Pega una lista de nombres de objetos a continuación, uno por línea. La búsqueda usa el idioma actual de la app. Encontraremos esos objetos y te permitiremos marcarlos todos como catalogados."
 
 msgid "Paste at least one item name (one per line)."
-msgstr ""
+msgstr "Pega al menos un nombre de objeto (uno por línea)."
 
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "Pegar del portapapeles"
 
 msgid "paste items here"
-msgstr ""
+msgstr "pega objetos aquí"
 
 msgid "Personality"
-msgstr ""
+msgstr "Personalidad"
 
 msgid "Photos"
-msgstr ""
+msgstr "Fotos"
 
 #~ msgid "Pier"
 #~ msgstr ""
 
 msgid "Player Name"
-msgstr ""
+msgstr "Nombre del jugador"
 
 #~ msgid "Pond"
 #~ msgstr ""
 
 msgid "Posters"
-msgstr ""
+msgstr "Posters"
 
 msgid "Preferred colors"
-msgstr ""
+msgstr "Colores preferidos"
 
 msgid "Preferred style"
-msgstr ""
+msgstr "Estilo preferido"
 
 msgid "Premium"
-msgstr ""
+msgstr "Premium"
 
 msgid "Previous week's pattern"
+msgstr "Patrón de la semana anterior"
+
+msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #~ msgid "Pushing snowballs"
 #~ msgstr ""
@@ -643,29 +781,32 @@ msgstr ""
 #~ msgid "Rain only"
 #~ msgstr ""
 
-msgid "Reactions"
+msgid "Rainbow at {time}"
 msgstr ""
+
+msgid "Reactions"
+msgstr "Reacciones"
 
 msgid "Recipe"
-msgstr ""
+msgstr "Receta"
 
 msgid "Recipes"
-msgstr ""
+msgstr "Recetas"
 
 msgid "Reset app data"
-msgstr ""
+msgstr "Restablecer datos de la app"
 
 msgid "Reset app data?"
-msgstr ""
+msgstr "¿Restablecer datos de la app?"
 
-msgid "Reset migration done (dev)"
-msgstr ""
+#~ msgid "Reset migration done (dev)"
+#~ msgstr "Restablecer migración completada (dev)"
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
-msgstr ""
+msgstr "Restablecer eliminará todos los datos de la app. Tendrás que configurar tu isla de nuevo."
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
-msgstr ""
+msgstr "Restablecer eliminará todos los datos almacenados en la app, incluida tu isla, progreso, listas y ajustes. Esta acción no se puede deshacer."
 
 #~ msgid "Resolving custom lists…"
 #~ msgstr ""
@@ -677,34 +818,34 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Restart failed"
-msgstr ""
+msgstr "Error al reiniciar"
 
 msgid "Restart to apply update"
-msgstr ""
+msgstr "Reiniciar para aplicar la actualización"
 
 msgid "Restore"
-msgstr ""
+msgstr "Restaurar"
 
 msgid "Restore backup"
-msgstr ""
+msgstr "Restaurar copia de seguridad"
 
 msgid "Restore failed."
-msgstr ""
+msgstr "Restauración fallida."
 
 msgid "Restore from Google Cloud"
-msgstr ""
+msgstr "Restaurar desde Google Cloud"
 
 msgid "Restore from iCloud"
-msgstr ""
+msgstr "Restaurar desde iCloud"
 
 msgid "Restore purchases"
-msgstr ""
+msgstr "Restaurar compras"
 
 msgid "Restore will replace your current island data. Continue?"
-msgstr ""
+msgstr "La restauración reemplazará los datos actuales de tu isla. ¿Continuar?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Reintentar"
 
 #~ msgid "River"
 #~ msgstr ""
@@ -716,16 +857,16 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Rugs"
-msgstr ""
+msgstr "Alfombras"
 
 msgid "Same unlock, choose your price."
-msgstr ""
+msgstr "Mismo desbloqueo, elige tu precio."
 
 msgid "Sat"
-msgstr ""
+msgstr "Sab"
 
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #~ msgid "Sea"
 #~ msgstr ""
@@ -734,19 +875,37 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Sea Creatures"
-msgstr ""
+msgstr "Criaturas marinas"
 
 msgid "Search"
+msgstr "Buscar"
+
+msgid "Season/Event"
+msgstr ""
+
+msgid "Season/Event Exclusive"
+msgstr ""
+
+msgid "Select an island in the app to set a weather seed."
 msgstr ""
 
 msgid "Select or create island"
+msgstr "Seleccionar o crear isla"
+
+msgid "Sell"
 msgstr ""
 
 msgid "Sep"
+msgstr "Sep"
+
+msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgstr ""
+
+msgid "Set time to match your game"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 #~ msgid "Shaking trees"
 #~ msgstr ""
@@ -755,127 +914,163 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Shoes"
-msgstr ""
+msgstr "Calzado"
 
 msgid "Sign in with Google"
-msgstr ""
+msgstr "Iniciar sesión con Google"
 
 msgid "Sign in with Google to back up and restore your island data."
-msgstr ""
+msgstr "Inicia sesión con Google para hacer copias de seguridad y restaurar los datos de tu isla."
 
 msgid "Sign out"
-msgstr ""
+msgstr "Cerrar sesión"
 
 msgid "Sign out failed."
-msgstr ""
+msgstr "Error al cerrar sesión."
 
 msgid "Sign-in could not start. Try again."
-msgstr ""
+msgstr "No se pudo iniciar la sesión. Inténtalo de nuevo."
 
 msgid "Sign-in failed."
-msgstr ""
+msgstr "Error al iniciar sesión."
 
 msgid "Signed in"
-msgstr ""
+msgstr "Sesión iniciada"
 
 #~ msgid "Small"
 #~ msgstr ""
 
 msgid "Small spike"
-msgstr ""
+msgstr "Pico moderado"
 
 msgid "Socks"
-msgstr ""
+msgstr "Calcetines"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr "Algunos de tus datos actuales pueden ser reemplazados: los detalles de la isla (nombre, hemisferio, fruta), el estado de donaciones al museo y los aldeanos actuales serán reemplazados por la copia de seguridad. Los objetos importados se añaden a tus listas existentes."
+
+msgid "Source"
 msgstr ""
 
 msgid "Southern Hemisphere"
-msgstr ""
+msgstr "Hemisferio Sur"
 
 msgid "Species"
+msgstr "Especie"
+
+msgid "spreadsheet"
 msgstr ""
 
-msgid "Start fresh"
-msgstr ""
+#~ msgid "Start fresh"
+#~ msgstr "Empezar de nuevo"
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "Suscripciones"
 
 msgid "Support"
-msgstr ""
+msgstr "Soporte"
 
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
+msgstr "Apoya la app y disfruta de una experiencia sin anuncios. Mismo desbloqueo, elige tu precio."
+
+msgid "Tap Add to create your first note."
 msgstr ""
 
 msgid "Thank you"
-msgstr ""
+msgstr "Gracias"
 
-msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgid "Thank you for your support! You can leave a tip if you'd like."
+#~ msgstr "¡Gracias por tu apoyo! Puedes dejar una propina si quieres."
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgstr "¡Gracias por tu apoyo! Puedes dejar una propina si quieres."
+
+msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
 
 msgid "Thanks for your support! You have premium access."
+msgstr "¡Gracias por tu apoyo! Tienes acceso premium."
+
+msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
-msgstr ""
+msgstr "Esto es lo que hemos encontrado. Confirma que quieres marcar todos estos objetos como catalogados."
 
 msgid "this website"
-msgstr ""
+msgstr "este sitio web"
 
 msgid "This week's prices"
-msgstr ""
+msgstr "Precios de esta semana"
 
 msgid "Thu"
-msgstr ""
+msgstr "Jue"
 
 msgid "Tips"
+msgstr "Consejos"
+
+msgid "Title"
+msgstr ""
+
+msgid "To find your seed, open MeteoNook and follow the guide to log your island's weather. Then enter the seed below. Leave empty to hide weather."
 msgstr ""
 
 msgid "Tools/Goods"
-msgstr ""
+msgstr "Herramientas/Mercancía"
 
 msgid "Tops"
-msgstr ""
+msgstr "Partes de Arriba"
 
 msgid "Total items:"
+msgstr "Total de objetos:"
+
+msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
 msgid "Tue"
-msgstr ""
+msgstr "Mar"
 
 msgid "Turnips"
-msgstr ""
+msgstr "Nabos"
 
 msgid "Uncheck multiple variants"
-msgstr ""
+msgstr "Desmarcar múltiples variantes"
 
 msgid "Unchecked items with multiple variants:"
-msgstr ""
+msgstr "Objetos no marcados con múltiples variantes:"
 
 #~ msgid "Underground (dig where noise is loudest)"
 #~ msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
-msgstr ""
+msgstr "Objetos únicos (excluyendo duplicados de variantes):"
 
 msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "Untitled"
 msgstr ""
 
 msgid "Upcoming Events"
-msgstr ""
+msgstr "Próximos eventos"
 
 msgid "Update channel"
-msgstr ""
+msgstr "Canal de actualización"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "Error al comprobar actualizaciones"
 
 msgid "Update downloaded. Tap Restart to apply."
+msgstr "Actualización descargada. Toca Reiniciar para aplicarla."
+
+msgid "Updated"
+msgstr ""
+
+msgid "Use device time"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #~ msgid "Very Easy"
 #~ msgstr ""
@@ -887,31 +1082,52 @@ msgstr ""
 #~ msgstr ""
 
 msgid "View full calendar"
-msgstr ""
+msgstr "Ver calendario completo"
 
 msgid "Villagers"
-msgstr ""
+msgstr "Aldeanos"
 
 msgid "Wall-mounted"
-msgstr ""
+msgstr "Para Colgar"
 
 msgid "Wallpaper"
+msgstr "Papeles de Pared"
+
+msgid "Watch an ad to hide ads for 2 hours"
 msgstr ""
 
-msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
-msgstr ""
+#~ msgid "Watch an ad to hide ads for 24 hours"
+#~ msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+#~ msgstr "Hemos encontrado datos de la aplicación ACNH Guide anterior. Migra tus datos o empieza de nuevo."
 
 #~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
 #~ msgstr ""
 
+msgid "Weather"
+msgstr ""
+
+msgid "Weather prediction"
+msgstr ""
+
+msgid "Weather prediction in this app uses code ported from MeteoNook by Ash Wolf (Ninji). MeteoNook is licensed under the GNU Affero General Public License v3.0."
+msgstr ""
+
+msgid "Weather seed"
+msgstr ""
+
 msgid "Wed"
+msgstr "Mie"
+
+msgid "What time does your game show right now?"
 msgstr ""
 
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
-msgstr ""
+msgstr "Cuando está activado, donar un objeto al museo también lo añade a tu lista de Catalogados."
 
-msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
-msgstr ""
+#~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+#~ msgstr "Cuando está activado, los objetos con múltiples colores o variantes (p.ej. muebles) se muestran como una fila con un selector de variantes. Cuando está desactivado, cada variante es una fila separada."
 
 #~ msgid "X-Large"
 #~ msgstr ""
@@ -926,7 +1142,10 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgid "Your Island's turnip Info"
+msgstr "Información de nabos de tu Isla"
+
+msgid "Your time"
 msgstr ""

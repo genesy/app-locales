@@ -14,27 +14,51 @@ msgstr ""
 "Plural-Forms: \n"
 
 msgid " to scan your catalog."
+msgstr " カタログをスキャンする。"
+
+msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
-msgid "(no legacy data or loading…)"
-msgstr ""
+#~ msgid "(no legacy data or loading…)"
+#~ msgstr ""
 
 msgid "{selectedCount} items selected"
-msgstr ""
+msgstr "{selectedCount}個のアイテムを選択中"
 
 msgid "1 item selected"
-msgstr ""
+msgstr "1個のアイテムを選択中"
 
 msgid "About"
+msgstr "アプリ情報"
+
+msgid "About the app"
 msgstr ""
 
 msgid "Accessories"
+msgstr "アクセサリー"
+
+msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
+msgstr ""
+
+msgid "Add"
 msgstr ""
 
 msgid "Add item"
+msgstr "アイテムを追加"
+
+msgid "Add note"
 msgstr ""
 
 msgid "Add to catalogue when donating"
+msgstr "寄贈時にカタログに追加"
+
+msgid "Ads hidden until"
+msgstr ""
+
+msgid "Allow more than 10 villagers"
+msgstr ""
+
+msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
 #~ msgid "Any except rain"
@@ -44,154 +68,196 @@ msgstr ""
 #~ msgstr ""
 
 msgid "App language"
-msgstr ""
+msgstr "アプリの言語"
 
 msgid "App updates"
-msgstr ""
+msgstr "アプリのアップデート"
 
 msgid "Applying backup…"
-msgstr ""
+msgstr "バックアップを適用中…"
 
 msgid "Apr"
-msgstr ""
+msgstr "4月"
 
 msgid "Are you sure? All your data will be permanently deleted. You will need to set up your island again."
-msgstr ""
+msgstr "本当によろしいですか？すべてのデータが完全に削除されます。島を再設定する必要があります。"
 
 msgid "Art"
-msgstr ""
+msgstr "美術品"
 
 msgid "Artwork"
+msgstr "美術品"
+
+msgid "Attribution"
 msgstr ""
 
 msgid "Aug"
+msgstr "8月"
+
+msgid "Aurora borealis"
 msgstr ""
 
 msgid "Available version"
-msgstr ""
+msgstr "利用可能なバージョン"
 
 msgid "Back to settings"
-msgstr ""
+msgstr "設定に戻る"
 
 msgid "Back up to iCloud"
-msgstr ""
+msgstr "iCloudにバックアップ"
 
 msgid "Backup"
-msgstr ""
+msgstr "バックアップ"
 
 msgid "Backup data has been applied to your island."
-msgstr ""
+msgstr "バックアップデータが島に適用されました。"
 
 msgid "Backup failed."
-msgstr ""
+msgstr "バックアップに失敗しました。"
 
 msgid "Backup UUID (Firebase UID)"
-msgstr ""
+msgstr "バックアップUUID（Firebase UID）"
 
 msgid "Bags"
-msgstr ""
+msgstr "バッグ"
 
 msgid "Birthday"
-msgstr ""
+msgstr "誕生日"
 
 msgid "Bottoms"
-msgstr ""
+msgstr "ボトムス"
 
 msgid "Build"
+msgstr "Build"
+
+msgid "Buy"
 msgstr ""
 
 msgid "Buy price"
-msgstr ""
+msgstr "買い値"
 
 msgid "Calendar"
-msgstr ""
+msgstr "カレンダー"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Catalog {selectedCount} Items"
-msgstr ""
+msgstr "{selectedCount}個のアイテムをカタログ登録"
 
 msgid "Catalog 1 Item"
-msgstr ""
+msgstr "1個のアイテムをカタログ登録"
 
 msgid "Cataloguing…"
-msgstr ""
+msgstr "カタログ登録中…"
 
 msgid "Ceiling Decor"
-msgstr ""
+msgstr "天井家具"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "アップデートを確認"
 
 msgid "Check multiple variants"
-msgstr ""
+msgstr "複数のバリエーションをチェック"
 
 msgid "Checking for update…"
-msgstr ""
+msgstr "アップデートを確認中…"
 
 msgid "Checklist name"
-msgstr ""
+msgstr "チェックリスト名"
 
 msgid "Choose a plan to support the app."
-msgstr ""
+msgstr "アプリを応援するプランを選択してください。"
 
 msgid "Cloud storage path error. Try again."
+msgstr "クラウドストレージのパスエラー。もう一度お試しください。"
+
+msgid "Contact"
 msgstr ""
 
 msgid "Continue"
+msgstr "続ける"
+
+msgid "Copied"
 msgstr ""
 
-msgid "Copy"
+#~ msgid "Copy"
+#~ msgstr ""
+
+msgid "Copy failed"
+msgstr ""
+
+msgid "Copy list"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not copy to clipboard."
 msgstr ""
 
 msgid "Could not get Google access token. Try signing out and back in."
-msgstr ""
+msgstr "Googleアクセストークンを取得できませんでした。サインアウトして再度サインインしてください。"
 
 msgid "Could not write backup to Google Drive."
-msgstr ""
+msgstr "Google Driveにバックアップを書き込めませんでした。"
 
 msgid "Could not write backup to iCloud."
-msgstr ""
+msgstr "iCloudにバックアップを書き込めませんでした。"
 
 msgid "Critters"
-msgstr ""
+msgstr "生き物"
 
 msgid "Current version"
-msgstr ""
+msgstr "現在のバージョン"
 
 msgid "Daily Checklist"
+msgstr "デイリーチェックリスト"
+
+msgid "Daily note"
 msgstr ""
 
 msgid "Danger zone"
-msgstr ""
+msgstr "危険ゾーン"
 
 msgid "Data"
+msgstr "データ"
+
+msgid "Data on this app is taken from the community"
 msgstr ""
 
 msgid "Database not ready"
-msgstr ""
+msgstr "データベース準備未完了"
 
 msgid "Database not ready."
-msgstr ""
+msgstr "データベース準備未完了。"
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Dec"
-msgstr ""
+msgstr "12月"
 
 msgid "Decreasing"
-msgstr ""
+msgstr "下降"
 
 msgid "Default (no override)"
+msgstr "デフォルト（上書きなし）"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
+msgstr "すべて削除"
+
+msgid "Delete list?"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "詳細"
 
 #~ msgid "Disguised on shoreline"
 #~ msgstr ""
@@ -200,76 +266,97 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Done"
+msgstr "完了"
+
+msgid "Double rainbow at {time}"
 msgstr ""
 
 msgid "Download error"
-msgstr ""
+msgstr "ダウンロードエラー"
 
 msgid "Download failed"
-msgstr ""
+msgstr "ダウンロードに失敗しました"
 
 msgid "Download update"
-msgstr ""
+msgstr "アップデートをダウンロード"
 
 msgid "Downloading…"
-msgstr ""
+msgstr "ダウンロード中…"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "ファッション"
 
 msgid "e.g. 100"
+msgstr "例: 100"
+
+msgid "e.g. 1234567890"
 msgstr ""
 
 #~ msgid "Easy"
 #~ msgstr ""
 
-msgid "Edit List"
+msgid "Edit"
 msgstr ""
+
+msgid "Edit List"
+msgstr "リストを編集"
 
 msgid "Edit localization"
-msgstr ""
+msgstr "ローカライズを編集"
 
 msgid "Embedded build"
-msgstr ""
+msgstr "埋め込みビルド"
 
 msgid "Enter a backup UUID"
+msgstr "バックアップUUIDを入力"
+
+msgid "Error"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Exchange Currency"
+msgstr ""
+
+msgid "Exchange Price"
 msgstr ""
 
 msgid "Failed to load events"
-msgstr ""
+msgstr "イベントの読み込みに失敗しました"
 
 msgid "Fashion"
-msgstr ""
+msgstr "ファッション"
 
 msgid "Favorites"
-msgstr ""
+msgstr "お気に入り"
 
 msgid "Feb"
-msgstr ""
+msgstr "2月"
 
 msgid "Fencing"
-msgstr ""
+msgstr "フェンス"
 
 msgid "Fetching backup…"
-msgstr ""
+msgstr "バックアップを取得中…"
 
 msgid "Find items"
-msgstr ""
+msgstr "アイテムを検索"
 
 msgid "Finding items…"
-msgstr ""
+msgstr "アイテムを検索中…"
 
 msgid "First time buyer?"
-msgstr ""
+msgstr "初めての購入ですか？"
 
 msgid "Fish"
-msgstr ""
+msgstr "魚"
 
 msgid "Floors"
-msgstr ""
+msgstr "床"
 
 msgid "Fluctuating"
-msgstr ""
+msgstr "乱高下"
 
 #~ msgid "Flying"
 #~ msgstr ""
@@ -290,259 +377,304 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Fossils"
-msgstr ""
+msgstr "化石"
 
 msgid "Fri"
-msgstr ""
+msgstr "金"
 
 #~ msgid "From hitting rocks"
 #~ msgstr ""
 
 msgid "Furnitures"
+msgstr "家具"
+
+msgid "Game time"
 msgstr ""
 
 msgid "Gender"
+msgstr "性別"
+
+msgid "Go back"
 msgstr ""
 
 msgid "Go to "
-msgstr ""
+msgstr "移動: "
 
 msgid "Google Drive access denied. Try signing out and back in."
-msgstr ""
+msgstr "Google Driveへのアクセスが拒否されました。サインアウトして再度サインインしてください。"
 
 msgid "Google Play Services are not available or outdated."
-msgstr ""
+msgstr "Google Play サービスが利用できないか、古いバージョンです。"
 
 msgid "Grid"
-msgstr ""
+msgstr "グリッド"
 
-msgid "Group item variants"
-msgstr ""
+#~ msgid "Group item variants"
+#~ msgstr "アイテムのバリエーションをグループ化"
 
 msgid "Gyroid"
-msgstr ""
+msgstr "ハニワくん"
 
 #~ msgid "Hard"
 #~ msgstr ""
 
 msgid "Headwear"
-msgstr ""
+msgstr "帽子"
 
 msgid "Hobby"
-msgstr ""
+msgstr "趣味"
 
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 msgid "Housewares"
-msgstr ""
+msgstr "家具"
 
 msgid "iCloud"
-msgstr ""
+msgstr "iCloud"
 
 msgid "iCloud is not available. Sign in to iCloud in Settings."
-msgstr ""
+msgstr "iCloudが利用できません。設定でiCloudにサインインしてください。"
 
 msgid "iCloud sign-in required. Check Settings."
-msgstr ""
+msgstr "iCloudへのサインインが必要です。設定を確認してください。"
 
 msgid "Icon URL"
-msgstr ""
+msgstr "アイコンURL"
 
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
-msgstr ""
+msgstr "アイテムを検索したのに何も表示されない場合、一致するものが見つかりませんでした。アプリの言語がゲームと一致していることを確認してください。"
 
 msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr ""
+msgstr "以前のACNH Guideアプリを使用していた場合、ここでバックアップを復元できます。バックアップUUIDを入力して以下をこのアプリにインポートしてください："
 
 msgid "Import"
-msgstr ""
+msgstr "インポート"
 
 msgid "Import — confirm"
-msgstr ""
+msgstr "インポート — 確認"
 
 msgid "Import backup"
-msgstr ""
+msgstr "バックアップをインポート"
 
 msgid "Import backup (dev)"
-msgstr ""
+msgstr "バックアップをインポート（dev）"
 
 msgid "Import complete"
-msgstr ""
+msgstr "インポート完了"
 
 msgid "Import failed"
-msgstr ""
+msgstr "インポートに失敗しました"
 
 msgid "Import from Catalog Scanner"
-msgstr ""
+msgstr "カタログスキャナーからインポート"
 
 msgid "Importing…"
+msgstr "インポート中…"
+
+msgid "In-game images, icons, and other assets used in this app are © Nintendo."
+msgstr ""
+
+msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
 msgid "Insects"
-msgstr ""
+msgstr "虫"
 
 msgid "Interior Structures"
-msgstr ""
+msgstr "室内設備"
 
 msgid "Island Name"
-msgstr ""
+msgstr "島の名前"
 
 msgid "Items"
-msgstr ""
+msgstr "アイテム"
 
 msgid "Items have been added to your catalog."
-msgstr ""
+msgstr "アイテムがカタログに追加されました。"
 
-msgid "Items list"
-msgstr ""
+#~ msgid "Items list"
+#~ msgstr "アイテムリスト"
 
 msgid "Items not found"
-msgstr ""
+msgstr "アイテムが見つかりません"
 
 msgid "Jan"
-msgstr ""
+msgstr "1月"
 
 msgid "Journal"
-msgstr ""
+msgstr "日誌"
 
 msgid "Jul"
-msgstr ""
+msgstr "7月"
 
 msgid "Jun"
-msgstr ""
+msgstr "6月"
 
 msgid "Language / localization"
-msgstr ""
+msgstr "言語 / ローカライズ"
 
 #~ msgid "Large"
 #~ msgstr ""
 
 msgid "Large spike"
-msgstr ""
+msgstr "大きな急上昇"
 
 msgid "Last backed up"
-msgstr ""
+msgstr "最終バックアップ"
 
 msgid "Last backed up to Google Cloud"
-msgstr ""
+msgstr "最終Google Cloudバックアップ"
 
 msgid "Last warning"
-msgstr ""
+msgstr "最終警告"
 
 msgid "Leaving in the next hour"
-msgstr ""
+msgstr "1時間以内に去ります"
 
 msgid "Less"
+msgstr "少ない"
+
+msgid "License"
 msgstr ""
 
 msgid "lines"
-msgstr ""
+msgstr "行"
 
 msgid "List"
-msgstr ""
+msgstr "リスト"
 
 msgid "Lists"
-msgstr ""
+msgstr "リスト"
 
 msgid "Loading details…"
-msgstr ""
+msgstr "詳細を読み込み中…"
 
 msgid "Loading…"
-msgstr ""
+msgstr "読み込み中…"
 
 #~ msgid "Long"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
+msgstr "SwitchとこのアプリがSwitchと同じ言語/ローカライズを使用していることを確認してください。"
+
+msgid "Manage ad consent"
 msgstr ""
 
 msgid "Mar"
-msgstr ""
+msgstr "3月"
 
 msgid "May"
-msgstr ""
+msgstr "5月"
 
 #~ msgid "Medium"
 #~ msgstr ""
+
+msgid "MeteoNook on GitHub"
+msgstr ""
+
+msgid "Meteor shower (heavy)"
+msgstr ""
+
+msgid "Meteor shower (light)"
+msgstr ""
 
 #~ msgid "Migrate"
 #~ msgstr ""
 
 msgid "Migrate data from old app"
+msgstr "旧アプリからデータを移行"
+
+#~ msgid "Migrate from previous app"
+#~ msgstr ""
+
+#~ msgid "Migrate my data"
+#~ msgstr ""
+
+#~ msgid "Migrating…"
+#~ msgstr ""
+
+#~ msgid "Migration failed or no data to migrate."
+#~ msgstr ""
+
+msgid "Migration notice"
 msgstr ""
 
-msgid "Migrate from previous app"
-msgstr ""
-
-msgid "Migrate my data"
-msgstr ""
-
-msgid "Migrating…"
-msgstr ""
-
-msgid "Migration failed or no data to migrate."
+msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "その他"
 
 msgid "Mon"
-msgstr ""
+msgstr "月"
 
 msgid "More"
-msgstr ""
+msgstr "もっと見る"
 
 msgid "Museum"
-msgstr ""
+msgstr "博物館"
 
 msgid "Museum & catalogue"
-msgstr ""
+msgstr "博物館とカタログ"
 
 msgid "Music"
-msgstr ""
+msgstr "音楽"
 
 msgid "Next events"
-msgstr ""
+msgstr "次のイベント"
 
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 msgid "No backup found in Google Drive."
-msgstr ""
+msgstr "Google Driveにバックアップが見つかりませんでした。"
 
 msgid "No backup found in iCloud."
-msgstr ""
+msgstr "iCloudにバックアップが見つかりませんでした。"
 
 msgid "No events this week"
-msgstr ""
+msgstr "今週のイベントはありません"
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
-msgstr ""
+msgstr "島が選択されていません。プレイヤーと島の情報を編集するには、島を選択または作成してください。"
 
 msgid "No items to confirm. Go back and paste a list of item names (one per line), then tap Find items."
+msgstr "確認するアイテムがありません。戻ってアイテム名のリスト（1行に1つ）を貼り付けてから、アイテムを検索をタップしてください。"
+
+msgid "No notes yet"
 msgstr ""
 
 msgid "No offerings available at the moment. Please try again later."
-msgstr ""
+msgstr "現在利用可能なプランがありません。後でもう一度お試しください。"
 
 msgid "Northern Hemisphere"
-msgstr ""
+msgstr "北半球"
 
 msgid "Not found:"
+msgstr "見つかりません："
+
+msgid "Note"
+msgstr ""
+
+msgid "Note not found"
+msgstr ""
+
+msgid "Notes"
 msgstr ""
 
 msgid "Nov"
-msgstr ""
+msgstr "11月"
 
 msgid "Oct"
-msgstr ""
+msgstr "10月"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
-msgid "Old state we're migrating from:"
-msgstr ""
+#~ msgid "Old state we're migrating from:"
+#~ msgstr ""
 
 #~ msgid "On beach rocks"
 #~ msgstr ""
@@ -580,62 +712,68 @@ msgstr ""
 #~ msgid "On white flowers"
 #~ msgstr ""
 
-msgid "Open Turnip Prophet"
+msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
+
+msgid "Open Turnip Prophet"
+msgstr "Turnip Prophetを開く"
 
 msgid "Other"
-msgstr ""
+msgstr "その他"
 
 msgid "Override which channel to fetch updates from:"
-msgstr ""
+msgstr "アップデートを取得するチャンネルを上書き："
 
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
-msgstr ""
+msgstr "アイテム名のリストを以下に1行ずつ貼り付けてください。照合にはアプリの現在の言語が使用されます。アイテムを見つけて、すべてカタログ済みとしてマークできるようにします。"
 
 msgid "Paste at least one item name (one per line)."
-msgstr ""
+msgstr "少なくとも1つのアイテム名を貼り付けてください（1行に1つ）。"
 
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "クリップボードから貼り付け"
 
 msgid "paste items here"
-msgstr ""
+msgstr "ここにアイテムを貼り付け"
 
 msgid "Personality"
-msgstr ""
+msgstr "性格"
 
 msgid "Photos"
-msgstr ""
+msgstr "写真"
 
 #~ msgid "Pier"
 #~ msgstr ""
 
 msgid "Player Name"
-msgstr ""
+msgstr "プレイヤー名"
 
 #~ msgid "Pond"
 #~ msgstr ""
 
 msgid "Posters"
-msgstr ""
+msgstr "ポスター"
 
 msgid "Preferred colors"
-msgstr ""
+msgstr "好きな色"
 
 msgid "Preferred style"
-msgstr ""
+msgstr "好きなスタイル"
 
 msgid "Premium"
-msgstr ""
+msgstr "プレミアム"
 
 msgid "Previous week's pattern"
+msgstr "先週のパターン"
+
+msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "プロフィール"
 
 #~ msgid "Pushing snowballs"
 #~ msgstr ""
@@ -643,29 +781,32 @@ msgstr ""
 #~ msgid "Rain only"
 #~ msgstr ""
 
-msgid "Reactions"
+msgid "Rainbow at {time}"
 msgstr ""
+
+msgid "Reactions"
+msgstr "リアクション"
 
 msgid "Recipe"
-msgstr ""
+msgstr "レシピ"
 
 msgid "Recipes"
-msgstr ""
+msgstr "レシピ"
 
 msgid "Reset app data"
-msgstr ""
+msgstr "アプリデータをリセット"
 
 msgid "Reset app data?"
-msgstr ""
+msgstr "アプリデータをリセットしますか？"
 
-msgid "Reset migration done (dev)"
-msgstr ""
+#~ msgid "Reset migration done (dev)"
+#~ msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
-msgstr ""
+msgstr "リセットするとすべてのアプリデータが削除されます。島を再設定する必要があります。"
 
 msgid "Resetting will delete all data stored in the app, including your island, progress, lists, and settings. This cannot be undone."
-msgstr ""
+msgstr "リセットすると、島、進行状況、リスト、設定など、アプリに保存されているすべてのデータが削除されます。この操作は元に戻せません。"
 
 #~ msgid "Resolving custom lists…"
 #~ msgstr ""
@@ -677,34 +818,34 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Restart failed"
-msgstr ""
+msgstr "再起動に失敗しました"
 
 msgid "Restart to apply update"
-msgstr ""
+msgstr "アップデートを適用するには再起動"
 
 msgid "Restore"
-msgstr ""
+msgstr "復元"
 
 msgid "Restore backup"
-msgstr ""
+msgstr "バックアップを復元"
 
 msgid "Restore failed."
-msgstr ""
+msgstr "復元に失敗しました。"
 
 msgid "Restore from Google Cloud"
-msgstr ""
+msgstr "Google Cloudから復元"
 
 msgid "Restore from iCloud"
-msgstr ""
+msgstr "iCloudから復元"
 
 msgid "Restore purchases"
-msgstr ""
+msgstr "購入を復元"
 
 msgid "Restore will replace your current island data. Continue?"
-msgstr ""
+msgstr "復元すると現在の島データが置き換えられます。続けますか？"
 
 msgid "Retry"
-msgstr ""
+msgstr "再試行"
 
 #~ msgid "River"
 #~ msgstr ""
@@ -716,16 +857,16 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Rugs"
-msgstr ""
+msgstr "ラグ"
 
 msgid "Same unlock, choose your price."
-msgstr ""
+msgstr "同じ特典、価格をお選びください。"
 
 msgid "Sat"
-msgstr ""
+msgstr "土"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #~ msgid "Sea"
 #~ msgstr ""
@@ -734,19 +875,37 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Sea Creatures"
-msgstr ""
+msgstr "海の生き物"
 
 msgid "Search"
+msgstr "検索"
+
+msgid "Season/Event"
+msgstr ""
+
+msgid "Season/Event Exclusive"
+msgstr ""
+
+msgid "Select an island in the app to set a weather seed."
 msgstr ""
 
 msgid "Select or create island"
+msgstr "島を選択または作成"
+
+msgid "Sell"
 msgstr ""
 
 msgid "Sep"
+msgstr "9月"
+
+msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgstr ""
+
+msgid "Set time to match your game"
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #~ msgid "Shaking trees"
 #~ msgstr ""
@@ -755,127 +914,163 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Shoes"
-msgstr ""
+msgstr "くつ"
 
 msgid "Sign in with Google"
-msgstr ""
+msgstr "Googleでサインイン"
 
 msgid "Sign in with Google to back up and restore your island data."
-msgstr ""
+msgstr "Googleでサインインして島のデータをバックアップおよび復元してください。"
 
 msgid "Sign out"
-msgstr ""
+msgstr "サインアウト"
 
 msgid "Sign out failed."
-msgstr ""
+msgstr "サインアウトに失敗しました。"
 
 msgid "Sign-in could not start. Try again."
-msgstr ""
+msgstr "サインインを開始できませんでした。再試行してください。"
 
 msgid "Sign-in failed."
-msgstr ""
+msgstr "サインインに失敗しました。"
 
 msgid "Signed in"
-msgstr ""
+msgstr "サインイン済み"
 
 #~ msgid "Small"
 #~ msgstr ""
 
 msgid "Small spike"
-msgstr ""
+msgstr "小さな急上昇"
 
 msgid "Socks"
-msgstr ""
+msgstr "くつした"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr "現在のデータの一部が上書きされる可能性があります：島の詳細（名前、半球、フルーツ）、博物館の寄贈状況、現在の住民がバックアップに置き換えられます。インポートされたリストアイテムは既存のリストに追加されます。"
+
+msgid "Source"
 msgstr ""
 
 msgid "Southern Hemisphere"
-msgstr ""
+msgstr "南半球"
 
 msgid "Species"
+msgstr "種類"
+
+msgid "spreadsheet"
 msgstr ""
 
-msgid "Start fresh"
-msgstr ""
+#~ msgid "Start fresh"
+#~ msgstr ""
 
 msgid "Subscriptions"
-msgstr ""
+msgstr "サブスクリプション"
 
 msgid "Support"
-msgstr ""
+msgstr "サポート"
 
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
+msgstr "アプリを応援して広告なし体験を楽しんでください。同じ特典、価格をお選びください。"
+
+msgid "Tap Add to create your first note."
 msgstr ""
 
 msgid "Thank you"
-msgstr ""
+msgstr "ありがとうございます"
 
-msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgid "Thank you for your support! You can leave a tip if you'd like."
+#~ msgstr "ご支援ありがとうございます！よろしければチップを残すことができます。"
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like."
+#~ msgstr ""
+
+msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
 
 msgid "Thanks for your support! You have premium access."
+msgstr "ご支援ありがとうございます！プレミアムアクセスをお持ちです。"
+
+msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
-msgstr ""
+msgstr "見つかったアイテムです。これらすべてのアイテムをカタログ済みとしてマークすることを確認してください。"
 
 msgid "this website"
-msgstr ""
+msgstr "このウェブサイト"
 
 msgid "This week's prices"
-msgstr ""
+msgstr "今週の価格"
 
 msgid "Thu"
-msgstr ""
+msgstr "木"
 
 msgid "Tips"
+msgstr "ヒント"
+
+msgid "Title"
+msgstr ""
+
+msgid "To find your seed, open MeteoNook and follow the guide to log your island's weather. Then enter the seed below. Leave empty to hide weather."
 msgstr ""
 
 msgid "Tools/Goods"
-msgstr ""
+msgstr "道具/雑貨"
 
 msgid "Tops"
-msgstr ""
+msgstr "トップス"
 
 msgid "Total items:"
+msgstr "合計アイテム数："
+
+msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
 msgid "Tue"
-msgstr ""
+msgstr "火"
 
 msgid "Turnips"
-msgstr ""
+msgstr "かぶ"
 
 msgid "Uncheck multiple variants"
-msgstr ""
+msgstr "複数のバリエーションのチェックを外す"
 
 msgid "Unchecked items with multiple variants:"
-msgstr ""
+msgstr "複数バリエーションの未チェックアイテム："
 
 #~ msgid "Underground (dig where noise is loudest)"
 #~ msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
-msgstr ""
+msgstr "ユニークアイテム（バリエーションの重複を除く）："
 
 msgid "Unknown"
+msgstr "不明"
+
+msgid "Untitled"
 msgstr ""
 
 msgid "Upcoming Events"
-msgstr ""
+msgstr "今後のイベント"
 
 msgid "Update channel"
-msgstr ""
+msgstr "アップデートチャンネル"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "アップデート確認に失敗しました"
 
 msgid "Update downloaded. Tap Restart to apply."
+msgstr "アップデートをダウンロードしました。再起動をタップして適用してください。"
+
+msgid "Updated"
+msgstr ""
+
+msgid "Use device time"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "バージョン"
 
 #~ msgid "Very Easy"
 #~ msgstr ""
@@ -887,31 +1082,52 @@ msgstr ""
 #~ msgstr ""
 
 msgid "View full calendar"
-msgstr ""
+msgstr "カレンダー全体を表示"
 
 msgid "Villagers"
-msgstr ""
+msgstr "住民"
 
 msgid "Wall-mounted"
-msgstr ""
+msgstr "壁掛け"
 
 msgid "Wallpaper"
+msgstr "壁紙"
+
+msgid "Watch an ad to hide ads for 2 hours"
 msgstr ""
 
-msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
-msgstr ""
+#~ msgid "Watch an ad to hide ads for 24 hours"
+#~ msgstr ""
+
+#~ msgid "We found data from the previous ACNH Guide app. Migrate your data or start fresh."
+#~ msgstr ""
 
 #~ msgid "We found data from the previous ACNH Guide app. Tap Migrate to bring it into this app."
 #~ msgstr ""
 
+msgid "Weather"
+msgstr ""
+
+msgid "Weather prediction"
+msgstr ""
+
+msgid "Weather prediction in this app uses code ported from MeteoNook by Ash Wolf (Ninji). MeteoNook is licensed under the GNU Affero General Public License v3.0."
+msgstr ""
+
+msgid "Weather seed"
+msgstr ""
+
 msgid "Wed"
+msgstr "水"
+
+msgid "What time does your game show right now?"
 msgstr ""
 
 msgid "When on, donating an item to the museum also adds it to your Catalogued list."
-msgstr ""
+msgstr "オンにすると、博物館にアイテムを寄贈したとき、カタログ済みリストにも追加されます。"
 
-msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
-msgstr ""
+#~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
+#~ msgstr "オンにすると、複数の色やバリエーションを持つアイテム（例：家具）がバリエーション選択付きの1行で表示されます。オフにすると、各バリエーションが別々の行になります。"
 
 #~ msgid "X-Large"
 #~ msgstr ""
@@ -926,7 +1142,10 @@ msgstr ""
 #~ msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 msgid "Your Island's turnip Info"
+msgstr "島のかぶ情報"
+
+msgid "Your time"
 msgstr ""
