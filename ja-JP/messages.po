@@ -388,6 +388,9 @@ msgstr "金"
 msgid "Furnitures"
 msgstr "家具"
 
+msgid "Game date"
+msgstr ""
+
 msgid "Game time"
 msgstr ""
 
@@ -898,8 +901,11 @@ msgstr ""
 msgid "Sep"
 msgstr "9月"
 
-msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+msgid "Set the app date and time to match your game. The app will use this for the island clock, in-game day, and critter availability."
 msgstr ""
+
+#~ msgid "Set the app time to match your game. The app will use this for the island clock, in-game day, and critter availability."
+#~ msgstr ""
 
 msgid "Set time to match your game"
 msgstr ""
@@ -1119,6 +1125,9 @@ msgstr ""
 
 msgid "Wed"
 msgstr "水"
+
+msgid "What date does your game show?"
+msgstr ""
 
 msgid "What time does your game show right now?"
 msgstr ""
