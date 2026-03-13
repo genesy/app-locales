@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " для сканирования каталога."
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,11 +307,17 @@ msgstr "Редактировать список"
 msgid "Edit localization"
 msgstr "Редактировать локализацию"
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr "Встроенная сборка"
 
-msgid "Enter a backup UUID"
-msgstr "Введите UUID резервной копии"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "Введите UUID резервной копии"
+
+msgid "Enter a backup UUID or email"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -448,8 +457,11 @@ msgstr "URL значка"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "Если вы только что запустили поиск предметов и ничего не появилось, совпадений не найдено. Убедитесь, что язык приложения совпадает с языком игры."
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "Если вы использовали предыдущее приложение ACNH Guide, вы можете восстановить резервную копию здесь. Введите UUID резервной копии для импорта следующего в это приложение:"
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "Если вы использовали предыдущее приложение ACNH Guide, вы можете восстановить резервную копию здесь. Введите UUID резервной копии для импорта следующего в это приложение:"
 
 msgid "Import"
 msgstr "Импорт"
@@ -460,8 +472,8 @@ msgstr "Импорт — подтверждение"
 msgid "Import backup"
 msgstr "Импортировать резервную копию"
 
-msgid "Import backup (dev)"
-msgstr "Импортировать резервную копию (dev)"
+#~ msgid "Import backup (dev)"
+#~ msgstr "Импортировать резервную копию (dev)"
 
 msgid "Import complete"
 msgstr "Импорт завершён"
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr "Выбрать или создать остров"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"

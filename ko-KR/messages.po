@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " 카탈로그를 스캔하세요."
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,11 +307,17 @@ msgstr "목록 편집"
 msgid "Edit localization"
 msgstr "현지화 편집"
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr "내장 빌드"
 
-msgid "Enter a backup UUID"
-msgstr "백업 UUID 입력"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "백업 UUID 입력"
+
+msgid "Enter a backup UUID or email"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -448,8 +457,11 @@ msgstr "아이콘 URL"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "아이템 찾기를 실행했는데 아무것도 나타나지 않으면 일치하는 항목을 찾지 못한 것입니다. 앱 언어가 게임과 일치하는지 확인하세요."
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "이전 ACNH Guide 앱을 사용했다면 여기서 백업을 복원할 수 있습니다. 백업 UUID를 입력하여 다음 항목을 이 앱으로 가져오세요:"
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "이전 ACNH Guide 앱을 사용했다면 여기서 백업을 복원할 수 있습니다. 백업 UUID를 입력하여 다음 항목을 이 앱으로 가져오세요:"
 
 msgid "Import"
 msgstr "가져오기"
@@ -460,8 +472,8 @@ msgstr "가져오기 — 확인"
 msgid "Import backup"
 msgstr "백업 가져오기"
 
-msgid "Import backup (dev)"
-msgstr "백업 가져오기 (dev)"
+#~ msgid "Import backup (dev)"
+#~ msgstr "백업 가져오기 (dev)"
 
 msgid "Import complete"
 msgstr "가져오기 완료"
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr "섬 선택 또는 만들기"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"

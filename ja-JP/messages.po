@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " カタログをスキャンする。"
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,11 +307,17 @@ msgstr "リストを編集"
 msgid "Edit localization"
 msgstr "ローカライズを編集"
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr "埋め込みビルド"
 
-msgid "Enter a backup UUID"
-msgstr "バックアップUUIDを入力"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "バックアップUUIDを入力"
+
+msgid "Enter a backup UUID or email"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -448,8 +457,11 @@ msgstr "アイコンURL"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "アイテムを検索したのに何も表示されない場合、一致するものが見つかりませんでした。アプリの言語がゲームと一致していることを確認してください。"
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "以前のACNH Guideアプリを使用していた場合、ここでバックアップを復元できます。バックアップUUIDを入力して以下をこのアプリにインポートしてください："
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "以前のACNH Guideアプリを使用していた場合、ここでバックアップを復元できます。バックアップUUIDを入力して以下をこのアプリにインポートしてください："
 
 msgid "Import"
 msgstr "インポート"
@@ -460,8 +472,8 @@ msgstr "インポート — 確認"
 msgid "Import backup"
 msgstr "バックアップをインポート"
 
-msgid "Import backup (dev)"
-msgstr "バックアップをインポート（dev）"
+#~ msgid "Import backup (dev)"
+#~ msgstr "バックアップをインポート（dev）"
 
 msgid "Import complete"
 msgstr "インポート完了"
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr "島を選択または作成"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"

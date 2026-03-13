@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " om je catalogus te scannen."
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,11 +307,17 @@ msgstr "Lijst bewerken"
 msgid "Edit localization"
 msgstr "Lokalisatie bewerken"
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr "Ingebedde build"
 
-msgid "Enter a backup UUID"
-msgstr "Voer een back-up UUID in"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "Voer een back-up UUID in"
+
+msgid "Enter a backup UUID or email"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -448,8 +457,11 @@ msgstr "Pictogram-URL"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "Als je net Items zoeken hebt uitgevoerd en er niets verscheen, hebben we geen overeenkomsten gevonden. Zorg ervoor dat de app-taal overeenkomt met je spel."
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "Als je de vorige ACNH Guide-app hebt gebruikt, kun je hier je back-up herstellen. Voer je back-up UUID in om het volgende in deze app te importeren:"
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "Als je de vorige ACNH Guide-app hebt gebruikt, kun je hier je back-up herstellen. Voer je back-up UUID in om het volgende in deze app te importeren:"
 
 msgid "Import"
 msgstr "Importeren"
@@ -460,8 +472,8 @@ msgstr "Importeren — bevestigen"
 msgid "Import backup"
 msgstr "Back-up importeren"
 
-msgid "Import backup (dev)"
-msgstr "Back-up importeren (dev)"
+#~ msgid "Import backup (dev)"
+#~ msgstr "Back-up importeren (dev)"
 
 msgid "Import complete"
 msgstr "Import voltooid"
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr "Selecteer of maak een eiland"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"

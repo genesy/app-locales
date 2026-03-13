@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " to scan your catalog."
 
+msgid "-- or --"
+msgstr "-- or --"
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 
@@ -307,11 +310,17 @@ msgstr "Edit List"
 msgid "Edit localization"
 msgstr "Edit localization"
 
+msgid "Email (for backup lookup)"
+msgstr "Email (for backup lookup)"
+
 msgid "Embedded build"
 msgstr "Embedded build"
 
-msgid "Enter a backup UUID"
-msgstr "Enter a backup UUID"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "Enter a backup UUID"
+
+msgid "Enter a backup UUID or email"
+msgstr "Enter a backup UUID or email"
 
 msgid "Error"
 msgstr "Error"
@@ -454,8 +463,11 @@ msgstr "Icon URL"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
 
 msgid "Import"
 msgstr "Import"
@@ -466,8 +478,8 @@ msgstr "Import — confirm"
 msgid "Import backup"
 msgstr "Import backup"
 
-msgid "Import backup (dev)"
-msgstr "Import backup (dev)"
+#~ msgid "Import backup (dev)"
+#~ msgstr "Import backup (dev)"
 
 msgid "Import complete"
 msgstr "Import complete"
@@ -906,6 +918,9 @@ msgstr "Select or create island"
 
 msgid "Sell"
 msgstr "Sell"
+
+msgid "Send feedback"
+msgstr "Send feedback"
 
 msgid "Sep"
 msgstr "Sep"

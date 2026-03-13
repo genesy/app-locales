@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr ""
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,10 +307,16 @@ msgstr ""
 msgid "Edit localization"
 msgstr ""
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr ""
 
-msgid "Enter a backup UUID"
+#~ msgid "Enter a backup UUID"
+#~ msgstr ""
+
+msgid "Enter a backup UUID or email"
 msgstr ""
 
 msgid "Error"
@@ -448,8 +457,11 @@ msgstr ""
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr ""
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
 msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr ""
 
 msgid "Import"
 msgstr ""
@@ -460,8 +472,8 @@ msgstr ""
 msgid "Import backup"
 msgstr ""
 
-msgid "Import backup (dev)"
-msgstr ""
+#~ msgid "Import backup (dev)"
+#~ msgstr ""
 
 msgid "Import complete"
 msgstr ""
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr ""
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"

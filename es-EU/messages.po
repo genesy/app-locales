@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " para escanear tu catálogo."
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,11 +307,17 @@ msgstr "Editar lista"
 msgid "Edit localization"
 msgstr "Editar localización"
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr "Build integrado"
 
-msgid "Enter a backup UUID"
-msgstr "Introduce un UUID de copia de seguridad"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "Introduce un UUID de copia de seguridad"
+
+msgid "Enter a backup UUID or email"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -448,8 +457,11 @@ msgstr "URL del icono"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "Si acabas de buscar objetos y no aparece nada, no hemos encontrado coincidencias. Asegúrate de que el idioma de la app coincide con el de tu juego."
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "Si usaste la aplicación ACNH Guide anterior, puedes restaurar tu copia de seguridad aquí. Introduce tu UUID de copia de seguridad para importar lo siguiente a esta app:"
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "Si usaste la aplicación ACNH Guide anterior, puedes restaurar tu copia de seguridad aquí. Introduce tu UUID de copia de seguridad para importar lo siguiente a esta app:"
 
 msgid "Import"
 msgstr "Importar"
@@ -460,8 +472,8 @@ msgstr "Importar — confirmar"
 msgid "Import backup"
 msgstr "Importar copia de seguridad"
 
-msgid "Import backup (dev)"
-msgstr "Importar copia de seguridad (dev)"
+#~ msgid "Import backup (dev)"
+#~ msgstr "Importar copia de seguridad (dev)"
 
 msgid "Import complete"
 msgstr "Importación completada"
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr "Seleccionar o crear isla"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"

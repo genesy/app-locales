@@ -16,6 +16,9 @@ msgstr ""
 msgid " to scan your catalog."
 msgstr " 扫描你的图鉴。"
 
+msgid "-- or --"
+msgstr ""
+
 msgid ". Credit for the data goes to the spreadsheet contributors. Data is used for reference under fair use."
 msgstr ""
 
@@ -304,11 +307,17 @@ msgstr "编辑清单"
 msgid "Edit localization"
 msgstr "编辑本地化"
 
+msgid "Email (for backup lookup)"
+msgstr ""
+
 msgid "Embedded build"
 msgstr "内嵌版本"
 
-msgid "Enter a backup UUID"
-msgstr "输入备份 UUID"
+#~ msgid "Enter a backup UUID"
+#~ msgstr "输入备份 UUID"
+
+msgid "Enter a backup UUID or email"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -448,8 +457,11 @@ msgstr "图标 URL"
 msgid "If you just ran Find items and nothing appeared, we didn't find any matches. Make sure the app language matches your game."
 msgstr "如果你刚刚运行了查找物品但什么都没出现，我们没有找到匹配项。请确保应用语言与游戏语言一致。"
 
-msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
-msgstr "如果你使用过之前的 ACNH Guide 应用，可以在此恢复备份。输入备份 UUID 以将以下内容导入此应用："
+msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID or email to import the following into this app:"
+msgstr ""
+
+#~ msgid "If you used the previous ACNH Guide app, you can restore your backup here. Enter your backup UUID to import the following into this app:"
+#~ msgstr "如果你使用过之前的 ACNH Guide 应用，可以在此恢复备份。输入备份 UUID 以将以下内容导入此应用："
 
 msgid "Import"
 msgstr "导入"
@@ -460,8 +472,8 @@ msgstr "导入 — 确认"
 msgid "Import backup"
 msgstr "导入备份"
 
-msgid "Import backup (dev)"
-msgstr "导入备份（dev）"
+#~ msgid "Import backup (dev)"
+#~ msgstr "导入备份（dev）"
 
 msgid "Import complete"
 msgstr "导入完成"
@@ -896,6 +908,9 @@ msgid "Select or create island"
 msgstr "选择或创建岛屿"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Send feedback"
 msgstr ""
 
 msgid "Sep"
