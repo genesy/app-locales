@@ -28,6 +28,9 @@ msgstr ""
 msgid "{selectedCount} items selected"
 msgstr "{selectedCount}個のアイテムを選択中"
 
+msgid "#"
+msgstr ""
+
 msgid "1 item selected"
 msgstr "1個のアイテムを選択中"
 
@@ -43,19 +46,25 @@ msgstr "アクセサリー"
 msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
 msgstr ""
 
-msgid "Add"
+#~ msgid "Add"
+#~ msgstr ""
+
+msgid "Add custom filter"
 msgstr ""
 
 msgid "Add item"
 msgstr "アイテムを追加"
 
-msgid "Add note"
-msgstr ""
+#~ msgid "Add note"
+#~ msgstr ""
 
 msgid "Add to catalogue when donating"
 msgstr "寄贈時にカタログに追加"
 
 msgid "Ads hidden until"
+msgstr ""
+
+msgid "All"
 msgstr ""
 
 msgid "Allow more than 10 villagers"
@@ -64,17 +73,23 @@ msgstr ""
 msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
-#~ msgid "Any except rain"
-#~ msgstr ""
+msgid "Any"
+msgstr ""
 
-#~ msgid "Any weather"
-#~ msgstr ""
+msgid "Any except rain"
+msgstr ""
+
+msgid "Any weather"
+msgstr ""
 
 msgid "App language"
 msgstr "アプリの言語"
 
 msgid "App updates"
 msgstr "アプリのアップデート"
+
+msgid "Appearance"
+msgstr ""
 
 msgid "Applying backup…"
 msgstr "バックアップを適用中…"
@@ -88,8 +103,20 @@ msgstr "本当によろしいですか？すべてのデータが完全に削除
 msgid "Art"
 msgstr "美術品"
 
+msgid "Art guide"
+msgstr ""
+
+msgid "Artist"
+msgstr ""
+
 msgid "Artwork"
 msgstr "美術品"
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Assumes all flowers are watered. Outcomes use this app’s breeding table; pairs not listed show as unknown. Flower colors can hide different genes—pick the variant that matches your plants (seed, hybrid, etc.)."
+msgstr ""
 
 msgid "Attribution"
 msgstr ""
@@ -100,8 +127,23 @@ msgstr "8月"
 msgid "Aurora borealis"
 msgstr ""
 
+msgid "Auto"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available in month"
+msgstr ""
+
+msgid "Available now"
+msgstr ""
+
 msgid "Available version"
 msgstr "利用可能なバージョン"
+
+msgid "Back to Guides"
+msgstr ""
 
 msgid "Back to settings"
 msgstr "設定に戻る"
@@ -130,6 +172,12 @@ msgstr "誕生日"
 msgid "Bottoms"
 msgstr "ボトムス"
 
+#~ msgid "breeding combinations"
+#~ msgstr ""
+
+msgid "Breeding combinations"
+msgstr ""
+
 msgid "Build"
 msgstr "Build"
 
@@ -139,11 +187,20 @@ msgstr ""
 msgid "Buy price"
 msgstr "買い値"
 
+msgid "Buy price range"
+msgstr ""
+
 msgid "Calendar"
 msgstr "カレンダー"
 
 msgid "Cancel"
 msgstr "キャンセル"
+
+#~ msgid "Card"
+#~ msgstr ""
+
+msgid "Cards"
+msgstr ""
 
 msgid "Catalog {selectedCount} Items"
 msgstr "{selectedCount}個のアイテムをカタログ登録"
@@ -154,8 +211,26 @@ msgstr "1個のアイテムをカタログ登録"
 msgid "Cataloguing…"
 msgstr "カタログ登録中…"
 
+msgid "categories"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Caught"
+msgstr ""
+
+msgid "Caught only"
+msgstr ""
+
 msgid "Ceiling Decor"
 msgstr "天井家具"
+
+msgid "Chance"
+msgstr ""
+
+msgid "Change to"
+msgstr ""
 
 msgid "Check for updates"
 msgstr "アップデートを確認"
@@ -169,11 +244,26 @@ msgstr "アップデートを確認中…"
 msgid "Checklist name"
 msgstr "チェックリスト名"
 
+msgid "Choose a guide to view tips and reference information."
+msgstr ""
+
 msgid "Choose a plan to support the app."
 msgstr "アプリを応援するプランを選択してください。"
 
+msgid "Choose variant"
+msgstr ""
+
+msgid "Clear grid"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
 msgid "Cloud storage path error. Try again."
 msgstr "クラウドストレージのパスエラー。もう一度お試しください。"
+
+msgid "Collection progress"
+msgstr ""
 
 msgid "Contact"
 msgstr ""
@@ -186,6 +276,9 @@ msgstr ""
 
 #~ msgid "Copy"
 #~ msgstr ""
+
+msgid "Copy email"
+msgstr ""
 
 msgid "Copy failed"
 msgstr ""
@@ -208,11 +301,17 @@ msgstr "Google Driveにバックアップを書き込めませんでした。"
 msgid "Could not write backup to iCloud."
 msgstr "iCloudにバックアップを書き込めませんでした。"
 
+msgid "Creator ID"
+msgstr ""
+
 msgid "Critters"
 msgstr "生き物"
 
 msgid "Current version"
 msgstr "現在のバージョン"
+
+msgid "Custom"
+msgstr ""
 
 msgid "Daily Checklist"
 msgstr "デイリーチェックリスト"
@@ -222,6 +321,9 @@ msgstr ""
 
 msgid "Danger zone"
 msgstr "危険ゾーン"
+
+msgid "Dark"
+msgstr ""
 
 msgid "Data"
 msgstr "データ"
@@ -235,8 +337,14 @@ msgstr "データベース準備未完了"
 msgid "Database not ready."
 msgstr "データベース準備未完了。"
 
+msgid "Day must be between 1 and {maxDay} for this month."
+msgstr ""
+
 msgid "Debug"
 msgstr "Debug"
+
+msgid "Debug: blank tab mode"
+msgstr ""
 
 msgid "Dec"
 msgstr "12月"
@@ -250,23 +358,60 @@ msgstr "デフォルト（上書きなし）"
 msgid "Delete"
 msgstr ""
 
+#. placeholder {0}: f.name
+msgid "Delete \"{0}\"? This cannot be undone."
+msgstr ""
+
 msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
 msgstr "すべて削除"
 
+msgid "Delete filter?"
+msgstr ""
+
 msgid "Delete list?"
 msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Destinations that don’t fit on the bottom bar. Open one to jump there from the More tab."
+msgstr ""
+
+#~ msgid "Detach inactive tabs"
+#~ msgstr ""
 
 msgid "Details"
 msgstr "詳細"
 
-#~ msgid "Disguised on shoreline"
-#~ msgstr ""
+msgid "Disguised on shoreline"
+msgstr ""
 
-#~ msgid "Disguised under trees"
-#~ msgstr ""
+msgid "Disguised under trees"
+msgstr ""
+
+msgid "DIY only"
+msgstr ""
+
+msgid "DIY recipes learned"
+msgstr ""
+
+msgid "Do you want to save your changes before leaving?"
+msgstr ""
+
+msgid "Don't save"
+msgstr ""
+
+msgid "Donated"
+msgstr ""
+
+msgid "Donated only"
+msgstr ""
 
 msgid "Done"
 msgstr "完了"
@@ -286,19 +431,32 @@ msgstr "アップデートをダウンロード"
 msgid "Downloading…"
 msgstr "ダウンロード中…"
 
+msgid "Dream address"
+msgstr ""
+
 msgid "Dress-Up"
 msgstr "ファッション"
 
 msgid "e.g. 100"
 msgstr "例: 100"
 
+msgid "e.g. 1000"
+msgstr ""
+
 msgid "e.g. 1234567890"
 msgstr ""
 
-#~ msgid "Easy"
-#~ msgstr ""
+msgid "Easy"
+msgstr ""
 
 msgid "Edit"
+msgstr ""
+
+#. placeholder {0}: preset.name
+msgid "Edit {0}"
+msgstr ""
+
+msgid "Edit filter"
 msgstr ""
 
 msgid "Edit List"
@@ -307,11 +465,29 @@ msgstr "リストを編集"
 msgid "Edit localization"
 msgstr "ローカライズを編集"
 
+msgid "Edit or delete this custom filter?"
+msgstr ""
+
+msgid "Edit tab bar order"
+msgstr ""
+
+msgid "Efficient layout"
+msgstr ""
+
 msgid "Email (for backup lookup)"
+msgstr ""
+
+msgid "Email address"
 msgstr ""
 
 msgid "Embedded build"
 msgstr "埋め込みビルド"
+
+msgid "Empty plot"
+msgstr ""
+
+msgid "Enable it under Debug → Feature flags if you have access to the debug menu."
+msgstr ""
 
 #~ msgid "Enter a backup UUID"
 #~ msgstr "バックアップUUIDを入力"
@@ -325,20 +501,35 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
+msgid "Everything is on your tab bar."
+msgstr ""
+
 msgid "Exchange Currency"
 msgstr ""
 
 msgid "Exchange Price"
 msgstr ""
 
+msgid "Experimental full width tabs"
+msgstr ""
+
 msgid "Failed to load events"
 msgstr "イベントの読み込みに失敗しました"
+
+msgid "Fake"
+msgstr ""
 
 msgid "Fashion"
 msgstr "ファッション"
 
+msgid "Favorite villagers"
+msgstr ""
+
 msgid "Favorites"
 msgstr "お気に入り"
+
+msgid "Feature flags"
+msgstr ""
 
 msgid "Feb"
 msgstr "2月"
@@ -348,6 +539,16 @@ msgstr "フェンス"
 
 msgid "Fetching backup…"
 msgstr "バックアップを取得中…"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter name"
+msgstr ""
+
+#. placeholder {0}: f.name
+msgid "Filter: {0}"
+msgstr ""
 
 msgid "Find items"
 msgstr "アイテムを検索"
@@ -364,35 +565,59 @@ msgstr "魚"
 msgid "Floors"
 msgstr "床"
 
+msgid "Flower Breeding Guide"
+msgstr ""
+
+msgid "Flower breeding tracker"
+msgstr ""
+
+msgid "Flower type not found."
+msgstr ""
+
+msgid "Flowers"
+msgstr ""
+
 msgid "Fluctuating"
 msgstr "乱高下"
 
-#~ msgid "Flying"
-#~ msgstr ""
+msgid "Flying"
+msgstr ""
 
-#~ msgid "Flying near blue/purple/black flowers"
-#~ msgstr ""
+msgid "Flying near blue/purple/black flowers"
+msgstr ""
 
-#~ msgid "Flying near flowers"
-#~ msgstr ""
+msgid "Flying near flowers"
+msgstr ""
 
-#~ msgid "Flying near light sources"
-#~ msgstr ""
+msgid "Flying near light sources"
+msgstr ""
 
-#~ msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
-#~ msgstr ""
+msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
+msgstr ""
 
-#~ msgid "Flying near water"
-#~ msgstr ""
+msgid "Flying near water"
+msgstr ""
+
+msgid "Forecast"
+msgstr ""
+
+msgid "Forecasts use last week's turnip pattern and assume this isn't your first time buying turnips. Show options below if you need to change either."
+msgstr ""
 
 msgid "Fossils"
 msgstr "化石"
 
+#~ msgid "Freeze inactive tabs"
+#~ msgstr ""
+
 msgid "Fri"
 msgstr "金"
 
-#~ msgid "From hitting rocks"
-#~ msgstr ""
+msgid "From hitting rocks"
+msgstr ""
+
+msgid "Full-width tab bar and a More screen for overflow. Reorder tabs from the More tab."
+msgstr ""
 
 msgid "Furnitures"
 msgstr "家具"
@@ -405,6 +630,9 @@ msgstr ""
 
 msgid "Gender"
 msgstr "性別"
+
+msgid "Genuine"
+msgstr ""
 
 msgid "Go back"
 msgstr ""
@@ -421,23 +649,62 @@ msgstr "Google Play サービスが利用できないか、古いバージョン
 msgid "Grid"
 msgstr "グリッド"
 
-#~ msgid "Group item variants"
-#~ msgstr "アイテムのバリエーションをグループ化"
+msgid "Group item variants"
+msgstr "アイテムのバリエーションをグループ化"
+
+msgid "Grouped by default. Turn off to show each variant as a separate row."
+msgstr ""
+
+msgid "Guaranteed minimum"
+msgstr ""
+
+msgid "Guides"
+msgstr ""
 
 msgid "Gyroid"
 msgstr "ハニワくん"
 
-#~ msgid "Hard"
-#~ msgstr ""
+msgid "Hard"
+msgstr ""
 
 msgid "Headwear"
 msgstr "帽子"
+
+msgid "Hemisphere"
+msgstr ""
+
+msgid "Hide by state"
+msgstr ""
+
+msgid "Hide catalogued"
+msgstr ""
+
+msgid "Hide donated"
+msgstr ""
+
+msgid "Hide options"
+msgstr ""
+
+msgid "Hide pattern and first-time buyer options"
+msgstr ""
+
+msgid "Hide unlocked"
+msgstr ""
 
 msgid "Hobby"
 msgstr "趣味"
 
 msgid "Home"
 msgstr "ホーム"
+
+msgid "Home modules"
+msgstr ""
+
+msgid "Hour must be between 0 and 23."
+msgstr ""
+
+msgid "House"
+msgstr ""
 
 msgid "Housewares"
 msgstr "家具"
@@ -450,6 +717,9 @@ msgstr "iCloudが利用できません。設定でiCloudにサインインして
 
 msgid "iCloud sign-in required. Check Settings."
 msgstr "iCloudへのサインインが必要です。設定を確認してください。"
+
+msgid "Icon"
+msgstr ""
 
 msgid "Icon URL"
 msgstr "アイコンURL"
@@ -493,14 +763,32 @@ msgstr ""
 msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
+msgid "Includes pairings not in this app’s data ({modalUnknown})."
+msgstr ""
+
 msgid "Insects"
 msgstr "虫"
 
 msgid "Interior Structures"
 msgstr "室内設備"
 
-msgid "Island Name"
-msgstr "島の名前"
+msgid "Island"
+msgstr ""
+
+msgid "Island Guide"
+msgstr ""
+
+msgid "Island name"
+msgstr ""
+
+#~ msgid "Island Name"
+#~ msgstr "島の名前"
+
+msgid "Island not found."
+msgstr ""
+
+msgid "Island villagers"
+msgstr ""
 
 msgid "Items"
 msgstr "アイテム"
@@ -529,8 +817,8 @@ msgstr "6月"
 msgid "Language / localization"
 msgstr "言語 / ローカライズ"
 
-#~ msgid "Large"
-#~ msgstr ""
+msgid "Large"
+msgstr ""
 
 msgid "Large spike"
 msgstr "大きな急上昇"
@@ -553,6 +841,9 @@ msgstr "少ない"
 msgid "License"
 msgstr ""
 
+msgid "Light"
+msgstr ""
+
 msgid "lines"
 msgstr "行"
 
@@ -568,7 +859,19 @@ msgstr "詳細を読み込み中…"
 msgid "Loading…"
 msgstr "読み込み中…"
 
-#~ msgid "Long"
+msgid "Long"
+msgstr ""
+
+msgid "Long-press a filter to edit or delete. When viewing a filter's list, tap Edit in the top bar."
+msgstr ""
+
+msgid "Long-press a row to drag. Earlier items are more likely to stay visible on narrow screens. Home and More always use bar slots."
+msgstr ""
+
+msgid "Long-press the drag handle to reorder"
+msgstr ""
+
+#~ msgid "Main tabs"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
@@ -580,11 +883,14 @@ msgstr ""
 msgid "Mar"
 msgstr "3月"
 
+msgid "Max"
+msgstr ""
+
 msgid "May"
 msgstr "5月"
 
-#~ msgid "Medium"
-#~ msgstr ""
+msgid "Medium"
+msgstr ""
 
 msgid "MeteoNook on GitHub"
 msgstr ""
@@ -619,14 +925,29 @@ msgstr ""
 msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
+msgid "Min"
+msgstr ""
+
+msgid "Minimum sell price"
+msgstr ""
+
+msgid "Minute must be between 0 and 59."
+msgstr ""
+
 msgid "Miscellaneous"
 msgstr "その他"
 
 msgid "Mon"
 msgstr "月"
 
+msgid "Month must be between 1 and 12."
+msgstr ""
+
 msgid "More"
 msgstr "もっと見る"
+
+msgid "More menu"
+msgstr ""
 
 msgid "Museum"
 msgstr "博物館"
@@ -634,8 +955,29 @@ msgstr "博物館"
 msgid "Museum & catalogue"
 msgstr "博物館とカタログ"
 
+msgid "Museum donations"
+msgstr ""
+
 msgid "Music"
 msgstr "音楽"
+
+msgid "My ACNH Guide profile"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Native fruit"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New note"
+msgstr ""
+
+msgid "New version available — tap to restart"
+msgstr ""
 
 msgid "Next events"
 msgstr "次のイベント"
@@ -651,6 +993,12 @@ msgstr "iCloudにバックアップが見つかりませんでした。"
 
 msgid "No events this week"
 msgstr "今週のイベントはありません"
+
+msgid "No fake counterpart"
+msgstr ""
+
+msgid "No guide image available for this piece."
+msgstr ""
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
 msgstr "島が選択されていません。プレイヤーと島の情報を編集するには、島を選択または作成してください。"
@@ -669,6 +1017,9 @@ msgstr "北半球"
 
 msgid "Not found:"
 msgstr "見つかりません："
+
+msgid "Not on tab bar"
+msgstr ""
 
 msgid "Note"
 msgstr ""
@@ -691,41 +1042,53 @@ msgstr "OK"
 #~ msgid "Old state we're migrating from:"
 #~ msgstr ""
 
-#~ msgid "On beach rocks"
+msgid "On beach rocks"
+msgstr ""
+
+#~ msgid "On by default. Pauses off-screen tab trees to save work when switching. Turn off if something stops updating until you revisit a tab."
 #~ msgstr ""
 
-#~ msgid "On flowers"
+#~ msgid "On by default. Unmounts native views for tabs you are not on, which can make switching faster. Turn off if a tab misbehaves when returning to it."
 #~ msgstr ""
 
-#~ msgid "On hardwood/cedar trees"
-#~ msgstr ""
+msgid "On flowers"
+msgstr ""
 
-#~ msgid "On palm trees"
-#~ msgstr ""
+msgid "On hardwood/cedar trees"
+msgstr ""
 
-#~ msgid "On rivers/ponds"
-#~ msgstr ""
+msgid "On main tab bar"
+msgstr ""
 
-#~ msgid "On rocks/bushes"
-#~ msgstr ""
+msgid "On palm trees"
+msgstr ""
 
-#~ msgid "On rotten turnips or candy"
-#~ msgstr ""
+msgid "On rivers/ponds"
+msgstr ""
 
-#~ msgid "On the ground"
-#~ msgstr ""
+msgid "On rocks/bushes"
+msgstr ""
 
-#~ msgid "On tree stumps"
-#~ msgstr ""
+msgid "On rotten turnips or candy"
+msgstr ""
 
-#~ msgid "On trees (any kind)"
-#~ msgstr ""
+msgid "On the ground"
+msgstr ""
 
-#~ msgid "On villagers"
-#~ msgstr ""
+msgid "On tree stumps"
+msgstr ""
 
-#~ msgid "On white flowers"
-#~ msgstr ""
+msgid "On trees (any kind)"
+msgstr ""
+
+msgid "On villagers"
+msgstr ""
+
+msgid "On white flowers"
+msgstr ""
+
+msgid "Open breeding grid"
+msgstr ""
 
 msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
@@ -742,6 +1105,9 @@ msgstr "アップデートを取得するチャンネルを上書き："
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
+msgid "Passport"
+msgstr ""
+
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
 msgstr "アイテム名のリストを以下に1行ずつ貼り付けてください。照合にはアプリの現在の言語が使用されます。アイテムを見つけて、すべてカタログ済みとしてマークできるようにします。"
 
@@ -754,26 +1120,56 @@ msgstr "クリップボードから貼り付け"
 msgid "paste items here"
 msgstr "ここにアイテムを貼り付け"
 
+msgid "Pattern chances"
+msgstr ""
+
+msgid "Performance testing is hiding main tab content. Use this to turn it off."
+msgstr ""
+
+msgid "Permission needed"
+msgstr ""
+
 msgid "Personality"
 msgstr "性格"
 
 msgid "Photos"
 msgstr "写真"
 
-#~ msgid "Pier"
-#~ msgstr ""
+msgid "Pier"
+msgstr ""
 
-msgid "Player Name"
-msgstr "プレイヤー名"
+msgid "Pinned: shown on the bottom tab bar (along with Home and More)."
+msgstr ""
 
-#~ msgid "Pond"
-#~ msgstr ""
+msgid "Place flower"
+msgstr ""
+
+msgid "Place flowers next to this tile to see predictions."
+msgstr ""
+
+#~ msgid "Player Name"
+#~ msgstr "プレイヤー名"
+
+msgid "Please allow photo library access in Settings to change your profile picture."
+msgstr ""
+
+msgid "Pond"
+msgstr ""
+
+msgid "Possible offspring"
+msgstr ""
 
 msgid "Posters"
 msgstr "ポスター"
 
+msgid "Potential maximum"
+msgstr ""
+
 msgid "Preferred colors"
 msgstr "好きな色"
+
+msgid "Preferred gifts"
+msgstr ""
 
 msgid "Preferred style"
 msgstr "好きなスタイル"
@@ -784,17 +1180,20 @@ msgstr "プレミアム"
 msgid "Previous week's pattern"
 msgstr "先週のパターン"
 
+msgid "Price range (all matching weeks)"
+msgstr ""
+
 msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
 msgstr "プロフィール"
 
-#~ msgid "Pushing snowballs"
-#~ msgstr ""
+msgid "Pushing snowballs"
+msgstr ""
 
-#~ msgid "Rain only"
-#~ msgstr ""
+msgid "Rain only"
+msgstr ""
 
 msgid "Rainbow at {time}"
 msgstr ""
@@ -802,11 +1201,26 @@ msgstr ""
 msgid "Reactions"
 msgstr "リアクション"
 
+msgid "Real"
+msgstr ""
+
+msgid "Real title"
+msgstr ""
+
 msgid "Recipe"
 msgstr "レシピ"
 
 msgid "Recipes"
 msgstr "レシピ"
+
+msgid "Remove flower"
+msgstr ""
+
+msgid "Report a bug or suggest a feature — I read every message."
+msgstr ""
+
+msgid "Required"
+msgstr ""
 
 msgid "Reset app data"
 msgstr "アプリデータをリセット"
@@ -816,6 +1230,9 @@ msgstr "アプリデータをリセットしますか？"
 
 #~ msgid "Reset migration done (dev)"
 #~ msgstr ""
+
+msgid "Reset tab order"
+msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
 msgstr "リセットするとすべてのアプリデータが削除されます。島を再設定する必要があります。"
@@ -862,14 +1279,17 @@ msgstr "復元すると現在の島データが置き換えられます。続け
 msgid "Retry"
 msgstr "再試行"
 
-#~ msgid "River"
-#~ msgstr ""
+msgid "River"
+msgstr ""
 
-#~ msgid "River (clifftop)"
-#~ msgstr ""
+msgid "River (clifftop)"
+msgstr ""
 
-#~ msgid "River (mouth)"
-#~ msgstr ""
+msgid "River (mouth)"
+msgstr ""
+
+msgid "Rocks"
+msgstr ""
 
 msgid "Rugs"
 msgstr "ラグ"
@@ -883,11 +1303,11 @@ msgstr "土"
 msgid "Save"
 msgstr "保存"
 
-#~ msgid "Sea"
-#~ msgstr ""
+msgid "Sea"
+msgstr ""
 
-#~ msgid "Sea (rainy days)"
-#~ msgstr ""
+msgid "Sea (rainy days)"
+msgstr ""
 
 msgid "Sea Creatures"
 msgstr "海の生き物"
@@ -895,19 +1315,44 @@ msgstr "海の生き物"
 msgid "Search"
 msgstr "検索"
 
+#~ msgid "Search flowers…"
+#~ msgstr ""
+
+msgid "Search islands…"
+msgstr ""
+
 msgid "Season/Event"
 msgstr ""
 
 msgid "Season/Event Exclusive"
 msgstr ""
 
+msgid "See all"
+msgstr ""
+
 msgid "Select an island in the app to set a weather seed."
+msgstr ""
+
+msgid "Select at least one category to include."
+msgstr ""
+
+msgid "Select categories…"
 msgstr ""
 
 msgid "Select or create island"
 msgstr "島を選択または作成"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Sell price"
+msgstr ""
+
+#. placeholder {0}: minSellPrice.trim()
+msgid "Sell price ≥ {0}"
+msgstr ""
+
+msgid "Sell price range"
 msgstr ""
 
 msgid "Send feedback"
@@ -928,14 +1373,38 @@ msgstr ""
 msgid "Settings"
 msgstr "設定"
 
-#~ msgid "Shaking trees"
-#~ msgstr ""
+msgid "Shaking trees"
+msgstr ""
 
-#~ msgid "Shaking trees (hardwood or cedar only)"
-#~ msgstr ""
+msgid "Shaking trees (hardwood or cedar only)"
+msgstr ""
+
+msgid "Share profile image"
+msgstr ""
+
+msgid "Sharing is not available on this device."
+msgstr ""
+
+msgid "Sharing unavailable"
+msgstr ""
 
 msgid "Shoes"
 msgstr "くつ"
+
+msgid "Show changelog"
+msgstr ""
+
+msgid "Show Fake"
+msgstr ""
+
+msgid "Show only catalogued"
+msgstr ""
+
+msgid "Show pattern and first-time buyer options"
+msgstr ""
+
+msgid "Show Real"
+msgstr ""
 
 msgid "Sign in with Google"
 msgstr "Googleでサインイン"
@@ -958,8 +1427,11 @@ msgstr "サインインに失敗しました。"
 msgid "Signed in"
 msgstr "サインイン済み"
 
-#~ msgid "Small"
-#~ msgstr ""
+msgid "Size"
+msgstr ""
+
+msgid "Small"
+msgstr ""
 
 msgid "Small spike"
 msgstr "小さな急上昇"
@@ -969,6 +1441,15 @@ msgstr "くつした"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
 msgstr "現在のデータの一部が上書きされる可能性があります：島の詳細（名前、半球、フルーツ）、博物館の寄贈状況、現在の住民がバックアップに置き換えられます。インポートされたリストアイテムは既存のリストに追加されます。"
+
+msgid "Songs registered"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
 
 msgid "Source"
 msgstr ""
@@ -994,7 +1475,28 @@ msgstr "サポート"
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
 msgstr "アプリを応援して広告なし体験を楽しんでください。同じ特典、価格をお選びください。"
 
-msgid "Tap Add to create your first note."
+msgid "Switch Friend Code"
+msgstr ""
+
+msgid "Tab bar order"
+msgstr ""
+
+#~ msgid "Tap Add to create your first note."
+#~ msgstr ""
+
+msgid "Tap image or use buttons to toggle real vs fake."
+msgstr ""
+
+msgid "Tap New to create your first note."
+msgstr ""
+
+msgid "Tap to change"
+msgstr ""
+
+msgid "Tap to hide"
+msgstr ""
+
+msgid "Tap to reveal"
 msgstr ""
 
 msgid "Thank you"
@@ -1006,13 +1508,25 @@ msgstr "ありがとうございます"
 #~ msgid "Thank you for your support! You can leave a tip if you’d like."
 #~ msgstr ""
 
-msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
+msgid "Thank you for your support! You can leave a tip if you'd like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
+#~ msgstr ""
 
 msgid "Thanks for your support! You have premium access."
 msgstr "ご支援ありがとうございます！プレミアムアクセスをお持ちです。"
 
+msgid "The flower breeding tracker is not available."
+msgstr ""
+
 msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "This filter will be permanently deleted. This cannot be undone."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
@@ -1042,17 +1556,38 @@ msgstr "道具/雑貨"
 msgid "Tops"
 msgstr "トップス"
 
+msgid "Total donated"
+msgstr ""
+
 msgid "Total items:"
 msgstr "合計アイテム数："
 
 msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
+msgid "Trees"
+msgstr ""
+
 msgid "Tue"
 msgstr "火"
 
+msgid "Turn off blank tab mode"
+msgstr ""
+
+msgid "Turn on “Responsive main tab bar” in Debug → Feature flags to customize tab order and see destinations that don’t fit on the bar here."
+msgstr ""
+
+msgid "Turn on “Responsive main tab bar” in Debug → Feature flags to use a customizable bottom tab bar on this device."
+msgstr ""
+
 msgid "Turnips"
 msgstr "かぶ"
+
+msgid "Umbrellas"
+msgstr ""
+
+msgid "Uncaught only"
+msgstr ""
 
 msgid "Uncheck multiple variants"
 msgstr "複数のバリエーションのチェックを外す"
@@ -1060,14 +1595,20 @@ msgstr "複数のバリエーションのチェックを外す"
 msgid "Unchecked items with multiple variants:"
 msgstr "複数バリエーションの未チェックアイテム："
 
-#~ msgid "Underground (dig where noise is loudest)"
-#~ msgstr ""
+msgid "Underground (dig where noise is loudest)"
+msgstr ""
+
+msgid "Undonated only"
+msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
 msgstr "ユニークアイテム（バリエーションの重複を除く）："
 
 msgid "Unknown"
 msgstr "不明"
+
+msgid "Unsaved changes"
+msgstr ""
 
 msgid "Untitled"
 msgstr ""
@@ -1087,20 +1628,29 @@ msgstr "アップデートをダウンロードしました。再起動をタッ
 msgid "Updated"
 msgstr ""
 
+msgid "Updating forecast…"
+msgstr ""
+
 msgid "Use device time"
+msgstr ""
+
+msgid "Use light or dark mode, or match your device."
+msgstr ""
+
+msgid "Using:"
 msgstr ""
 
 msgid "Version"
 msgstr "バージョン"
 
-#~ msgid "Very Easy"
-#~ msgstr ""
+msgid "Very Easy"
+msgstr ""
 
-#~ msgid "Very hard"
-#~ msgstr ""
+msgid "Very hard"
+msgstr ""
 
-#~ msgid "Very Hard"
-#~ msgstr ""
+msgid "Very Hard"
+msgstr ""
 
 msgid "View full calendar"
 msgstr "カレンダー全体を表示"
@@ -1141,6 +1691,9 @@ msgstr ""
 msgid "Wed"
 msgstr "水"
 
+msgid "Wetsuits"
+msgstr ""
+
 msgid "What date does your game show?"
 msgstr ""
 
@@ -1153,20 +1706,29 @@ msgstr "オンにすると、博物館にアイテムを寄贈したとき、カ
 #~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
 #~ msgstr "オンにすると、複数の色やバリエーションを持つアイテム（例：家具）がバリエーション選択付きの1行で表示されます。オフにすると、各バリエーションが別々の行になります。"
 
-#~ msgid "X-Large"
-#~ msgstr ""
+msgid "X-Large"
+msgstr ""
 
-#~ msgid "X-Large w/Fin"
-#~ msgstr ""
+msgid "X-Large w/Fin"
+msgstr ""
 
-#~ msgid "X-Small"
-#~ msgstr ""
+msgid "X-Small"
+msgstr ""
 
-#~ msgid "XX-Large"
-#~ msgstr ""
+msgid "XX-Large"
+msgstr ""
+
+msgid "Year must be between 2020 and 2030."
+msgstr ""
 
 msgid "Yes"
 msgstr "はい"
+
+#~ msgid "You can also reach me easily by email (tap the envelope or copy below)."
+#~ msgstr ""
+
+msgid "You can also reach me easily by email (tap the envelope or copy below). When reporting a bug, please include the app version and your device OS (for example iOS 18 or Android 15)."
+msgstr ""
 
 msgid "Your Island's turnip Info"
 msgstr "島のかぶ情報"

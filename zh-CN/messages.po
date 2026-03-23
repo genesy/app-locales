@@ -28,6 +28,9 @@ msgstr ""
 msgid "{selectedCount} items selected"
 msgstr "已选择 {selectedCount} 件物品"
 
+msgid "#"
+msgstr ""
+
 msgid "1 item selected"
 msgstr "已选择 1 件物品"
 
@@ -43,19 +46,25 @@ msgstr "配饰"
 msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
 msgstr ""
 
-msgid "Add"
+#~ msgid "Add"
+#~ msgstr ""
+
+msgid "Add custom filter"
 msgstr ""
 
 msgid "Add item"
 msgstr "添加物品"
 
-msgid "Add note"
-msgstr ""
+#~ msgid "Add note"
+#~ msgstr ""
 
 msgid "Add to catalogue when donating"
 msgstr "捐赠时添加至图鉴"
 
 msgid "Ads hidden until"
+msgstr ""
+
+msgid "All"
 msgstr ""
 
 msgid "Allow more than 10 villagers"
@@ -64,17 +73,23 @@ msgstr ""
 msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
-#~ msgid "Any except rain"
-#~ msgstr ""
+msgid "Any"
+msgstr ""
 
-#~ msgid "Any weather"
-#~ msgstr ""
+msgid "Any except rain"
+msgstr ""
+
+msgid "Any weather"
+msgstr ""
 
 msgid "App language"
 msgstr "应用语言"
 
 msgid "App updates"
 msgstr "应用更新"
+
+msgid "Appearance"
+msgstr ""
 
 msgid "Applying backup…"
 msgstr "正在应用备份…"
@@ -88,8 +103,20 @@ msgstr "确定吗？你的所有数据将被永久删除。你需要重新设置
 msgid "Art"
 msgstr "艺术品"
 
+msgid "Art guide"
+msgstr ""
+
+msgid "Artist"
+msgstr ""
+
 msgid "Artwork"
 msgstr "艺术品"
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Assumes all flowers are watered. Outcomes use this app’s breeding table; pairs not listed show as unknown. Flower colors can hide different genes—pick the variant that matches your plants (seed, hybrid, etc.)."
+msgstr ""
 
 msgid "Attribution"
 msgstr ""
@@ -100,8 +127,23 @@ msgstr "8月"
 msgid "Aurora borealis"
 msgstr ""
 
+msgid "Auto"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available in month"
+msgstr ""
+
+msgid "Available now"
+msgstr ""
+
 msgid "Available version"
 msgstr "可用版本"
+
+msgid "Back to Guides"
+msgstr ""
 
 msgid "Back to settings"
 msgstr "返回设置"
@@ -130,6 +172,12 @@ msgstr "生日"
 msgid "Bottoms"
 msgstr "下装"
 
+#~ msgid "breeding combinations"
+#~ msgstr ""
+
+msgid "Breeding combinations"
+msgstr ""
+
 msgid "Build"
 msgstr "Build"
 
@@ -139,11 +187,20 @@ msgstr ""
 msgid "Buy price"
 msgstr "购入价格"
 
+msgid "Buy price range"
+msgstr ""
+
 msgid "Calendar"
 msgstr "日历"
 
 msgid "Cancel"
 msgstr "取消"
+
+#~ msgid "Card"
+#~ msgstr ""
+
+msgid "Cards"
+msgstr ""
 
 msgid "Catalog {selectedCount} Items"
 msgstr "将 {selectedCount} 件物品加入图鉴"
@@ -154,8 +211,26 @@ msgstr "将 1 件物品加入图鉴"
 msgid "Cataloguing…"
 msgstr "正在加入图鉴…"
 
+msgid "categories"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Caught"
+msgstr ""
+
+msgid "Caught only"
+msgstr ""
+
 msgid "Ceiling Decor"
 msgstr "吊饰"
+
+msgid "Chance"
+msgstr ""
+
+msgid "Change to"
+msgstr ""
 
 msgid "Check for updates"
 msgstr "检查更新"
@@ -169,11 +244,26 @@ msgstr "正在检查更新…"
 msgid "Checklist name"
 msgstr "清单名称"
 
+msgid "Choose a guide to view tips and reference information."
+msgstr ""
+
 msgid "Choose a plan to support the app."
 msgstr "选择一个方案来支持本应用。"
 
+msgid "Choose variant"
+msgstr ""
+
+msgid "Clear grid"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
 msgid "Cloud storage path error. Try again."
 msgstr "云存储路径错误。请重试。"
+
+msgid "Collection progress"
+msgstr ""
 
 msgid "Contact"
 msgstr ""
@@ -186,6 +276,9 @@ msgstr ""
 
 #~ msgid "Copy"
 #~ msgstr ""
+
+msgid "Copy email"
+msgstr ""
 
 msgid "Copy failed"
 msgstr ""
@@ -208,11 +301,17 @@ msgstr "无法将备份写入 Google 云端硬盘。"
 msgid "Could not write backup to iCloud."
 msgstr "无法将备份写入 iCloud。"
 
+msgid "Creator ID"
+msgstr ""
+
 msgid "Critters"
 msgstr "小动物"
 
 msgid "Current version"
 msgstr "当前版本"
+
+msgid "Custom"
+msgstr ""
 
 msgid "Daily Checklist"
 msgstr "每日清单"
@@ -222,6 +321,9 @@ msgstr ""
 
 msgid "Danger zone"
 msgstr "危险区域"
+
+msgid "Dark"
+msgstr ""
 
 msgid "Data"
 msgstr "数据"
@@ -235,8 +337,14 @@ msgstr "数据库未就绪"
 msgid "Database not ready."
 msgstr "数据库未就绪。"
 
+msgid "Day must be between 1 and {maxDay} for this month."
+msgstr ""
+
 msgid "Debug"
 msgstr "Debug"
+
+msgid "Debug: blank tab mode"
+msgstr ""
 
 msgid "Dec"
 msgstr "12月"
@@ -250,23 +358,60 @@ msgstr "默认（无覆盖）"
 msgid "Delete"
 msgstr ""
 
+#. placeholder {0}: f.name
+msgid "Delete \"{0}\"? This cannot be undone."
+msgstr ""
+
 msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
 msgstr "删除所有内容"
 
+msgid "Delete filter?"
+msgstr ""
+
 msgid "Delete list?"
 msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Destinations that don’t fit on the bottom bar. Open one to jump there from the More tab."
+msgstr ""
+
+#~ msgid "Detach inactive tabs"
+#~ msgstr ""
 
 msgid "Details"
 msgstr "详情"
 
-#~ msgid "Disguised on shoreline"
-#~ msgstr ""
+msgid "Disguised on shoreline"
+msgstr ""
 
-#~ msgid "Disguised under trees"
-#~ msgstr ""
+msgid "Disguised under trees"
+msgstr ""
+
+msgid "DIY only"
+msgstr ""
+
+msgid "DIY recipes learned"
+msgstr ""
+
+msgid "Do you want to save your changes before leaving?"
+msgstr ""
+
+msgid "Don't save"
+msgstr ""
+
+msgid "Donated"
+msgstr ""
+
+msgid "Donated only"
+msgstr ""
 
 msgid "Done"
 msgstr "完成"
@@ -286,19 +431,32 @@ msgstr "下载更新"
 msgid "Downloading…"
 msgstr "正在下载…"
 
+msgid "Dream address"
+msgstr ""
+
 msgid "Dress-Up"
 msgstr "服装"
 
 msgid "e.g. 100"
 msgstr "例：100"
 
+msgid "e.g. 1000"
+msgstr ""
+
 msgid "e.g. 1234567890"
 msgstr ""
 
-#~ msgid "Easy"
-#~ msgstr ""
+msgid "Easy"
+msgstr ""
 
 msgid "Edit"
+msgstr ""
+
+#. placeholder {0}: preset.name
+msgid "Edit {0}"
+msgstr ""
+
+msgid "Edit filter"
 msgstr ""
 
 msgid "Edit List"
@@ -307,11 +465,29 @@ msgstr "编辑清单"
 msgid "Edit localization"
 msgstr "编辑本地化"
 
+msgid "Edit or delete this custom filter?"
+msgstr ""
+
+msgid "Edit tab bar order"
+msgstr ""
+
+msgid "Efficient layout"
+msgstr ""
+
 msgid "Email (for backup lookup)"
+msgstr ""
+
+msgid "Email address"
 msgstr ""
 
 msgid "Embedded build"
 msgstr "内嵌版本"
+
+msgid "Empty plot"
+msgstr ""
+
+msgid "Enable it under Debug → Feature flags if you have access to the debug menu."
+msgstr ""
 
 #~ msgid "Enter a backup UUID"
 #~ msgstr "输入备份 UUID"
@@ -325,20 +501,35 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
+msgid "Everything is on your tab bar."
+msgstr ""
+
 msgid "Exchange Currency"
 msgstr ""
 
 msgid "Exchange Price"
 msgstr ""
 
+msgid "Experimental full width tabs"
+msgstr ""
+
 msgid "Failed to load events"
 msgstr "活动加载失败"
+
+msgid "Fake"
+msgstr ""
 
 msgid "Fashion"
 msgstr "时尚"
 
+msgid "Favorite villagers"
+msgstr ""
+
 msgid "Favorites"
 msgstr "收藏"
+
+msgid "Feature flags"
+msgstr ""
 
 msgid "Feb"
 msgstr "2月"
@@ -348,6 +539,16 @@ msgstr "围栏"
 
 msgid "Fetching backup…"
 msgstr "正在获取备份…"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter name"
+msgstr ""
+
+#. placeholder {0}: f.name
+msgid "Filter: {0}"
+msgstr ""
 
 msgid "Find items"
 msgstr "查找物品"
@@ -364,35 +565,59 @@ msgstr "鱼"
 msgid "Floors"
 msgstr "地板"
 
+msgid "Flower Breeding Guide"
+msgstr ""
+
+msgid "Flower breeding tracker"
+msgstr ""
+
+msgid "Flower type not found."
+msgstr ""
+
+msgid "Flowers"
+msgstr ""
+
 msgid "Fluctuating"
 msgstr "小幅波动"
 
-#~ msgid "Flying"
-#~ msgstr ""
+msgid "Flying"
+msgstr ""
 
-#~ msgid "Flying near blue/purple/black flowers"
-#~ msgstr ""
+msgid "Flying near blue/purple/black flowers"
+msgstr ""
 
-#~ msgid "Flying near flowers"
-#~ msgstr ""
+msgid "Flying near flowers"
+msgstr ""
 
-#~ msgid "Flying near light sources"
-#~ msgstr ""
+msgid "Flying near light sources"
+msgstr ""
 
-#~ msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
-#~ msgstr ""
+msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
+msgstr ""
 
-#~ msgid "Flying near water"
-#~ msgstr ""
+msgid "Flying near water"
+msgstr ""
+
+msgid "Forecast"
+msgstr ""
+
+msgid "Forecasts use last week's turnip pattern and assume this isn't your first time buying turnips. Show options below if you need to change either."
+msgstr ""
 
 msgid "Fossils"
 msgstr "化石"
 
+#~ msgid "Freeze inactive tabs"
+#~ msgstr ""
+
 msgid "Fri"
 msgstr "周五"
 
-#~ msgid "From hitting rocks"
-#~ msgstr ""
+msgid "From hitting rocks"
+msgstr ""
+
+msgid "Full-width tab bar and a More screen for overflow. Reorder tabs from the More tab."
+msgstr ""
 
 msgid "Furnitures"
 msgstr "家具"
@@ -405,6 +630,9 @@ msgstr ""
 
 msgid "Gender"
 msgstr "性别"
+
+msgid "Genuine"
+msgstr ""
 
 msgid "Go back"
 msgstr ""
@@ -421,23 +649,62 @@ msgstr "Google Play 服务不可用或已过时。"
 msgid "Grid"
 msgstr "网格"
 
-#~ msgid "Group item variants"
-#~ msgstr "合并物品款式"
+msgid "Group item variants"
+msgstr "合并物品款式"
+
+msgid "Grouped by default. Turn off to show each variant as a separate row."
+msgstr ""
+
+msgid "Guaranteed minimum"
+msgstr ""
+
+msgid "Guides"
+msgstr ""
 
 msgid "Gyroid"
 msgstr "埴轮"
 
-#~ msgid "Hard"
-#~ msgstr ""
+msgid "Hard"
+msgstr ""
 
 msgid "Headwear"
 msgstr "帽饰"
+
+msgid "Hemisphere"
+msgstr ""
+
+msgid "Hide by state"
+msgstr ""
+
+msgid "Hide catalogued"
+msgstr ""
+
+msgid "Hide donated"
+msgstr ""
+
+msgid "Hide options"
+msgstr ""
+
+msgid "Hide pattern and first-time buyer options"
+msgstr ""
+
+msgid "Hide unlocked"
+msgstr ""
 
 msgid "Hobby"
 msgstr "爱好"
 
 msgid "Home"
 msgstr "主页"
+
+msgid "Home modules"
+msgstr ""
+
+msgid "Hour must be between 0 and 23."
+msgstr ""
+
+msgid "House"
+msgstr ""
 
 msgid "Housewares"
 msgstr "家居用品"
@@ -450,6 +717,9 @@ msgstr "iCloud 不可用。请在设置中登录 iCloud。"
 
 msgid "iCloud sign-in required. Check Settings."
 msgstr "需要登录 iCloud。请检查设置。"
+
+msgid "Icon"
+msgstr ""
 
 msgid "Icon URL"
 msgstr "图标 URL"
@@ -493,14 +763,32 @@ msgstr ""
 msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
+msgid "Includes pairings not in this app’s data ({modalUnknown})."
+msgstr ""
+
 msgid "Insects"
 msgstr "昆虫"
 
 msgid "Interior Structures"
 msgstr "室内建材"
 
-msgid "Island Name"
-msgstr "岛屿名称"
+msgid "Island"
+msgstr ""
+
+msgid "Island Guide"
+msgstr ""
+
+msgid "Island name"
+msgstr ""
+
+#~ msgid "Island Name"
+#~ msgstr "岛屿名称"
+
+msgid "Island not found."
+msgstr ""
+
+msgid "Island villagers"
+msgstr ""
 
 msgid "Items"
 msgstr "物品"
@@ -529,8 +817,8 @@ msgstr "6月"
 msgid "Language / localization"
 msgstr "语言 / 本地化"
 
-#~ msgid "Large"
-#~ msgstr ""
+msgid "Large"
+msgstr ""
 
 msgid "Large spike"
 msgstr "大幅上涨"
@@ -553,6 +841,9 @@ msgstr "较少"
 msgid "License"
 msgstr ""
 
+msgid "Light"
+msgstr ""
+
 msgid "lines"
 msgstr "行"
 
@@ -568,7 +859,19 @@ msgstr "正在加载详情…"
 msgid "Loading…"
 msgstr "正在加载…"
 
-#~ msgid "Long"
+msgid "Long"
+msgstr ""
+
+msgid "Long-press a filter to edit or delete. When viewing a filter's list, tap Edit in the top bar."
+msgstr ""
+
+msgid "Long-press a row to drag. Earlier items are more likely to stay visible on narrow screens. Home and More always use bar slots."
+msgstr ""
+
+msgid "Long-press the drag handle to reorder"
+msgstr ""
+
+#~ msgid "Main tabs"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
@@ -580,11 +883,14 @@ msgstr ""
 msgid "Mar"
 msgstr "3月"
 
+msgid "Max"
+msgstr ""
+
 msgid "May"
 msgstr "5月"
 
-#~ msgid "Medium"
-#~ msgstr ""
+msgid "Medium"
+msgstr ""
 
 msgid "MeteoNook on GitHub"
 msgstr ""
@@ -619,14 +925,29 @@ msgstr ""
 msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
+msgid "Min"
+msgstr ""
+
+msgid "Minimum sell price"
+msgstr ""
+
+msgid "Minute must be between 0 and 59."
+msgstr ""
+
 msgid "Miscellaneous"
 msgstr "杂项"
 
 msgid "Mon"
 msgstr "周一"
 
+msgid "Month must be between 1 and 12."
+msgstr ""
+
 msgid "More"
 msgstr "更多"
+
+msgid "More menu"
+msgstr ""
 
 msgid "Museum"
 msgstr "博物馆"
@@ -634,8 +955,29 @@ msgstr "博物馆"
 msgid "Museum & catalogue"
 msgstr "博物馆与图鉴"
 
+msgid "Museum donations"
+msgstr ""
+
 msgid "Music"
 msgstr "音乐"
+
+msgid "My ACNH Guide profile"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Native fruit"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New note"
+msgstr ""
+
+msgid "New version available — tap to restart"
+msgstr ""
 
 msgid "Next events"
 msgstr "近期活动"
@@ -651,6 +993,12 @@ msgstr "在 iCloud 中未找到备份。"
 
 msgid "No events this week"
 msgstr "本周没有活动"
+
+msgid "No fake counterpart"
+msgstr ""
+
+msgid "No guide image available for this piece."
+msgstr ""
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
 msgstr "未选择岛屿。请选择或创建一个岛屿以编辑玩家和岛屿信息。"
@@ -669,6 +1017,9 @@ msgstr "北半球"
 
 msgid "Not found:"
 msgstr "未找到："
+
+msgid "Not on tab bar"
+msgstr ""
 
 msgid "Note"
 msgstr ""
@@ -691,41 +1042,53 @@ msgstr "确定"
 #~ msgid "Old state we're migrating from:"
 #~ msgstr ""
 
-#~ msgid "On beach rocks"
+msgid "On beach rocks"
+msgstr ""
+
+#~ msgid "On by default. Pauses off-screen tab trees to save work when switching. Turn off if something stops updating until you revisit a tab."
 #~ msgstr ""
 
-#~ msgid "On flowers"
+#~ msgid "On by default. Unmounts native views for tabs you are not on, which can make switching faster. Turn off if a tab misbehaves when returning to it."
 #~ msgstr ""
 
-#~ msgid "On hardwood/cedar trees"
-#~ msgstr ""
+msgid "On flowers"
+msgstr ""
 
-#~ msgid "On palm trees"
-#~ msgstr ""
+msgid "On hardwood/cedar trees"
+msgstr ""
 
-#~ msgid "On rivers/ponds"
-#~ msgstr ""
+msgid "On main tab bar"
+msgstr ""
 
-#~ msgid "On rocks/bushes"
-#~ msgstr ""
+msgid "On palm trees"
+msgstr ""
 
-#~ msgid "On rotten turnips or candy"
-#~ msgstr ""
+msgid "On rivers/ponds"
+msgstr ""
 
-#~ msgid "On the ground"
-#~ msgstr ""
+msgid "On rocks/bushes"
+msgstr ""
 
-#~ msgid "On tree stumps"
-#~ msgstr ""
+msgid "On rotten turnips or candy"
+msgstr ""
 
-#~ msgid "On trees (any kind)"
-#~ msgstr ""
+msgid "On the ground"
+msgstr ""
 
-#~ msgid "On villagers"
-#~ msgstr ""
+msgid "On tree stumps"
+msgstr ""
 
-#~ msgid "On white flowers"
-#~ msgstr ""
+msgid "On trees (any kind)"
+msgstr ""
+
+msgid "On villagers"
+msgstr ""
+
+msgid "On white flowers"
+msgstr ""
+
+msgid "Open breeding grid"
+msgstr ""
 
 msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
@@ -742,6 +1105,9 @@ msgstr "覆盖获取更新的渠道："
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
+msgid "Passport"
+msgstr ""
+
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
 msgstr "在下方粘贴物品名称列表，每行一个。匹配使用应用当前语言。我们将找到这些物品并允许你将它们全部标记为已收录。"
 
@@ -754,26 +1120,56 @@ msgstr "从剪贴板粘贴"
 msgid "paste items here"
 msgstr "在此粘贴物品"
 
+msgid "Pattern chances"
+msgstr ""
+
+msgid "Performance testing is hiding main tab content. Use this to turn it off."
+msgstr ""
+
+msgid "Permission needed"
+msgstr ""
+
 msgid "Personality"
 msgstr "性格"
 
 msgid "Photos"
 msgstr "照片"
 
-#~ msgid "Pier"
-#~ msgstr ""
+msgid "Pier"
+msgstr ""
 
-msgid "Player Name"
-msgstr "玩家姓名"
+msgid "Pinned: shown on the bottom tab bar (along with Home and More)."
+msgstr ""
 
-#~ msgid "Pond"
-#~ msgstr ""
+msgid "Place flower"
+msgstr ""
+
+msgid "Place flowers next to this tile to see predictions."
+msgstr ""
+
+#~ msgid "Player Name"
+#~ msgstr "玩家姓名"
+
+msgid "Please allow photo library access in Settings to change your profile picture."
+msgstr ""
+
+msgid "Pond"
+msgstr ""
+
+msgid "Possible offspring"
+msgstr ""
 
 msgid "Posters"
 msgstr "海报"
 
+msgid "Potential maximum"
+msgstr ""
+
 msgid "Preferred colors"
 msgstr "喜好颜色"
+
+msgid "Preferred gifts"
+msgstr ""
 
 msgid "Preferred style"
 msgstr "喜好风格"
@@ -784,17 +1180,20 @@ msgstr "高级版"
 msgid "Previous week's pattern"
 msgstr "上周走势"
 
+msgid "Price range (all matching weeks)"
+msgstr ""
+
 msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
 msgstr "档案"
 
-#~ msgid "Pushing snowballs"
-#~ msgstr ""
+msgid "Pushing snowballs"
+msgstr ""
 
-#~ msgid "Rain only"
-#~ msgstr ""
+msgid "Rain only"
+msgstr ""
 
 msgid "Rainbow at {time}"
 msgstr ""
@@ -802,11 +1201,26 @@ msgstr ""
 msgid "Reactions"
 msgstr "表情动作"
 
+msgid "Real"
+msgstr ""
+
+msgid "Real title"
+msgstr ""
+
 msgid "Recipe"
 msgstr "DIY 配方"
 
 msgid "Recipes"
 msgstr "DIY 配方"
+
+msgid "Remove flower"
+msgstr ""
+
+msgid "Report a bug or suggest a feature — I read every message."
+msgstr ""
+
+msgid "Required"
+msgstr ""
 
 msgid "Reset app data"
 msgstr "重置应用数据"
@@ -816,6 +1230,9 @@ msgstr "重置应用数据？"
 
 #~ msgid "Reset migration done (dev)"
 #~ msgstr ""
+
+msgid "Reset tab order"
+msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
 msgstr "重置将删除所有应用数据。你需要重新设置岛屿。"
@@ -862,14 +1279,17 @@ msgstr "恢复将替换当前岛屿数据。继续？"
 msgid "Retry"
 msgstr "重试"
 
-#~ msgid "River"
-#~ msgstr ""
+msgid "River"
+msgstr ""
 
-#~ msgid "River (clifftop)"
-#~ msgstr ""
+msgid "River (clifftop)"
+msgstr ""
 
-#~ msgid "River (mouth)"
-#~ msgstr ""
+msgid "River (mouth)"
+msgstr ""
+
+msgid "Rocks"
+msgstr ""
 
 msgid "Rugs"
 msgstr "地毯"
@@ -883,11 +1303,11 @@ msgstr "周六"
 msgid "Save"
 msgstr "保存"
 
-#~ msgid "Sea"
-#~ msgstr ""
+msgid "Sea"
+msgstr ""
 
-#~ msgid "Sea (rainy days)"
-#~ msgstr ""
+msgid "Sea (rainy days)"
+msgstr ""
 
 msgid "Sea Creatures"
 msgstr "海洋生物"
@@ -895,19 +1315,44 @@ msgstr "海洋生物"
 msgid "Search"
 msgstr "搜索"
 
+#~ msgid "Search flowers…"
+#~ msgstr ""
+
+msgid "Search islands…"
+msgstr ""
+
 msgid "Season/Event"
 msgstr ""
 
 msgid "Season/Event Exclusive"
 msgstr ""
 
+msgid "See all"
+msgstr ""
+
 msgid "Select an island in the app to set a weather seed."
+msgstr ""
+
+msgid "Select at least one category to include."
+msgstr ""
+
+msgid "Select categories…"
 msgstr ""
 
 msgid "Select or create island"
 msgstr "选择或创建岛屿"
 
 msgid "Sell"
+msgstr ""
+
+msgid "Sell price"
+msgstr ""
+
+#. placeholder {0}: minSellPrice.trim()
+msgid "Sell price ≥ {0}"
+msgstr ""
+
+msgid "Sell price range"
 msgstr ""
 
 msgid "Send feedback"
@@ -928,14 +1373,38 @@ msgstr ""
 msgid "Settings"
 msgstr "设置"
 
-#~ msgid "Shaking trees"
-#~ msgstr ""
+msgid "Shaking trees"
+msgstr ""
 
-#~ msgid "Shaking trees (hardwood or cedar only)"
-#~ msgstr ""
+msgid "Shaking trees (hardwood or cedar only)"
+msgstr ""
+
+msgid "Share profile image"
+msgstr ""
+
+msgid "Sharing is not available on this device."
+msgstr ""
+
+msgid "Sharing unavailable"
+msgstr ""
 
 msgid "Shoes"
 msgstr "鞋子"
+
+msgid "Show changelog"
+msgstr ""
+
+msgid "Show Fake"
+msgstr ""
+
+msgid "Show only catalogued"
+msgstr ""
+
+msgid "Show pattern and first-time buyer options"
+msgstr ""
+
+msgid "Show Real"
+msgstr ""
 
 msgid "Sign in with Google"
 msgstr "使用 Google 登录"
@@ -958,8 +1427,11 @@ msgstr "登录失败。"
 msgid "Signed in"
 msgstr "已登录"
 
-#~ msgid "Small"
-#~ msgstr ""
+msgid "Size"
+msgstr ""
+
+msgid "Small"
+msgstr ""
 
 msgid "Small spike"
 msgstr "小幅上涨"
@@ -969,6 +1441,15 @@ msgstr "袜子"
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
 msgstr "你的部分当前数据可能被覆盖：岛屿详情（名称、半球、特产水果）、博物馆捐赠状态和当前居民将被备份替换。导入的列表物品将添加至你现有的列表中。"
+
+msgid "Songs registered"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
 
 msgid "Source"
 msgstr ""
@@ -994,7 +1475,28 @@ msgstr "支持"
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
 msgstr "支持本应用，享受无广告体验。相同解锁内容，选择你的价格。"
 
-msgid "Tap Add to create your first note."
+msgid "Switch Friend Code"
+msgstr ""
+
+msgid "Tab bar order"
+msgstr ""
+
+#~ msgid "Tap Add to create your first note."
+#~ msgstr ""
+
+msgid "Tap image or use buttons to toggle real vs fake."
+msgstr ""
+
+msgid "Tap New to create your first note."
+msgstr ""
+
+msgid "Tap to change"
+msgstr ""
+
+msgid "Tap to hide"
+msgstr ""
+
+msgid "Tap to reveal"
 msgstr ""
 
 msgid "Thank you"
@@ -1006,13 +1508,25 @@ msgstr "谢谢"
 #~ msgid "Thank you for your support! You can leave a tip if you’d like."
 #~ msgstr ""
 
-msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
+msgid "Thank you for your support! You can leave a tip if you'd like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
+#~ msgstr ""
 
 msgid "Thanks for your support! You have premium access."
 msgstr "感谢你的支持！你已拥有高级访问权限。"
 
+msgid "The flower breeding tracker is not available."
+msgstr ""
+
 msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "This filter will be permanently deleted. This cannot be undone."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
@@ -1042,17 +1556,38 @@ msgstr "工具/杂货"
 msgid "Tops"
 msgstr "上装"
 
+msgid "Total donated"
+msgstr ""
+
 msgid "Total items:"
 msgstr "物品总数："
 
 msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
+msgid "Trees"
+msgstr ""
+
 msgid "Tue"
 msgstr "周二"
 
+msgid "Turn off blank tab mode"
+msgstr ""
+
+msgid "Turn on “Responsive main tab bar” in Debug → Feature flags to customize tab order and see destinations that don’t fit on the bar here."
+msgstr ""
+
+msgid "Turn on “Responsive main tab bar” in Debug → Feature flags to use a customizable bottom tab bar on this device."
+msgstr ""
+
 msgid "Turnips"
 msgstr "大头菜"
+
+msgid "Umbrellas"
+msgstr ""
+
+msgid "Uncaught only"
+msgstr ""
 
 msgid "Uncheck multiple variants"
 msgstr "取消勾选多个款式"
@@ -1060,14 +1595,20 @@ msgstr "取消勾选多个款式"
 msgid "Unchecked items with multiple variants:"
 msgstr "有多个款式的未勾选物品："
 
-#~ msgid "Underground (dig where noise is loudest)"
-#~ msgstr ""
+msgid "Underground (dig where noise is loudest)"
+msgstr ""
+
+msgid "Undonated only"
+msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
 msgstr "独特物品（不含款式重复）："
 
 msgid "Unknown"
 msgstr "未知"
+
+msgid "Unsaved changes"
+msgstr ""
 
 msgid "Untitled"
 msgstr ""
@@ -1087,20 +1628,29 @@ msgstr "更新已下载。点击重启以应用。"
 msgid "Updated"
 msgstr ""
 
+msgid "Updating forecast…"
+msgstr ""
+
 msgid "Use device time"
+msgstr ""
+
+msgid "Use light or dark mode, or match your device."
+msgstr ""
+
+msgid "Using:"
 msgstr ""
 
 msgid "Version"
 msgstr "版本"
 
-#~ msgid "Very Easy"
-#~ msgstr ""
+msgid "Very Easy"
+msgstr ""
 
-#~ msgid "Very hard"
-#~ msgstr ""
+msgid "Very hard"
+msgstr ""
 
-#~ msgid "Very Hard"
-#~ msgstr ""
+msgid "Very Hard"
+msgstr ""
 
 msgid "View full calendar"
 msgstr "查看完整日历"
@@ -1141,6 +1691,9 @@ msgstr ""
 msgid "Wed"
 msgstr "周三"
 
+msgid "Wetsuits"
+msgstr ""
+
 msgid "What date does your game show?"
 msgstr ""
 
@@ -1153,20 +1706,29 @@ msgstr "开启后，向博物馆捐赠物品时也会将其添加至你的已收
 #~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
 #~ msgstr "开启后，拥有多种颜色或款式的物品（如家具）将显示为一行并带有款式选择器。关闭后，每种款式单独显示为一行。"
 
-#~ msgid "X-Large"
-#~ msgstr ""
+msgid "X-Large"
+msgstr ""
 
-#~ msgid "X-Large w/Fin"
-#~ msgstr ""
+msgid "X-Large w/Fin"
+msgstr ""
 
-#~ msgid "X-Small"
-#~ msgstr ""
+msgid "X-Small"
+msgstr ""
 
-#~ msgid "XX-Large"
-#~ msgstr ""
+msgid "XX-Large"
+msgstr ""
+
+msgid "Year must be between 2020 and 2030."
+msgstr ""
 
 msgid "Yes"
 msgstr "是"
+
+#~ msgid "You can also reach me easily by email (tap the envelope or copy below)."
+#~ msgstr ""
+
+msgid "You can also reach me easily by email (tap the envelope or copy below). When reporting a bug, please include the app version and your device OS (for example iOS 18 or Android 15)."
+msgstr ""
 
 msgid "Your Island's turnip Info"
 msgstr "你的岛屿大头菜信息"

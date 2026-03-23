@@ -28,6 +28,9 @@ msgstr ""
 msgid "{selectedCount} items selected"
 msgstr ""
 
+msgid "#"
+msgstr ""
+
 msgid "1 item selected"
 msgstr ""
 
@@ -43,19 +46,25 @@ msgstr ""
 msgid "ACNH.Guide is a companion app for Animal Crossing: New Horizons. Track your critters, museum, villagers, turnips, and more."
 msgstr ""
 
-msgid "Add"
+#~ msgid "Add"
+#~ msgstr ""
+
+msgid "Add custom filter"
 msgstr ""
 
 msgid "Add item"
 msgstr ""
 
-msgid "Add note"
-msgstr ""
+#~ msgid "Add note"
+#~ msgstr ""
 
 msgid "Add to catalogue when donating"
 msgstr ""
 
 msgid "Ads hidden until"
+msgstr ""
+
+msgid "All"
 msgstr ""
 
 msgid "Allow more than 10 villagers"
@@ -64,16 +73,22 @@ msgstr ""
 msgid "Animal Crossing: New Horizons and all related content are © Nintendo. This app is not affiliated with or endorsed by Nintendo."
 msgstr ""
 
-#~ msgid "Any except rain"
-#~ msgstr ""
+msgid "Any"
+msgstr ""
 
-#~ msgid "Any weather"
-#~ msgstr ""
+msgid "Any except rain"
+msgstr ""
+
+msgid "Any weather"
+msgstr ""
 
 msgid "App language"
 msgstr ""
 
 msgid "App updates"
+msgstr ""
+
+msgid "Appearance"
 msgstr ""
 
 msgid "Applying backup…"
@@ -88,7 +103,19 @@ msgstr ""
 msgid "Art"
 msgstr ""
 
+msgid "Art guide"
+msgstr ""
+
+msgid "Artist"
+msgstr ""
+
 msgid "Artwork"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Assumes all flowers are watered. Outcomes use this app’s breeding table; pairs not listed show as unknown. Flower colors can hide different genes—pick the variant that matches your plants (seed, hybrid, etc.)."
 msgstr ""
 
 msgid "Attribution"
@@ -100,7 +127,22 @@ msgstr ""
 msgid "Aurora borealis"
 msgstr ""
 
+msgid "Auto"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available in month"
+msgstr ""
+
+msgid "Available now"
+msgstr ""
+
 msgid "Available version"
+msgstr ""
+
+msgid "Back to Guides"
 msgstr ""
 
 msgid "Back to settings"
@@ -130,6 +172,12 @@ msgstr ""
 msgid "Bottoms"
 msgstr ""
 
+#~ msgid "breeding combinations"
+#~ msgstr ""
+
+msgid "Breeding combinations"
+msgstr ""
+
 msgid "Build"
 msgstr ""
 
@@ -139,10 +187,19 @@ msgstr ""
 msgid "Buy price"
 msgstr ""
 
+msgid "Buy price range"
+msgstr ""
+
 msgid "Calendar"
 msgstr ""
 
 msgid "Cancel"
+msgstr ""
+
+#~ msgid "Card"
+#~ msgstr ""
+
+msgid "Cards"
 msgstr ""
 
 msgid "Catalog {selectedCount} Items"
@@ -154,7 +211,25 @@ msgstr ""
 msgid "Cataloguing…"
 msgstr ""
 
+msgid "categories"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Caught"
+msgstr ""
+
+msgid "Caught only"
+msgstr ""
+
 msgid "Ceiling Decor"
+msgstr ""
+
+msgid "Chance"
+msgstr ""
+
+msgid "Change to"
 msgstr ""
 
 msgid "Check for updates"
@@ -169,10 +244,25 @@ msgstr ""
 msgid "Checklist name"
 msgstr ""
 
+msgid "Choose a guide to view tips and reference information."
+msgstr ""
+
 msgid "Choose a plan to support the app."
 msgstr ""
 
+msgid "Choose variant"
+msgstr ""
+
+msgid "Clear grid"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
 msgid "Cloud storage path error. Try again."
+msgstr ""
+
+msgid "Collection progress"
 msgstr ""
 
 msgid "Contact"
@@ -186,6 +276,9 @@ msgstr ""
 
 #~ msgid "Copy"
 #~ msgstr ""
+
+msgid "Copy email"
+msgstr ""
 
 msgid "Copy failed"
 msgstr ""
@@ -208,10 +301,16 @@ msgstr ""
 msgid "Could not write backup to iCloud."
 msgstr ""
 
+msgid "Creator ID"
+msgstr ""
+
 msgid "Critters"
 msgstr ""
 
 msgid "Current version"
+msgstr ""
+
+msgid "Custom"
 msgstr ""
 
 msgid "Daily Checklist"
@@ -221,6 +320,9 @@ msgid "Daily note"
 msgstr ""
 
 msgid "Danger zone"
+msgstr ""
+
+msgid "Dark"
 msgstr ""
 
 msgid "Data"
@@ -235,7 +337,13 @@ msgstr ""
 msgid "Database not ready."
 msgstr ""
 
+msgid "Day must be between 1 and {maxDay} for this month."
+msgstr ""
+
 msgid "Debug"
+msgstr ""
+
+msgid "Debug: blank tab mode"
 msgstr ""
 
 msgid "Dec"
@@ -250,23 +358,60 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
+#. placeholder {0}: f.name
+msgid "Delete \"{0}\"? This cannot be undone."
+msgstr ""
+
 msgid "Delete \"{listName}\"? This cannot be undone."
 msgstr ""
 
 msgid "Delete everything"
 msgstr ""
 
+msgid "Delete filter?"
+msgstr ""
+
 msgid "Delete list?"
 msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Destinations that don’t fit on the bottom bar. Open one to jump there from the More tab."
+msgstr ""
+
+#~ msgid "Detach inactive tabs"
+#~ msgstr ""
 
 msgid "Details"
 msgstr ""
 
-#~ msgid "Disguised on shoreline"
-#~ msgstr ""
+msgid "Disguised on shoreline"
+msgstr ""
 
-#~ msgid "Disguised under trees"
-#~ msgstr ""
+msgid "Disguised under trees"
+msgstr ""
+
+msgid "DIY only"
+msgstr ""
+
+msgid "DIY recipes learned"
+msgstr ""
+
+msgid "Do you want to save your changes before leaving?"
+msgstr ""
+
+msgid "Don't save"
+msgstr ""
+
+msgid "Donated"
+msgstr ""
+
+msgid "Donated only"
+msgstr ""
 
 msgid "Done"
 msgstr ""
@@ -286,19 +431,32 @@ msgstr ""
 msgid "Downloading…"
 msgstr ""
 
+msgid "Dream address"
+msgstr ""
+
 msgid "Dress-Up"
 msgstr ""
 
 msgid "e.g. 100"
 msgstr ""
 
+msgid "e.g. 1000"
+msgstr ""
+
 msgid "e.g. 1234567890"
 msgstr ""
 
-#~ msgid "Easy"
-#~ msgstr ""
+msgid "Easy"
+msgstr ""
 
 msgid "Edit"
+msgstr ""
+
+#. placeholder {0}: preset.name
+msgid "Edit {0}"
+msgstr ""
+
+msgid "Edit filter"
 msgstr ""
 
 msgid "Edit List"
@@ -307,10 +465,28 @@ msgstr ""
 msgid "Edit localization"
 msgstr ""
 
+msgid "Edit or delete this custom filter?"
+msgstr ""
+
+msgid "Edit tab bar order"
+msgstr ""
+
+msgid "Efficient layout"
+msgstr ""
+
 msgid "Email (for backup lookup)"
 msgstr ""
 
+msgid "Email address"
+msgstr ""
+
 msgid "Embedded build"
+msgstr ""
+
+msgid "Empty plot"
+msgstr ""
+
+msgid "Enable it under Debug → Feature flags if you have access to the debug menu."
 msgstr ""
 
 #~ msgid "Enter a backup UUID"
@@ -325,19 +501,34 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
+msgid "Everything is on your tab bar."
+msgstr ""
+
 msgid "Exchange Currency"
 msgstr ""
 
 msgid "Exchange Price"
 msgstr ""
 
+msgid "Experimental full width tabs"
+msgstr ""
+
 msgid "Failed to load events"
+msgstr ""
+
+msgid "Fake"
 msgstr ""
 
 msgid "Fashion"
 msgstr ""
 
+msgid "Favorite villagers"
+msgstr ""
+
 msgid "Favorites"
+msgstr ""
+
+msgid "Feature flags"
 msgstr ""
 
 msgid "Feb"
@@ -347,6 +538,16 @@ msgid "Fencing"
 msgstr ""
 
 msgid "Fetching backup…"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter name"
+msgstr ""
+
+#. placeholder {0}: f.name
+msgid "Filter: {0}"
 msgstr ""
 
 msgid "Find items"
@@ -364,35 +565,59 @@ msgstr ""
 msgid "Floors"
 msgstr ""
 
+msgid "Flower Breeding Guide"
+msgstr ""
+
+msgid "Flower breeding tracker"
+msgstr ""
+
+msgid "Flower type not found."
+msgstr ""
+
+msgid "Flowers"
+msgstr ""
+
 msgid "Fluctuating"
 msgstr ""
 
-#~ msgid "Flying"
-#~ msgstr ""
+msgid "Flying"
+msgstr ""
 
-#~ msgid "Flying near blue/purple/black flowers"
-#~ msgstr ""
+msgid "Flying near blue/purple/black flowers"
+msgstr ""
 
-#~ msgid "Flying near flowers"
-#~ msgstr ""
+msgid "Flying near flowers"
+msgstr ""
 
-#~ msgid "Flying near light sources"
-#~ msgstr ""
+msgid "Flying near light sources"
+msgstr ""
 
-#~ msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
-#~ msgstr ""
+msgid "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips"
+msgstr ""
 
-#~ msgid "Flying near water"
-#~ msgstr ""
+msgid "Flying near water"
+msgstr ""
+
+msgid "Forecast"
+msgstr ""
+
+msgid "Forecasts use last week's turnip pattern and assume this isn't your first time buying turnips. Show options below if you need to change either."
+msgstr ""
 
 msgid "Fossils"
 msgstr ""
 
+#~ msgid "Freeze inactive tabs"
+#~ msgstr ""
+
 msgid "Fri"
 msgstr ""
 
-#~ msgid "From hitting rocks"
-#~ msgstr ""
+msgid "From hitting rocks"
+msgstr ""
+
+msgid "Full-width tab bar and a More screen for overflow. Reorder tabs from the More tab."
+msgstr ""
 
 msgid "Furnitures"
 msgstr ""
@@ -404,6 +629,9 @@ msgid "Game time"
 msgstr ""
 
 msgid "Gender"
+msgstr ""
+
+msgid "Genuine"
 msgstr ""
 
 msgid "Go back"
@@ -421,22 +649,61 @@ msgstr ""
 msgid "Grid"
 msgstr ""
 
-#~ msgid "Group item variants"
-#~ msgstr ""
+msgid "Group item variants"
+msgstr ""
+
+msgid "Grouped by default. Turn off to show each variant as a separate row."
+msgstr ""
+
+msgid "Guaranteed minimum"
+msgstr ""
+
+msgid "Guides"
+msgstr ""
 
 msgid "Gyroid"
 msgstr ""
 
-#~ msgid "Hard"
-#~ msgstr ""
+msgid "Hard"
+msgstr ""
 
 msgid "Headwear"
+msgstr ""
+
+msgid "Hemisphere"
+msgstr ""
+
+msgid "Hide by state"
+msgstr ""
+
+msgid "Hide catalogued"
+msgstr ""
+
+msgid "Hide donated"
+msgstr ""
+
+msgid "Hide options"
+msgstr ""
+
+msgid "Hide pattern and first-time buyer options"
+msgstr ""
+
+msgid "Hide unlocked"
 msgstr ""
 
 msgid "Hobby"
 msgstr ""
 
 msgid "Home"
+msgstr ""
+
+msgid "Home modules"
+msgstr ""
+
+msgid "Hour must be between 0 and 23."
+msgstr ""
+
+msgid "House"
 msgstr ""
 
 msgid "Housewares"
@@ -449,6 +716,9 @@ msgid "iCloud is not available. Sign in to iCloud in Settings."
 msgstr ""
 
 msgid "iCloud sign-in required. Check Settings."
+msgstr ""
+
+msgid "Icon"
 msgstr ""
 
 msgid "Icon URL"
@@ -493,13 +763,31 @@ msgstr ""
 msgid "In-game islands have up to 10 residents. Turn on to track more (e.g. multiple islands or wishlists)."
 msgstr ""
 
+msgid "Includes pairings not in this app’s data ({modalUnknown})."
+msgstr ""
+
 msgid "Insects"
 msgstr ""
 
 msgid "Interior Structures"
 msgstr ""
 
-msgid "Island Name"
+msgid "Island"
+msgstr ""
+
+msgid "Island Guide"
+msgstr ""
+
+msgid "Island name"
+msgstr ""
+
+#~ msgid "Island Name"
+#~ msgstr ""
+
+msgid "Island not found."
+msgstr ""
+
+msgid "Island villagers"
 msgstr ""
 
 msgid "Items"
@@ -529,8 +817,8 @@ msgstr ""
 msgid "Language / localization"
 msgstr ""
 
-#~ msgid "Large"
-#~ msgstr ""
+msgid "Large"
+msgstr ""
 
 msgid "Large spike"
 msgstr ""
@@ -553,6 +841,9 @@ msgstr ""
 msgid "License"
 msgstr ""
 
+msgid "Light"
+msgstr ""
+
 msgid "lines"
 msgstr ""
 
@@ -568,7 +859,19 @@ msgstr ""
 msgid "Loading…"
 msgstr ""
 
-#~ msgid "Long"
+msgid "Long"
+msgstr ""
+
+msgid "Long-press a filter to edit or delete. When viewing a filter's list, tap Edit in the top bar."
+msgstr ""
+
+msgid "Long-press a row to drag. Earlier items are more likely to stay visible on narrow screens. Home and More always use bar slots."
+msgstr ""
+
+msgid "Long-press the drag handle to reorder"
+msgstr ""
+
+#~ msgid "Main tabs"
 #~ msgstr ""
 
 msgid "Make sure your Switch and this app use the same language/localization."
@@ -580,11 +883,14 @@ msgstr ""
 msgid "Mar"
 msgstr ""
 
+msgid "Max"
+msgstr ""
+
 msgid "May"
 msgstr ""
 
-#~ msgid "Medium"
-#~ msgstr ""
+msgid "Medium"
+msgstr ""
 
 msgid "MeteoNook on GitHub"
 msgstr ""
@@ -619,13 +925,28 @@ msgstr ""
 msgid "Migration report copied to clipboard. You can paste and send it to the developer."
 msgstr ""
 
+msgid "Min"
+msgstr ""
+
+msgid "Minimum sell price"
+msgstr ""
+
+msgid "Minute must be between 0 and 59."
+msgstr ""
+
 msgid "Miscellaneous"
 msgstr ""
 
 msgid "Mon"
 msgstr ""
 
+msgid "Month must be between 1 and 12."
+msgstr ""
+
 msgid "More"
+msgstr ""
+
+msgid "More menu"
 msgstr ""
 
 msgid "Museum"
@@ -634,7 +955,28 @@ msgstr ""
 msgid "Museum & catalogue"
 msgstr ""
 
+msgid "Museum donations"
+msgstr ""
+
 msgid "Music"
+msgstr ""
+
+msgid "My ACNH Guide profile"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Native fruit"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New note"
+msgstr ""
+
+msgid "New version available — tap to restart"
 msgstr ""
 
 msgid "Next events"
@@ -650,6 +992,12 @@ msgid "No backup found in iCloud."
 msgstr ""
 
 msgid "No events this week"
+msgstr ""
+
+msgid "No fake counterpart"
+msgstr ""
+
+msgid "No guide image available for this piece."
 msgstr ""
 
 msgid "No island selected. Choose or create an island to edit your player and island info."
@@ -668,6 +1016,9 @@ msgid "Northern Hemisphere"
 msgstr ""
 
 msgid "Not found:"
+msgstr ""
+
+msgid "Not on tab bar"
 msgstr ""
 
 msgid "Note"
@@ -691,41 +1042,53 @@ msgstr ""
 #~ msgid "Old state we're migrating from:"
 #~ msgstr ""
 
-#~ msgid "On beach rocks"
+msgid "On beach rocks"
+msgstr ""
+
+#~ msgid "On by default. Pauses off-screen tab trees to save work when switching. Turn off if something stops updating until you revisit a tab."
 #~ msgstr ""
 
-#~ msgid "On flowers"
+#~ msgid "On by default. Unmounts native views for tabs you are not on, which can make switching faster. Turn off if a tab misbehaves when returning to it."
 #~ msgstr ""
 
-#~ msgid "On hardwood/cedar trees"
-#~ msgstr ""
+msgid "On flowers"
+msgstr ""
 
-#~ msgid "On palm trees"
-#~ msgstr ""
+msgid "On hardwood/cedar trees"
+msgstr ""
 
-#~ msgid "On rivers/ponds"
-#~ msgstr ""
+msgid "On main tab bar"
+msgstr ""
 
-#~ msgid "On rocks/bushes"
-#~ msgstr ""
+msgid "On palm trees"
+msgstr ""
 
-#~ msgid "On rotten turnips or candy"
-#~ msgstr ""
+msgid "On rivers/ponds"
+msgstr ""
 
-#~ msgid "On the ground"
-#~ msgstr ""
+msgid "On rocks/bushes"
+msgstr ""
 
-#~ msgid "On tree stumps"
-#~ msgstr ""
+msgid "On rotten turnips or candy"
+msgstr ""
 
-#~ msgid "On trees (any kind)"
-#~ msgstr ""
+msgid "On the ground"
+msgstr ""
 
-#~ msgid "On villagers"
-#~ msgstr ""
+msgid "On tree stumps"
+msgstr ""
 
-#~ msgid "On white flowers"
-#~ msgstr ""
+msgid "On trees (any kind)"
+msgstr ""
+
+msgid "On villagers"
+msgstr ""
+
+msgid "On white flowers"
+msgstr ""
+
+msgid "Open breeding grid"
+msgstr ""
 
 msgid "Open MeteoNook (wuffs.org/acnh/weather)"
 msgstr ""
@@ -742,6 +1105,9 @@ msgstr ""
 #~ msgid "Parsing backup…"
 #~ msgstr ""
 
+msgid "Passport"
+msgstr ""
+
 msgid "Paste a list of item names below, one per line. Matching uses the app's current language. We'll find those items and let you mark them all as catalogued."
 msgstr ""
 
@@ -754,25 +1120,55 @@ msgstr ""
 msgid "paste items here"
 msgstr ""
 
+msgid "Pattern chances"
+msgstr ""
+
+msgid "Performance testing is hiding main tab content. Use this to turn it off."
+msgstr ""
+
+msgid "Permission needed"
+msgstr ""
+
 msgid "Personality"
 msgstr ""
 
 msgid "Photos"
 msgstr ""
 
-#~ msgid "Pier"
-#~ msgstr ""
-
-msgid "Player Name"
+msgid "Pier"
 msgstr ""
 
-#~ msgid "Pond"
+msgid "Pinned: shown on the bottom tab bar (along with Home and More)."
+msgstr ""
+
+msgid "Place flower"
+msgstr ""
+
+msgid "Place flowers next to this tile to see predictions."
+msgstr ""
+
+#~ msgid "Player Name"
 #~ msgstr ""
+
+msgid "Please allow photo library access in Settings to change your profile picture."
+msgstr ""
+
+msgid "Pond"
+msgstr ""
+
+msgid "Possible offspring"
+msgstr ""
 
 msgid "Posters"
 msgstr ""
 
+msgid "Potential maximum"
+msgstr ""
+
 msgid "Preferred colors"
+msgstr ""
+
+msgid "Preferred gifts"
 msgstr ""
 
 msgid "Preferred style"
@@ -784,17 +1180,20 @@ msgstr ""
 msgid "Previous week's pattern"
 msgstr ""
 
+msgid "Price range (all matching weeks)"
+msgstr ""
+
 msgid "Privacy"
 msgstr ""
 
 msgid "Profile"
 msgstr ""
 
-#~ msgid "Pushing snowballs"
-#~ msgstr ""
+msgid "Pushing snowballs"
+msgstr ""
 
-#~ msgid "Rain only"
-#~ msgstr ""
+msgid "Rain only"
+msgstr ""
 
 msgid "Rainbow at {time}"
 msgstr ""
@@ -802,10 +1201,25 @@ msgstr ""
 msgid "Reactions"
 msgstr ""
 
+msgid "Real"
+msgstr ""
+
+msgid "Real title"
+msgstr ""
+
 msgid "Recipe"
 msgstr ""
 
 msgid "Recipes"
+msgstr ""
+
+msgid "Remove flower"
+msgstr ""
+
+msgid "Report a bug or suggest a feature — I read every message."
+msgstr ""
+
+msgid "Required"
 msgstr ""
 
 msgid "Reset app data"
@@ -816,6 +1230,9 @@ msgstr ""
 
 #~ msgid "Reset migration done (dev)"
 #~ msgstr ""
+
+msgid "Reset tab order"
+msgstr ""
 
 msgid "Reset will delete all your app data. You will need to set up your island again."
 msgstr ""
@@ -862,14 +1279,17 @@ msgstr ""
 msgid "Retry"
 msgstr ""
 
-#~ msgid "River"
-#~ msgstr ""
+msgid "River"
+msgstr ""
 
-#~ msgid "River (clifftop)"
-#~ msgstr ""
+msgid "River (clifftop)"
+msgstr ""
 
-#~ msgid "River (mouth)"
-#~ msgstr ""
+msgid "River (mouth)"
+msgstr ""
+
+msgid "Rocks"
+msgstr ""
 
 msgid "Rugs"
 msgstr ""
@@ -883,16 +1303,22 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#~ msgid "Sea"
-#~ msgstr ""
+msgid "Sea"
+msgstr ""
 
-#~ msgid "Sea (rainy days)"
-#~ msgstr ""
+msgid "Sea (rainy days)"
+msgstr ""
 
 msgid "Sea Creatures"
 msgstr ""
 
 msgid "Search"
+msgstr ""
+
+#~ msgid "Search flowers…"
+#~ msgstr ""
+
+msgid "Search islands…"
 msgstr ""
 
 msgid "Season/Event"
@@ -901,13 +1327,32 @@ msgstr ""
 msgid "Season/Event Exclusive"
 msgstr ""
 
+msgid "See all"
+msgstr ""
+
 msgid "Select an island in the app to set a weather seed."
+msgstr ""
+
+msgid "Select at least one category to include."
+msgstr ""
+
+msgid "Select categories…"
 msgstr ""
 
 msgid "Select or create island"
 msgstr ""
 
 msgid "Sell"
+msgstr ""
+
+msgid "Sell price"
+msgstr ""
+
+#. placeholder {0}: minSellPrice.trim()
+msgid "Sell price ≥ {0}"
+msgstr ""
+
+msgid "Sell price range"
 msgstr ""
 
 msgid "Send feedback"
@@ -928,13 +1373,37 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#~ msgid "Shaking trees"
-#~ msgstr ""
+msgid "Shaking trees"
+msgstr ""
 
-#~ msgid "Shaking trees (hardwood or cedar only)"
-#~ msgstr ""
+msgid "Shaking trees (hardwood or cedar only)"
+msgstr ""
+
+msgid "Share profile image"
+msgstr ""
+
+msgid "Sharing is not available on this device."
+msgstr ""
+
+msgid "Sharing unavailable"
+msgstr ""
 
 msgid "Shoes"
+msgstr ""
+
+msgid "Show changelog"
+msgstr ""
+
+msgid "Show Fake"
+msgstr ""
+
+msgid "Show only catalogued"
+msgstr ""
+
+msgid "Show pattern and first-time buyer options"
+msgstr ""
+
+msgid "Show Real"
 msgstr ""
 
 msgid "Sign in with Google"
@@ -958,8 +1427,11 @@ msgstr ""
 msgid "Signed in"
 msgstr ""
 
-#~ msgid "Small"
-#~ msgstr ""
+msgid "Size"
+msgstr ""
+
+msgid "Small"
+msgstr ""
 
 msgid "Small spike"
 msgstr ""
@@ -968,6 +1440,15 @@ msgid "Socks"
 msgstr ""
 
 msgid "Some of your current data may be overridden: island details (name, hemisphere, fruit), museum donation status, and current villagers will be replaced by the backup. Imported list items are added to your existing Catalogued, Favorites, and Unlocked recipes lists."
+msgstr ""
+
+msgid "Songs registered"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Sort by"
 msgstr ""
 
 msgid "Source"
@@ -994,7 +1475,28 @@ msgstr ""
 msgid "Support the app and enjoy an ad-free experience. Same unlock, choose your price."
 msgstr ""
 
-msgid "Tap Add to create your first note."
+msgid "Switch Friend Code"
+msgstr ""
+
+msgid "Tab bar order"
+msgstr ""
+
+#~ msgid "Tap Add to create your first note."
+#~ msgstr ""
+
+msgid "Tap image or use buttons to toggle real vs fake."
+msgstr ""
+
+msgid "Tap New to create your first note."
+msgstr ""
+
+msgid "Tap to change"
+msgstr ""
+
+msgid "Tap to hide"
+msgstr ""
+
+msgid "Tap to reveal"
 msgstr ""
 
 msgid "Thank you"
@@ -1003,13 +1505,25 @@ msgstr ""
 #~ msgid "Thank you for your support! You can leave a tip if you’d like."
 #~ msgstr ""
 
-msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
+msgid "Thank you for your support! You can leave a tip if you'd like. Tips go towards the development of the app... and feeding my cats."
 msgstr ""
+
+#~ msgid "Thank you for your support! You can leave a tip if you’d like. Tips go towards the development of the app... and feeding my cats."
+#~ msgstr ""
 
 msgid "Thanks for your support! You have premium access."
 msgstr ""
 
+msgid "The flower breeding tracker is not available."
+msgstr ""
+
 msgid "The following data from your previous app could not be matched to this app and was not imported. You can continue using the app; the rest of your data was migrated."
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "This filter will be permanently deleted. This cannot be undone."
 msgstr ""
 
 msgid "This is what we found. Confirm that you want to mark all these items as catalogued."
@@ -1039,16 +1553,37 @@ msgstr ""
 msgid "Tops"
 msgstr ""
 
+msgid "Total donated"
+msgstr ""
+
 msgid "Total items:"
 msgstr ""
 
 msgid "Translations for item and critter data also come from community datamining."
 msgstr ""
 
+msgid "Trees"
+msgstr ""
+
 msgid "Tue"
 msgstr ""
 
+msgid "Turn off blank tab mode"
+msgstr ""
+
+msgid "Turn on “Responsive main tab bar” in Debug → Feature flags to customize tab order and see destinations that don’t fit on the bar here."
+msgstr ""
+
+msgid "Turn on “Responsive main tab bar” in Debug → Feature flags to use a customizable bottom tab bar on this device."
+msgstr ""
+
 msgid "Turnips"
+msgstr ""
+
+msgid "Umbrellas"
+msgstr ""
+
+msgid "Uncaught only"
 msgstr ""
 
 msgid "Uncheck multiple variants"
@@ -1057,13 +1592,19 @@ msgstr ""
 msgid "Unchecked items with multiple variants:"
 msgstr ""
 
-#~ msgid "Underground (dig where noise is loudest)"
-#~ msgstr ""
+msgid "Underground (dig where noise is loudest)"
+msgstr ""
+
+msgid "Undonated only"
+msgstr ""
 
 msgid "Unique items (excluding variant duplicates):"
 msgstr ""
 
 msgid "Unknown"
+msgstr ""
+
+msgid "Unsaved changes"
 msgstr ""
 
 msgid "Untitled"
@@ -1084,20 +1625,29 @@ msgstr ""
 msgid "Updated"
 msgstr ""
 
+msgid "Updating forecast…"
+msgstr ""
+
 msgid "Use device time"
+msgstr ""
+
+msgid "Use light or dark mode, or match your device."
+msgstr ""
+
+msgid "Using:"
 msgstr ""
 
 msgid "Version"
 msgstr ""
 
-#~ msgid "Very Easy"
-#~ msgstr ""
+msgid "Very Easy"
+msgstr ""
 
-#~ msgid "Very hard"
-#~ msgstr ""
+msgid "Very hard"
+msgstr ""
 
-#~ msgid "Very Hard"
-#~ msgstr ""
+msgid "Very Hard"
+msgstr ""
 
 msgid "View full calendar"
 msgstr ""
@@ -1138,6 +1688,9 @@ msgstr ""
 msgid "Wed"
 msgstr ""
 
+msgid "Wetsuits"
+msgstr ""
+
 msgid "What date does your game show?"
 msgstr ""
 
@@ -1150,19 +1703,28 @@ msgstr ""
 #~ msgid "When on, items with multiple colors or variants (e.g. furniture) show as one row with a variant selector. When off, each variant is a separate row."
 #~ msgstr ""
 
-#~ msgid "X-Large"
-#~ msgstr ""
+msgid "X-Large"
+msgstr ""
 
-#~ msgid "X-Large w/Fin"
-#~ msgstr ""
+msgid "X-Large w/Fin"
+msgstr ""
 
-#~ msgid "X-Small"
-#~ msgstr ""
+msgid "X-Small"
+msgstr ""
 
-#~ msgid "XX-Large"
-#~ msgstr ""
+msgid "XX-Large"
+msgstr ""
+
+msgid "Year must be between 2020 and 2030."
+msgstr ""
 
 msgid "Yes"
+msgstr ""
+
+#~ msgid "You can also reach me easily by email (tap the envelope or copy below)."
+#~ msgstr ""
+
+msgid "You can also reach me easily by email (tap the envelope or copy below). When reporting a bug, please include the app version and your device OS (for example iOS 18 or Android 15)."
 msgstr ""
 
 msgid "Your Island's turnip Info"
